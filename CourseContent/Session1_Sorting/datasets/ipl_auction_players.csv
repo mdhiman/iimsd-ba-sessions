@@ -1,0 +1,201 @@
+player_name,strike_rate,batting_avg,recent_form_score,injury_risk,base_price,role
+Virat Kohli,155.06,48.7,57.85,0.5,150,middle_order
+Rohit Sharma,128.97,23.45,33.67,0.2,50,allrounder
+Jasprit Bumrah,190.09,25.84,71.28,0.41,75,finisher
+Ravindra Jadeja,139.74,38.59,27.85,0.44,200,middle_order
+Hardik Pandya,142.18,32.99,52.56,0.61,75,middle_order
+Shubman Gill,139,29.96,46.13,0.32,100,allrounder
+Rishabh Pant,94.39,15.75,89.68,0.06,200,bowler
+KL Rahul,164.48,47.09,82.45,0.16,100,finisher
+Suryakumar Yadav,131.48,29.32,33.74,0.24,100,allrounder
+Mohammed Siraj,135.64,33,87.48,0.6,50,allrounder
+Jos Buttler,124.75,29.32,56.7,0.15,75,opener
+Ben Stokes,146.59,47.81,59.31,0.4,150,allrounder
+Pat Cummins,112.57,14.39,39.81,0.11,150,bowler
+Mitchell Starc,153.75,24.89,25.47,0.64,200,finisher
+Glenn Maxwell,120.38,19.42,25.27,0.39,75,bowler
+David Warner,125.39,36.67,46.89,0.33,200,opener
+Steve Smith,161.94,28.28,81.23,0.24,200,middle_order
+Kane Williamson,148.35,50.64,30.15,0.26,75,finisher
+Trent Boult,157.78,53.59,30.38,0.16,100,middle_order
+Rashid Khan,139.46,37.23,39.58,0.4,200,allrounder
+Quinton de Kock,123.98,41.55,51.29,0.02,50,opener
+Kagiso Rabada,155.45,52.99,28.13,0.61,150,allrounder
+Faf du Plessis,114.07,17.3,36.23,0.52,100,bowler
+AB de Villiers,165.41,28.3,86.29,0.52,200,opener
+Babar Azam,119.36,37.23,66.01,0.14,150,opener
+Shaheen Afridi,163.92,37.12,92.15,0.04,150,finisher
+Shakib Al Hasan,146.68,26.67,30.25,0.02,150,allrounder
+Mustafizur Rahman,128.11,15.72,33.57,0.09,75,bowler
+Wanindu Hasaranga,123.81,54.88,33.93,0.27,150,allrounder
+Kusal Mendis,147.92,34.85,81.5,0.22,100,finisher
+Devon Conway,160.16,32.07,41.87,0.53,200,finisher
+Shimron Hetmyer,194.03,31.78,35.67,0.07,200,finisher
+Andre Russell,158.65,20.62,42.87,0.5,50,allrounder
+Nicholas Pooran,141.44,47.38,86.24,0.41,50,finisher
+Kieron Pollard,148.9,48.91,44.47,0.1,50,finisher
+Dwayne Bravo,136.92,23.91,60.93,0.43,75,allrounder
+Chris Gayle,115.99,25.04,76.73,0.48,200,middle_order
+Jason Holder,116.44,49.81,32.77,0.43,100,opener
+Sunil Narine,146.41,25.01,21.44,0.51,75,middle_order
+Dinesh Karthik,161.9,33.1,71.53,0.26,50,allrounder
+Prithvi Shaw,159.06,39.66,53,0.23,75,middle_order
+Shreyas Iyer,166.52,20.54,79.81,0.38,150,finisher
+Ishan Kishan,150.25,23.44,92.15,0.49,50,opener
+Sanju Samson,185.24,27.31,84.5,0.11,50,finisher
+Ruturaj Gaikwad,149.51,23.42,60.91,0.36,150,middle_order
+Yashasvi Jaiswal,114.29,12.22,74.99,0.47,150,bowler
+Tilak Varma,114.59,15.61,48.52,0.13,75,bowler
+Rinku Singh,140.45,31.44,24.57,0.36,75,finisher
+Rajat Patidar,150.9,41,89,0.58,75,opener
+Abhishek Sharma,167.95,24.02,66.49,0.59,150,opener
+Virat Kohli Jr,162.28,49.38,79.65,0.58,200,middle_order
+Rohit Sharma Jr,97.09,19.33,69.03,0.08,150,bowler
+Jasprit Bumrah Jr,112.98,19.76,41.96,0.4,75,bowler
+Ravindra Jadeja Jr,122.58,54.87,57.57,0.47,200,allrounder
+Hardik Pandya Jr,117.72,15.71,20.44,0.27,200,bowler
+Shubman Gill Jr,115.86,22.93,47.38,0.05,50,middle_order
+Rishabh Pant Jr,159.12,53.5,81.48,0.17,100,middle_order
+KL Rahul Jr,131.67,17.85,84.37,0.23,100,bowler
+Suryakumar Yadav Jr,150,47.89,93.51,0.08,100,opener
+Mohammed Siraj Jr,145.06,22.98,42.14,0.07,75,finisher
+Jos Buttler Jr,182.83,21.75,34.86,0.37,200,finisher
+Ben Stokes Jr,127.56,49.78,29.91,0.09,75,allrounder
+Pat Cummins Jr,105.37,11.97,40.55,0.19,150,bowler
+Mitchell Starc Jr,153.4,52.59,88.68,0.33,100,finisher
+Glenn Maxwell Jr,130.01,27.23,59.99,0.1,100,allrounder
+David Warner Jr,128.46,25.37,48.35,0.56,75,opener
+Steve Smith Jr,159.51,42.77,29.1,0.04,50,finisher
+Kane Williamson Jr,146.93,45.58,56.41,0.33,100,opener
+Trent Boult Jr,140.82,51.81,33.69,0.58,200,middle_order
+Rashid Khan Jr,119.95,38.43,64.82,0.34,100,allrounder
+Quinton de Kock Jr,136.19,47.62,29.9,0.3,100,allrounder
+Kagiso Rabada Jr,162.92,45.73,92.25,0.28,150,opener
+Faf du Plessis Jr,123.63,46.25,23.69,0.3,75,opener
+AB de Villiers Jr,136.86,50.65,66.98,0.39,50,allrounder
+Babar Azam Jr,127.8,12.36,93.71,0.6,75,bowler
+Shaheen Afridi Jr,163.11,29.71,92.55,0.46,50,finisher
+Shakib Al Hasan Jr,151.46,45.27,41.82,0.32,100,finisher
+Mustafizur Rahman Jr,121.39,32.56,23.76,0.07,50,opener
+Wanindu Hasaranga Jr,129.4,51.18,74.65,0.04,200,middle_order
+Kusal Mendis Jr,106.18,17.94,68.28,0.58,50,bowler
+Devon Conway Jr,159.06,42.64,54.99,0.23,50,allrounder
+Shimron Hetmyer Jr,147.5,54.83,37.57,0.09,150,middle_order
+Andre Russell Jr,148.68,24.38,80.69,0.62,150,opener
+Nicholas Pooran Jr,107.09,18.6,56.7,0.57,100,bowler
+Kieron Pollard Jr,144.4,49.63,71.94,0.09,50,middle_order
+Dwayne Bravo Jr,125.09,44.79,72.03,0.52,50,middle_order
+Chris Gayle Jr,100.3,16.25,37.59,0.19,200,bowler
+Jason Holder Jr,168.01,22.35,46.82,0.53,200,middle_order
+Sunil Narine Jr,119.05,18.7,41.18,0.41,75,bowler
+Dinesh Karthik Jr,131.82,53.4,29.25,0.59,50,opener
+Prithvi Shaw Jr,94.03,10.22,44.58,0.04,150,bowler
+Shreyas Iyer Jr,188.86,53.94,20.25,0.34,150,finisher
+Ishan Kishan Jr,109.43,17.36,89.55,0.29,150,bowler
+Sanju Samson Jr,180.89,32.28,49.19,0.57,100,finisher
+Ruturaj Gaikwad Jr,144.66,33.41,49.4,0.53,50,allrounder
+Yashasvi Jaiswal Jr,122.13,52.02,49.61,0.29,150,middle_order
+Tilak Varma Jr,140.98,47.73,38.23,0.37,100,finisher
+Rinku Singh Jr,140.4,32.37,39.02,0.16,100,allrounder
+Rajat Patidar Jr,111.51,10.41,69.87,0.65,150,bowler
+Abhishek Sharma Jr,122.13,22.47,58.21,0.34,75,opener
+Virat Kohli Jr,141.76,29.82,34.1,0.48,50,opener
+Rohit Sharma Jr,116.06,46.65,22.19,0.51,200,allrounder
+Jasprit Bumrah Jr,133.27,20.78,23.99,0.1,50,opener
+Ravindra Jadeja Jr,148.5,20.74,23,0.17,50,allrounder
+Hardik Pandya Jr,184.39,49.5,67.71,0.24,75,finisher
+Shubman Gill Jr,193.49,50.96,92.06,0.63,75,finisher
+Rishabh Pant Jr,152.51,24.19,34.33,0.65,200,opener
+KL Rahul Jr,121.25,39.54,69.28,0.4,200,opener
+Suryakumar Yadav Jr,174.5,52.61,68.05,0.15,200,finisher
+Mohammed Siraj Jr,121.14,28.15,81.51,0.21,50,allrounder
+Jos Buttler Jr,97.97,16.93,55.52,0.14,50,bowler
+Ben Stokes Jr,163.37,31.76,81.56,0.11,150,opener
+Pat Cummins Jr,143.49,50.02,88.86,0.42,150,allrounder
+Mitchell Starc Jr,125.73,16.96,64.69,0.64,150,bowler
+Glenn Maxwell Jr,145.46,34.12,42.44,0.48,150,allrounder
+David Warner Jr,134.64,42.37,92.52,0.06,150,opener
+Steve Smith Jr,143.22,30.43,21.6,0.34,100,finisher
+Kane Williamson Jr,158.61,48.56,78.73,0.16,75,finisher
+Trent Boult Jr,138.11,42.4,84.91,0.16,200,middle_order
+Rashid Khan Jr,134.78,33.31,90.2,0.13,100,opener
+Quinton de Kock Jr,119.25,35.56,27.65,0.59,75,allrounder
+Kagiso Rabada Jr,144.19,39.08,42.74,0.49,100,middle_order
+Faf du Plessis Jr,92.74,15.43,80.51,0.07,100,bowler
+AB de Villiers Jr,158.82,26.97,44.32,0.59,75,middle_order
+Babar Azam Jr,143.82,35.67,41.53,0.46,200,opener
+Shaheen Afridi Jr,124.28,51.16,85.92,0.58,50,opener
+Shakib Al Hasan Jr,91.37,20.2,78.51,0.14,75,bowler
+Mustafizur Rahman Jr,159.09,45.43,72.95,0.4,100,middle_order
+Wanindu Hasaranga Jr,158.65,47.53,70.18,0.23,100,allrounder
+Kusal Mendis Jr,120.48,32.44,25.24,0.64,150,allrounder
+Devon Conway Jr,137.47,53.32,44.37,0.27,200,opener
+Shimron Hetmyer Jr,142.76,28.25,58.49,0.31,75,allrounder
+Andre Russell Jr,156.37,37.8,92.73,0.59,75,middle_order
+Nicholas Pooran Jr,178.8,33.15,92.49,0.1,100,finisher
+Kieron Pollard Jr,148.27,24.92,69.03,0.35,50,allrounder
+Dwayne Bravo Jr,96.37,11.77,69.48,0.47,150,bowler
+Chris Gayle Jr,130.32,45.69,51.35,0.02,200,opener
+Jason Holder Jr,115.19,25.5,45.03,0.44,50,allrounder
+Sunil Narine Jr,113.79,17.66,32.88,0.5,100,bowler
+Dinesh Karthik Jr,177.29,29.99,23.99,0.13,150,finisher
+Prithvi Shaw Jr,118.34,12.62,93.92,0.18,150,bowler
+Shreyas Iyer Jr,118.44,23.68,59.32,0.44,50,opener
+Ishan Kishan Jr,135.91,49.17,73.78,0.07,200,allrounder
+Sanju Samson Jr,122.5,41.42,52.87,0.59,100,allrounder
+Ruturaj Gaikwad Jr,97.74,11.5,82.87,0.3,200,bowler
+Yashasvi Jaiswal Jr,154.5,28.76,55.52,0.4,150,allrounder
+Tilak Varma Jr,139.84,51.7,73.85,0.32,100,opener
+Rinku Singh Jr,117.25,49.48,24.61,0.04,100,opener
+Rajat Patidar Jr,94.72,17.68,81.26,0.1,200,bowler
+Abhishek Sharma Jr,185.39,31.02,41.89,0.54,75,finisher
+Virat Kohli Jr,158.47,46.15,55.59,0.17,200,opener
+Rohit Sharma Jr,123.55,33.84,94.41,0.15,150,middle_order
+Jasprit Bumrah Jr,131.03,33.93,72.86,0.22,50,opener
+Ravindra Jadeja Jr,115.54,10.98,60.56,0.45,100,bowler
+Hardik Pandya Jr,113.18,10.42,31.52,0.46,75,bowler
+Shubman Gill Jr,98.33,16.16,62.89,0.06,200,bowler
+Rishabh Pant Jr,153.48,51.91,54.14,0.09,200,opener
+KL Rahul Jr,175.5,32.8,79.49,0.6,75,finisher
+Suryakumar Yadav Jr,111.57,18.03,69.26,0.21,50,bowler
+Mohammed Siraj Jr,126.95,11.05,53.37,0.42,75,bowler
+Jos Buttler Jr,114.94,19.62,89.25,0.1,100,bowler
+Ben Stokes Jr,176.78,49.09,91.42,0.22,200,finisher
+Pat Cummins Jr,155.14,39.2,28.62,0.09,75,middle_order
+Mitchell Starc Jr,145.3,51.86,44.59,0.22,150,opener
+Glenn Maxwell Jr,161.1,21.81,22.17,0.13,50,middle_order
+David Warner Jr,105.56,18.17,70.91,0.15,150,bowler
+Steve Smith Jr,139.42,44.41,88.68,0.02,100,opener
+Kane Williamson Jr,167.33,39.23,69.5,0.17,100,allrounder
+Trent Boult Jr,141.89,51.13,34.74,0.52,200,middle_order
+Rashid Khan Jr,131.64,34.38,70.95,0.61,200,middle_order
+Quinton de Kock Jr,164.27,49.83,94.28,0.55,150,middle_order
+Kagiso Rabada Jr,122.54,43.99,52.24,0.55,75,opener
+Faf du Plessis Jr,186.01,44.17,36.02,0.3,75,finisher
+AB de Villiers Jr,156.12,41.26,33.51,0.3,75,allrounder
+Babar Azam Jr,112.2,11.5,60.3,0.16,75,bowler
+Shaheen Afridi Jr,122.79,34.6,55.97,0.58,150,allrounder
+Shakib Al Hasan Jr,162.79,22.12,73.76,0.24,200,allrounder
+Mustafizur Rahman Jr,90.38,14.05,58.58,0.49,150,bowler
+Wanindu Hasaranga Jr,167.67,25.81,59.61,0.21,150,allrounder
+Kusal Mendis Jr,125.93,23.01,84.24,0.21,50,opener
+Devon Conway Jr,150.14,31.91,28.11,0.35,50,finisher
+Shimron Hetmyer Jr,191.05,49.61,72.2,0.3,200,finisher
+Andre Russell Jr,129.62,20.03,89.13,0.44,100,middle_order
+Nicholas Pooran Jr,123.67,11.48,62.08,0.52,200,bowler
+Kieron Pollard Jr,102.51,18.55,67.08,0.4,150,bowler
+Dwayne Bravo Jr,143.25,49.22,22.19,0.32,50,allrounder
+Chris Gayle Jr,144.78,51.56,49.64,0.6,100,finisher
+Jason Holder Jr,95.42,11.21,72.6,0.15,100,bowler
+Sunil Narine Jr,130.26,46.09,81.45,0.3,100,opener
+Dinesh Karthik Jr,126.7,13.31,50.43,0.15,200,bowler
+Prithvi Shaw Jr,162.07,42.33,82.63,0.33,50,opener
+Shreyas Iyer Jr,179.6,54.83,66.46,0.36,200,finisher
+Ishan Kishan Jr,147.43,34.68,71.39,0.44,200,opener
+Sanju Samson Jr,119.86,45.38,47.87,0.02,150,allrounder
+Ruturaj Gaikwad Jr,144.78,34.43,39.36,0.17,50,finisher
+Yashasvi Jaiswal Jr,98.65,21.34,52.78,0.48,75,bowler
+Tilak Varma Jr,123.93,25.56,48.81,0.55,75,middle_order
+Rinku Singh Jr,156.27,50.35,25.62,0.47,50,opener
+Rajat Patidar Jr,111.37,17.25,68.27,0.3,200,bowler
+Abhishek Sharma Jr,132.26,14.64,45.13,0.14,150,bowler

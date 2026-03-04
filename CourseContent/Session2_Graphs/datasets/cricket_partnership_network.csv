@@ -1,0 +1,121 @@
+player_a,player_b,runs_together,matches_played,win_percentage,avg_partnership_sr
+Virat Kohli,Shubman Gill,447,31,70.86,162.28
+Virat Kohli,Suryakumar Yadav,944,42,74.34,172.06
+Virat Kohli,Rishabh Pant,435,43,72.15,163.31
+Virat Kohli,Faf du Plessis,1151,20,54.17,167.79
+Virat Kohli,Glenn Maxwell,403,40,44.29,125.73
+Virat Kohli,Nicholas Pooran,597,15,60.42,132.22
+Virat Kohli,Andre Russell,484,32,34.69,159.22
+Virat Kohli,Tilak Varma,671,39,45.47,110.95
+Virat Kohli,Ishan Kishan,702,3,73.81,172.98
+Rohit Sharma,KL Rahul,1166,44,34.05,134.62
+Rohit Sharma,Suryakumar Yadav,939,20,70.64,158.94
+Rohit Sharma,Ravindra Jadeja,749,17,74.53,138.5
+Rohit Sharma,Glenn Maxwell,1062,8,50.06,126.23
+Rohit Sharma,David Warner,1168,17,66.05,117.87
+Rohit Sharma,Quinton de Kock,1017,19,39.33,111.61
+Rohit Sharma,AB de Villiers,645,41,60.05,112.37
+Rohit Sharma,Ruturaj Gaikwad,1001,4,55.72,172.64
+KL Rahul,Rishabh Pant,505,39,31.68,129.69
+KL Rahul,Hardik Pandya,820,27,44.38,158.61
+KL Rahul,Jos Buttler,400,44,39.75,157.99
+KL Rahul,David Warner,740,37,45.55,120.47
+KL Rahul,Ruturaj Gaikwad,425,14,32.29,144.32
+KL Rahul,Yashasvi Jaiswal,237,20,37.65,118.4
+KL Rahul,Devon Conway,261,13,54.84,129.76
+Shubman Gill,Suryakumar Yadav,238,10,60.54,152.47
+Shubman Gill,Rishabh Pant,700,36,43.12,167.94
+Shubman Gill,Ravindra Jadeja,922,41,58.41,138.02
+Shubman Gill,Faf du Plessis,180,16,36.56,110.48
+Shubman Gill,Jos Buttler,506,30,42.88,143.15
+Shubman Gill,David Warner,1122,3,37.19,164
+Shubman Gill,Sanju Samson,314,12,65.36,165.04
+Shubman Gill,Nicholas Pooran,773,27,55.57,135.87
+Shubman Gill,Tilak Varma,577,18,57.13,169.55
+Shubman Gill,Ishan Kishan,326,17,52.86,148.28
+Suryakumar Yadav,Hardik Pandya,157,44,33.29,163.52
+Suryakumar Yadav,Quinton de Kock,543,39,45.53,137.31
+Suryakumar Yadav,AB de Villiers,122,19,37,167.93
+Suryakumar Yadav,Tilak Varma,656,6,70.66,143.73
+Suryakumar Yadav,Shreyas Iyer,275,18,70.56,144.92
+Rishabh Pant,Kane Williamson,688,10,74.53,171.84
+Rishabh Pant,Ruturaj Gaikwad,1110,45,35.79,123.46
+Rishabh Pant,Devon Conway,782,5,32.25,113.27
+Rishabh Pant,Rinku Singh,496,39,34.93,124.64
+Rishabh Pant,Tilak Varma,1166,45,33.63,134.44
+Rishabh Pant,Shreyas Iyer,165,8,43.41,136.64
+Rishabh Pant,Ishan Kishan,775,3,54.19,165.6
+Hardik Pandya,Jos Buttler,646,5,74.46,163.08
+Hardik Pandya,David Warner,789,25,64.82,163.98
+Hardik Pandya,Kane Williamson,159,32,63.52,172.48
+Hardik Pandya,Quinton de Kock,158,34,51.11,116.92
+Hardik Pandya,Sanju Samson,624,38,69.87,126.56
+Hardik Pandya,Rinku Singh,878,34,48.67,126
+Hardik Pandya,Nicholas Pooran,81,35,56.44,134.18
+Hardik Pandya,Tilak Varma,718,39,72.96,152.5
+Hardik Pandya,Shreyas Iyer,359,24,73.67,144.57
+Ravindra Jadeja,Glenn Maxwell,109,33,67.4,116.15
+Ravindra Jadeja,David Warner,725,9,51.74,133.29
+Ravindra Jadeja,Kane Williamson,965,24,66.4,161.22
+Ravindra Jadeja,Rinku Singh,911,24,65.57,154.44
+Ravindra Jadeja,Tilak Varma,755,19,65.18,135.54
+Ravindra Jadeja,Shreyas Iyer,856,11,69.47,122.84
+Faf du Plessis,Jos Buttler,431,9,40.37,170.43
+Faf du Plessis,Kane Williamson,1036,43,52.33,117.37
+Faf du Plessis,AB de Villiers,112,25,71.94,124.3
+Faf du Plessis,Sanju Samson,1128,34,33.83,169.36
+Faf du Plessis,Devon Conway,215,17,37.44,146.9
+Faf du Plessis,Nicholas Pooran,859,14,37.87,117.71
+Faf du Plessis,Shreyas Iyer,878,8,30.05,123.42
+Faf du Plessis,Ishan Kishan,751,45,61.55,169.14
+Glenn Maxwell,Kane Williamson,563,21,49.55,152.57
+Glenn Maxwell,Quinton de Kock,1134,14,47.11,165.23
+Glenn Maxwell,Yashasvi Jaiswal,131,25,34.42,156.54
+Glenn Maxwell,Devon Conway,1090,11,36.62,132.59
+Glenn Maxwell,Andre Russell,1168,44,31.12,159.65
+Glenn Maxwell,Ishan Kishan,567,9,64.56,143.69
+Jos Buttler,AB de Villiers,495,17,36.48,145.9
+Jos Buttler,Ruturaj Gaikwad,1137,14,48.36,153.72
+Jos Buttler,Devon Conway,328,25,57.52,127.42
+Jos Buttler,Rinku Singh,521,42,67.59,174.65
+Jos Buttler,Tilak Varma,447,5,50.16,159.03
+David Warner,AB de Villiers,800,28,46.02,123.2
+David Warner,Devon Conway,1114,6,70.64,143.52
+David Warner,Tilak Varma,312,24,48.15,112.15
+David Warner,Shreyas Iyer,773,18,41.31,157.2
+David Warner,Ishan Kishan,336,29,63.22,161.09
+Kane Williamson,Yashasvi Jaiswal,672,29,56.71,160.18
+Kane Williamson,Rinku Singh,949,23,44.38,159.03
+Kane Williamson,Andre Russell,1166,8,72.64,144.83
+Quinton de Kock,Devon Conway,155,3,71.08,124.97
+Quinton de Kock,Rinku Singh,538,29,56.18,173.97
+Quinton de Kock,Nicholas Pooran,443,35,63.19,115.87
+Quinton de Kock,Andre Russell,231,12,44.24,152.58
+Quinton de Kock,Ishan Kishan,559,27,31.11,134.34
+AB de Villiers,Ruturaj Gaikwad,273,19,61.3,112
+AB de Villiers,Devon Conway,992,32,52.84,127.69
+AB de Villiers,Andre Russell,907,21,31.38,163.48
+AB de Villiers,Ishan Kishan,1157,17,56.67,149.19
+Ruturaj Gaikwad,Yashasvi Jaiswal,181,24,66.51,134.47
+Ruturaj Gaikwad,Sanju Samson,672,16,42.07,141.07
+Ruturaj Gaikwad,Devon Conway,121,21,31.26,143.72
+Ruturaj Gaikwad,Rinku Singh,764,32,62.04,146.03
+Ruturaj Gaikwad,Nicholas Pooran,958,27,35.54,170.57
+Ruturaj Gaikwad,Tilak Varma,284,24,74.14,122.05
+Ruturaj Gaikwad,Ishan Kishan,1162,32,67.54,140.39
+Yashasvi Jaiswal,Sanju Samson,231,30,56.98,129.81
+Yashasvi Jaiswal,Rinku Singh,748,26,32.61,138.36
+Yashasvi Jaiswal,Andre Russell,636,33,60.1,142.51
+Yashasvi Jaiswal,Shreyas Iyer,614,9,51.81,141.08
+Sanju Samson,Rinku Singh,959,41,67.97,158.36
+Sanju Samson,Nicholas Pooran,836,17,53.89,134.89
+Sanju Samson,Andre Russell,580,18,40.22,156.28
+Sanju Samson,Shreyas Iyer,827,14,46.46,132.31
+Sanju Samson,Ishan Kishan,968,29,54.46,120.98
+Devon Conway,Nicholas Pooran,1010,31,43.06,152.67
+Devon Conway,Ishan Kishan,279,17,48.16,157
+Rinku Singh,Nicholas Pooran,665,16,57.75,155.92
+Rinku Singh,Shreyas Iyer,984,14,36.33,143.65
+Nicholas Pooran,Ishan Kishan,623,21,41.62,140.08
+Andre Russell,Shreyas Iyer,477,27,55.42,161.62
+Tilak Varma,Ishan Kishan,327,43,49.56,162.04
