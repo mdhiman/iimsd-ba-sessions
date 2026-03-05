@@ -1,0 +1,6 @@
+# Local-only scripts
+generate_ppt.js
+generate_datasets.js
+
+# Generated presentations
+*.pptx

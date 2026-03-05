@@ -1,0 +1,1501 @@
+restaurant_id,name,cuisine,zone,avg_rating,num_reviews,avg_order_value,avg_delivery_time_min,prep_time_min,distance_km,is_promoted,monthly_orders,active_hours
+rest_0001,Bombay Kitchen,Mexican,Marathahalli,3.38,259,471,37,12,0.87,0,449,11
+rest_0002,Third_Wave Eatery,North_Indian,Banashankari,4.04,1166,368,34,18,0.57,0,4097,19
+rest_0003,Rameshwaram Cafe,Biryani,Electronic_City,4.19,259,237,23,21,7.44,0,911,19
+rest_0004,Brahmin Lab,South_Indian,BTM_Layout,4.26,3162,862,47,17,3.12,1,7030,9
+rest_0005,Grill Point,Pizza,Marathahalli,4.28,383,348,26,18,8.36,0,642,18
+rest_0006,Tandoor Lab,Mexican,JP_Nagar,3.69,1360,475,27,20,9.42,0,2818,8
+rest_0007,Curry Hut,Biryani,HSR_Layout,4.43,694,285,35,22,7.89,0,1288,10
+rest_0008,Oven Plate,Continental,Banashankari,3.96,1245,360,27,14,1.55,0,2014,9
+rest_0009,Delhi Diner,Chinese,Domlur,3.28,831,438,34,18,10.4,0,1270,19
+rest_0010,Bombay Stop,Cafe,Banashankari,3.65,184,105,28,10,11.47,0,678,12
+rest_0011,Third_Wave Hub,Continental,Whitefield,2.95,337,192,21,10,2.36,0,1308,16
+rest_0012,Royal Eatery,Fast_Food,Rajajinagar,4.84,2719,592,32,33,1.49,0,7382,9
+rest_0013,Madras Junction,Japanese,Rajajinagar,2.75,280,272,28,11,9.19,0,902,19
+rest_0014,Biryani Hut,Japanese,Yeshwanthpur,4.37,974,248,27,12,7.27,0,2021,11
+rest_0015,Royal House,Mexican,Yeshwanthpur,4.06,457,1088,27,31,8.19,0,930,10
+rest_0016,Shivaji Garden,Desserts,Rajajinagar,2.79,59,225,26,14,10.43,0,96,18
+rest_0017,Desi Express,Pizza,Silk_Board,4.32,559,277,37,24,2.61,0,1485,9
+rest_0018,Veena Lab,South_Indian,Indiranagar,3.31,17,293,39,11,6.08,0,34,14
+rest_0019,Golden Hub,Pizza,Koramangala,2.9,411,253,24,14,8.9,0,1421,18
+rest_0020,Paradise Junction,Italian,Yelahanka,3.28,1160,224,30,11,5.98,1,4406,16
+rest_0021,Tandoor Express,Continental,HSR_Layout,2.6,44,229,22,14,10.74,1,93,17
+rest_0022,Green Eatery,South_Indian,Sarjapur,3.35,171,286,21,18,3.24,0,425,18
+rest_0023,Biryani Factory,Fast_Food,HSR_Layout,4.56,4812,1197,27,32,3.55,0,18445,9
+rest_0024,Oven Dhaba,Biryani,MG_Road,3.91,669,445,45,10,6.88,0,2561,9
+rest_0025,Madras Corner,South_Indian,Whitefield,2.73,154,213,37,13,7.79,0,332,15
+rest_0026,Flame Express,South_Indian,Yeshwanthpur,3.56,57,333,24,18,5.58,0,186,16
+rest_0027,Royal Point,South_Indian,Old_Airport_Road,3.32,437,161,32,10,0.98,0,1053,20
+rest_0028,Green Dhaba,Italian,Domlur,3.33,1196,554,33,14,3.22,0,2279,20
+rest_0029,Wok Delight,North_Indian,MG_Road,3.0,486,171,36,19,3.57,0,1685,9
+rest_0030,Empire Express,Healthy_Bowls,Rajajinagar,4.26,992,340,45,17,8.09,0,2476,12
+rest_0031,Fresh Corner,Fast_Food,Yeshwanthpur,4.08,1148,332,20,13,3.5,0,3388,12
+rest_0032,Green Point,Thai,Sarjapur,4.22,943,442,36,13,7.13,0,2015,19
+rest_0033,Rameshwaram Kitchen,Continental,Banashankari,3.91,387,228,26,14,8.14,1,899,13
+rest_0034,Bombay Plate,Cafe,Yelahanka,4.07,718,361,29,14,8.15,0,1757,19
+rest_0035,Wok Eatery,Thai,Yelahanka,4.28,672,315,33,20,5.58,0,1367,15
+rest_0036,Tandoor Stop,South_Indian,Yelahanka,4.02,736,237,44,17,3.08,0,1470,8
+rest_0037,Green Garden,Street_Food,Bommanahalli,2.61,222,275,33,11,4.92,0,554,10
+rest_0038,Rameshwaram Garden,Chinese,Old_Airport_Road,3.27,560,567,23,24,5.84,0,1583,16
+rest_0039,Curry Factory,Thai,Silk_Board,3.14,474,201,20,19,5.68,0,1601,18
+rest_0040,Chai Studio,Street_Food,Yeshwanthpur,3.77,635,294,30,20,1.43,0,1191,14
+rest_0041,Delhi Bowl,Italian,HSR_Layout,3.63,1004,366,26,23,9.35,0,3880,8
+rest_0042,Empire Republic,North_Indian,Malleshwaram,3.71,908,415,43,17,3.64,0,2464,14
+rest_0043,Masala Stop,Japanese,BTM_Layout,3.76,480,108,34,16,5.03,1,1397,8
+rest_0044,Urban Diner,Pizza,Electronic_City,2.77,143,163,21,15,9.25,0,350,20
+rest_0045,Vidyarthi Corner,Healthy_Bowls,HSR_Layout,4.17,156,600,31,17,9.48,0,488,20
+rest_0046,Spice Garden,Italian,Koramangala,3.51,1019,468,38,16,3.45,0,2468,17
+rest_0047,Bombay Hub,Biryani,Whitefield,4.41,1229,471,32,22,2.78,0,3662,18
+rest_0048,Oven Point,Mexican,Yelahanka,3.4,71,255,33,20,6.63,1,223,9
+rest_0049,Third_Wave Diner,Fast_Food,Koramangala,3.73,64,175,26,18,5.79,0,120,10
+rest_0050,Blue_Tokai Diner,Biryani,Bommanahalli,3.31,257,182,38,17,10.29,0,919,9
+rest_0051,Chai Factory,Italian,Bellandur,4.07,738,211,30,15,4.58,0,1583,12
+rest_0052,Chai Lab,North_Indian,Basavanagudi,2.63,378,169,32,20,5.98,0,1239,15
+rest_0053,Spice House,Biryani,JP_Nagar,3.52,1409,433,35,21,9.08,0,3278,19
+rest_0054,Brahmin Corner,Biryani,Marathahalli,4.14,696,248,37,15,8.99,0,1525,17
+rest_0055,Blue_Tokai Eatery,Biryani,Whitefield,2.94,194,119,15,19,3.65,0,763,16
+rest_0056,Momo Bowl,Chinese,Yeshwanthpur,3.24,456,83,24,15,4.42,0,1784,12
+rest_0057,Shivaji Point,Healthy_Bowls,HSR_Layout,3.3,1339,475,24,14,11.41,0,2293,11
+rest_0058,Bombay Lab,Desserts,Sarjapur,4.23,512,510,32,24,3.92,0,1521,14
+rest_0059,Biryani Grill,Thai,Indiranagar,4.16,475,450,28,12,2.5,0,801,8
+rest_0060,Vidyarthi Factory,Mexican,Bommanahalli,3.24,640,483,42,24,3.18,1,1383,20
+rest_0061,Pasta Delight,South_Indian,Banashankari,3.39,594,531,22,11,4.04,0,2003,17
+rest_0062,Momo Factory,South_Indian,Bellandur,3.55,492,140,32,15,7.38,0,1831,19
+rest_0063,Curry Eatery,Biryani,Koramangala,4.87,4912,870,25,23,9.28,0,9519,16
+rest_0064,Veena Corner,Chinese,KR_Puram,4.26,236,388,33,20,1.7,0,448,14
+rest_0065,Paradise Bites,Japanese,BTM_Layout,3.33,242,99,23,13,9.38,1,886,8
+rest_0066,Brahmin Delight,North_Indian,Jayanagar,4.01,1070,450,44,11,6.82,0,4086,15
+rest_0067,Paradise Point,North_Indian,Yeshwanthpur,3.51,374,324,20,23,11.91,1,1414,15
+rest_0068,Bombay Diner,Healthy_Bowls,Electronic_City,4.13,1092,482,33,25,3.3,0,3142,14
+rest_0069,Pasta Eatery,Continental,Silk_Board,3.8,151,250,28,13,6.34,0,536,12
+rest_0070,Shivaji Dhaba,Fast_Food,Banashankari,3.07,487,151,21,19,4.9,0,1772,14
+rest_0071,Green Cafe,Mexican,Rajajinagar,3.72,207,297,40,18,6.2,0,329,16
+rest_0072,Masala Point,Healthy_Bowls,Bellandur,4.82,325,978,38,35,1.36,0,1122,12
+rest_0073,Masala Eatery,Mexican,BTM_Layout,4.31,1431,544,32,20,10.71,0,3892,16
+rest_0074,Fresh Garden,Japanese,Domlur,4.0,392,100,18,20,10.53,0,1022,19
+rest_0075,Biryani Kitchen,North_Indian,Hebbal,2.94,201,175,22,16,8.34,0,391,10
+rest_0076,Urban Eatery,Healthy_Bowls,BTM_Layout,3.51,1244,257,34,18,8.17,0,4661,15
+rest_0077,Momo Stop,Continental,MG_Road,4.85,2650,911,38,23,3.97,0,10595,15
+rest_0078,Desi Garden,Pizza,KR_Puram,3.58,1482,318,41,22,7.01,0,4763,19
+rest_0079,Golden Eatery,Mexican,Rajajinagar,3.85,407,256,34,20,7.82,0,1242,18
+rest_0080,Madras Diner,South_Indian,Yeshwanthpur,3.6,952,213,31,14,3.89,1,3207,10
+rest_0081,Pasta Junction,Desserts,Banashankari,3.05,266,281,20,12,11.36,0,1042,12
+rest_0082,Brahmin House,Chinese,JP_Nagar,3.59,213,293,40,16,9.59,0,326,16
+rest_0083,Bombay Factory,Fast_Food,Domlur,2.89,205,261,26,9,5.92,0,625,16
+rest_0084,Grill Diner,South_Indian,Yeshwanthpur,3.86,164,223,18,10,0.93,1,654,9
+rest_0085,Madras Hut,Street_Food,Malleshwaram,3.61,494,199,33,19,10.68,0,1549,15
+rest_0086,Green Bowl,Fast_Food,Jayanagar,4.44,792,240,41,21,11.75,0,1898,14
+rest_0087,Chai Palace,South_Indian,Bellandur,4.19,374,440,35,22,9.55,0,752,20
+rest_0088,Bowl Grill,Italian,JP_Nagar,3.39,1270,201,24,14,9.68,0,2254,8
+rest_0089,Madras Kitchen,Fast_Food,JP_Nagar,3.22,593,221,43,23,9.08,0,1595,20
+rest_0090,Truffles Studio,Thai,Whitefield,3.49,1309,217,45,19,11.59,0,2162,15
+rest_0091,Nandhini Delight,Japanese,Whitefield,4.38,200,560,30,14,3.66,1,616,16
+rest_0092,Blue_Tokai Bites,Street_Food,Basavanagudi,3.33,1487,246,40,16,10.71,0,3768,15
+rest_0093,Desi Cafe,Pizza,Hebbal,3.06,88,231,30,9,1.48,1,227,19
+rest_0094,Truffles Junction,Continental,Indiranagar,3.93,725,468,33,21,11.32,0,1854,19
+rest_0095,Golden Bites,Thai,Yelahanka,3.95,485,262,35,17,4.53,0,1401,9
+rest_0096,Chai Grill,Italian,Sarjapur,3.96,429,217,36,18,7.5,0,1349,19
+rest_0097,Chai Kitchen,Chinese,Marathahalli,2.96,183,157,20,10,5.11,0,339,18
+rest_0098,Blue_Tokai Palace,Pizza,Sarjapur,3.4,688,489,44,12,2.29,0,2329,8
+rest_0099,Urban Corner,Street_Food,Domlur,3.99,898,309,44,13,1.78,0,2869,17
+rest_0100,Paradise Studio,Japanese,Yelahanka,4.36,648,406,34,21,9.29,0,1440,9
+rest_0101,Royal Republic,Mexican,Sarjapur,3.69,1491,292,37,21,10.41,1,2394,8
+rest_0102,Curry Grill,Pizza,KR_Puram,4.03,642,246,20,20,11.4,0,1701,19
+rest_0103,Truffles House,Pizza,Whitefield,3.97,1123,231,29,20,9.46,0,1898,18
+rest_0104,Bombay Studio,Continental,Jayanagar,3.02,382,291,35,10,2.18,0,761,17
+rest_0105,Fresh Hub,Desserts,Yeshwanthpur,4.18,1236,380,38,20,7.71,0,2320,9
+rest_0106,Shivaji Factory,Japanese,Yelahanka,3.39,190,192,24,15,1.15,0,680,9
+rest_0107,Third_Wave Hut,Street_Food,KR_Puram,4.23,134,380,45,16,5.97,0,251,8
+rest_0108,Veena Point,Desserts,Hebbal,2.63,340,118,22,19,5.55,0,954,10
+rest_0109,Truffles Dhaba,Cafe,Yelahanka,4.21,1440,439,45,20,1.59,1,4602,12
+rest_0110,Flame Plate,Healthy_Bowls,Domlur,3.4,86,153,33,18,4.52,0,337,19
+rest_0111,Nandhini Junction,Thai,Old_Airport_Road,2.96,202,222,25,10,10.03,0,676,18
+rest_0112,Blue_Tokai House,Japanese,Domlur,3.67,792,324,26,20,6.09,0,1636,10
+rest_0113,Delhi House,Biryani,Whitefield,3.9,1128,215,30,14,2.27,0,2201,19
+rest_0114,Tandoor Plate,Street_Food,Indiranagar,4.08,536,588,39,19,9.51,0,1117,11
+rest_0115,Biryani Republic,Cafe,Jayanagar,4.43,952,385,29,22,5.31,0,1813,11
+rest_0116,Golden Diner,Street_Food,Malleshwaram,3.33,1106,540,29,12,3.64,0,4162,10
+rest_0117,Rameshwaram House,Cafe,JP_Nagar,3.83,486,86,16,14,3.21,0,1937,13
+rest_0118,Grill Kitchen,Fast_Food,Whitefield,3.47,415,112,16,12,5.93,0,1484,20
+rest_0119,Spice Corner,Italian,Electronic_City,4.15,1130,369,44,19,1.9,0,2368,18
+rest_0120,Bombay Republic,Thai,Banashankari,4.46,2181,975,34,28,4.56,1,6383,10
+rest_0121,Urban Studio,Fast_Food,HSR_Layout,3.32,412,297,32,8,5.91,0,1272,13
+rest_0122,Spice Dhaba,Desserts,HSR_Layout,4.15,1336,241,38,20,4.55,0,3134,18
+rest_0123,Wok Stop,Street_Food,Old_Airport_Road,3.44,326,225,44,24,2.82,1,1133,8
+rest_0124,Curry Bites,Continental,BTM_Layout,3.31,139,88,35,11,10.41,0,225,18
+rest_0125,Masala Corner,South_Indian,Malleshwaram,3.72,950,558,32,20,6.21,0,2606,20
+rest_0126,Blue_Tokai Corner,Desserts,HSR_Layout,2.62,318,299,20,16,1.68,0,737,12
+rest_0127,Rameshwaram Hub,Mexican,Bellandur,3.26,772,446,33,18,9.6,0,1268,18
+rest_0128,Nandhini Dhaba,Continental,Silk_Board,3.93,83,267,36,20,1.95,0,173,18
+rest_0129,Empire Grill,North_Indian,Bommanahalli,3.78,809,349,44,12,6.59,0,2018,18
+rest_0130,Chai Garden,South_Indian,Koramangala,3.25,208,281,18,12,8.6,0,423,17
+rest_0131,Paradise Palace,South_Indian,Electronic_City,3.18,470,237,17,20,10.22,0,1080,13
+rest_0132,Fresh Lab,Continental,Yelahanka,3.78,374,236,37,18,4.66,0,770,11
+rest_0133,Madras Garden,Desserts,Rajajinagar,4.5,3222,774,42,19,1.49,0,7324,19
+rest_0134,Shivaji Studio,Pizza,Sarjapur,2.61,172,221,29,15,4.46,0,635,20
+rest_0135,Wok Junction,Pizza,Basavanagudi,2.58,73,194,24,10,11.25,0,150,16
+rest_0136,Momo House,Biryani,Jayanagar,3.92,306,450,39,12,2.44,0,1179,10
+rest_0137,Masala Grill,North_Indian,Koramangala,4.85,4924,612,31,33,7.85,0,13516,18
+rest_0138,Momo Diner,Biryani,Rajajinagar,4.25,881,319,22,11,5.28,0,2344,13
+rest_0139,Delhi Cafe,Healthy_Bowls,Old_Airport_Road,4.48,757,590,24,21,1.72,0,1592,9
+rest_0140,Oven Junction,South_Indian,Indiranagar,3.7,1310,367,25,20,8.79,0,2586,10
+rest_0141,Brahmin Republic,Cafe,Yelahanka,3.32,855,402,27,16,1.06,0,1883,17
+rest_0142,Shivaji Bites,Continental,Koramangala,3.15,461,138,26,20,1.02,0,750,16
+rest_0143,Pasta Dhaba,Continental,Yelahanka,4.45,4704,624,44,34,11.71,1,11688,20
+rest_0144,Masala Lab,Fast_Food,Electronic_City,3.86,1074,216,21,14,9.75,0,3005,10
+rest_0145,Third_Wave Junction,Fast_Food,Bommanahalli,3.71,1312,496,29,20,6.36,0,3574,17
+rest_0146,Bombay Delight,Thai,Yelahanka,3.59,362,218,34,15,8.04,0,1422,17
+rest_0147,Grill Plate,North_Indian,KR_Puram,3.88,1319,510,32,14,3.29,0,3866,19
+rest_0148,Bombay Palace,North_Indian,Bellandur,3.4,1464,282,36,25,8.96,0,2423,10
+rest_0149,Curry Stop,Street_Food,Basavanagudi,4.44,991,565,30,21,10.48,0,3173,20
+rest_0150,Flame Eatery,Street_Food,Jayanagar,2.92,162,129,24,20,2.88,0,528,13
+rest_0151,Chai Bites,South_Indian,KR_Puram,3.07,212,260,39,20,0.98,0,824,9
+rest_0152,Meghana Factory,Japanese,Marathahalli,2.82,433,198,32,19,1.76,0,1451,11
+rest_0153,Oven Express,Japanese,Basavanagudi,3.5,255,365,42,25,9.36,1,385,16
+rest_0154,Tandoor Delight,Japanese,Rajajinagar,3.46,638,328,40,11,1.53,0,1872,16
+rest_0155,Green Hub,Pizza,MG_Road,2.55,438,167,30,10,11.56,0,1671,8
+rest_0156,Royal Bites,Thai,Bommanahalli,4.88,2531,763,45,32,10.73,0,4645,16
+rest_0157,Pasta Point,Fast_Food,MG_Road,3.47,377,121,38,13,7.03,0,1279,10
+rest_0158,Third_Wave Cafe,South_Indian,BTM_Layout,2.78,81,185,22,8,3.21,0,274,13
+rest_0159,Royal Corner,Japanese,Malleshwaram,2.59,70,182,20,14,11.12,0,260,20
+rest_0160,Biryani Bowl,South_Indian,Yeshwanthpur,2.94,324,129,19,15,9.1,0,976,14
+rest_0161,Shivaji Lab,Desserts,Domlur,3.64,358,246,40,9,6.57,0,860,17
+rest_0162,Bombay Express,Healthy_Bowls,Banashankari,2.8,284,113,25,16,8.32,0,935,15
+rest_0163,Veena Express,Street_Food,Electronic_City,3.79,168,424,41,19,5.05,0,594,19
+rest_0164,Fresh Express,Pizza,Malleshwaram,3.31,40,286,17,15,5.2,1,136,20
+rest_0165,Vidyarthi Dhaba,Cafe,BTM_Layout,4.39,823,350,41,14,4.5,0,1601,16
+rest_0166,Nandhini Studio,Chinese,Silk_Board,3.75,397,85,24,15,6.76,0,1123,11
+rest_0167,Oven Factory,Fast_Food,Electronic_City,4.42,281,213,41,23,11.27,0,1046,11
+rest_0168,Bowl House,South_Indian,Bommanahalli,4.54,598,596,26,27,6.71,0,2024,20
+rest_0169,Golden Junction,Continental,Yelahanka,4.39,1229,328,39,20,10.58,0,4872,16
+rest_0170,Grill Delight,Biryani,Marathahalli,4.85,1634,901,38,32,11.68,0,6297,18
+rest_0171,Empire Studio,Fast_Food,Old_Airport_Road,3.39,820,274,37,25,3.09,0,2987,10
+rest_0172,Brahmin Express,Continental,Sarjapur,3.34,78,165,23,11,1.41,0,204,13
+rest_0173,Urban Lab,Mexican,Jayanagar,4.34,523,1099,31,33,6.93,0,1411,13
+rest_0174,Bowl Palace,Mexican,Whitefield,3.63,478,133,34,19,11.02,0,1376,20
+rest_0175,Momo Hut,Street_Food,Banashankari,3.6,786,405,35,24,11.79,1,2101,13
+rest_0176,Bowl Dhaba,Fast_Food,Sarjapur,4.78,1395,413,42,33,5.3,0,2624,13
+rest_0177,Grill Hut,Thai,JP_Nagar,4.05,1452,335,44,25,7.88,0,3958,10
+rest_0178,Meghana Hub,Chinese,Silk_Board,3.44,1160,596,21,11,1.35,0,4112,8
+rest_0179,Royal Delight,Chinese,Yeshwanthpur,4.12,68,287,34,21,7.83,1,260,15
+rest_0180,Paradise Kitchen,North_Indian,Banashankari,3.22,1134,489,37,19,9.85,1,3611,20
+rest_0181,Wok Point,Cafe,Whitefield,3.51,1319,411,31,18,1.41,0,5141,15
+rest_0182,Oven Bowl,Italian,Yelahanka,3.77,344,298,35,20,5.16,1,840,15
+rest_0183,Royal Bowl,Chinese,HSR_Layout,3.76,728,426,23,11,10.86,0,2351,17
+rest_0184,Shivaji Corner,North_Indian,HSR_Layout,2.92,288,204,16,10,4.12,0,1124,17
+rest_0185,Nandhini House,Biryani,MG_Road,3.94,846,471,37,20,9.01,0,2940,19
+rest_0186,Meghana Express,South_Indian,Sarjapur,3.3,1289,508,39,22,4.25,0,3976,20
+rest_0187,Veena Republic,Italian,Malleshwaram,3.69,430,472,41,22,7.61,1,1502,19
+rest_0188,Fresh House,Biryani,Electronic_City,4.22,365,496,30,21,0.56,1,828,13
+rest_0189,Chai Point,Chinese,HSR_Layout,3.78,1186,405,23,10,6.87,1,3548,20
+rest_0190,Vidyarthi Hut,Desserts,HSR_Layout,3.34,134,206,20,18,2.1,0,301,15
+rest_0191,Chai Delight,Biryani,Rajajinagar,3.04,493,134,35,15,2.75,0,871,12
+rest_0192,Royal Hut,Fast_Food,Bommanahalli,4.32,951,334,40,14,7.44,0,3079,15
+rest_0193,Curry Hub,Pizza,Hebbal,4.1,1055,587,45,17,3.72,0,3655,13
+rest_0194,Bombay Grill,Italian,KR_Puram,2.77,403,201,38,15,2.91,0,1408,19
+rest_0195,Fresh Delight,Japanese,Rajajinagar,4.27,2269,927,47,28,1.35,0,9023,15
+rest_0196,Nandhini Lab,Continental,Old_Airport_Road,3.25,786,481,45,12,3.35,1,2485,10
+rest_0197,Green Grill,Japanese,Domlur,4.46,729,586,33,13,3.48,1,2024,16
+rest_0198,Grill Factory,Fast_Food,BTM_Layout,4.08,1464,400,31,10,3.9,0,5565,9
+rest_0199,Delhi Dhaba,Biryani,Hebbal,3.47,1039,339,23,24,5.7,0,1732,8
+rest_0200,Masala Diner,South_Indian,Domlur,3.89,389,134,20,16,6.94,0,1515,11
+rest_0201,Nandhini Diner,Chinese,MG_Road,3.76,109,495,26,24,4.97,0,355,11
+rest_0202,Chai Bowl,Desserts,HSR_Layout,4.24,1149,275,30,16,3.52,0,4201,16
+rest_0203,Empire Eatery,Pizza,KR_Puram,4.32,3950,894,46,24,7.29,0,12562,13
+rest_0204,Bombay Garden,Biryani,Whitefield,4.1,1096,355,39,14,5.36,0,2977,16
+rest_0205,Wok Lab,Chinese,Rajajinagar,3.44,973,448,31,10,2.74,0,2393,16
+rest_0206,Paradise Delight,Japanese,Rajajinagar,4.29,1050,267,38,10,3.04,0,1660,11
+rest_0207,Momo Hub,Desserts,Bellandur,4.2,1064,420,23,13,6.75,0,4231,16
+rest_0208,Green Plate,Street_Food,Banashankari,3.75,1388,501,29,11,4.51,0,4916,15
+rest_0209,Bowl Plate,Thai,Old_Airport_Road,4.12,1345,371,39,14,9.86,0,4725,17
+rest_0210,Meghana Lab,Biryani,Bommanahalli,3.62,1491,317,38,18,6.42,0,5591,9
+rest_0211,Madras Delight,Cafe,Indiranagar,3.8,74,234,19,11,4.2,0,156,18
+rest_0212,Nandhini Republic,Chinese,KR_Puram,4.02,818,381,40,12,9.12,0,2647,13
+rest_0213,Royal Plate,South_Indian,Silk_Board,3.45,367,159,17,20,3.01,0,944,11
+rest_0214,Paradise Corner,Fast_Food,Yelahanka,3.95,1209,541,45,20,9.27,0,1952,18
+rest_0215,Brahmin Kitchen,South_Indian,MG_Road,3.2,926,281,42,14,3.97,0,3413,12
+rest_0216,Truffles Corner,South_Indian,Malleshwaram,3.47,36,167,24,19,3.19,0,112,19
+rest_0217,Desi Kitchen,Italian,Rajajinagar,4.53,4455,944,25,15,9.9,0,17688,14
+rest_0218,Madras Republic,South_Indian,JP_Nagar,4.15,259,241,31,19,9.39,0,876,10
+rest_0219,Blue_Tokai Grill,North_Indian,Bommanahalli,3.16,379,127,38,10,7.58,0,987,11
+rest_0220,Urban Point,Chinese,Whitefield,3.7,929,326,24,17,1.47,0,2678,17
+rest_0221,Spice Stop,Cafe,Yelahanka,3.99,436,499,29,11,9.63,0,914,14
+rest_0222,Paradise Diner,Thai,HSR_Layout,4.47,789,574,24,22,7.04,0,1904,18
+rest_0223,Wok Republic,Desserts,HSR_Layout,4.06,2347,573,26,27,7.73,0,6460,14
+rest_0224,Rameshwaram Bowl,Pizza,HSR_Layout,3.9,362,311,29,12,2.84,0,1274,16
+rest_0225,Fresh Bites,Mexican,Sarjapur,3.77,39,134,28,9,7.5,0,88,19
+rest_0226,Madras Bowl,North_Indian,MG_Road,3.65,1109,513,43,18,1.96,0,3829,12
+rest_0227,Masala Delight,Biryani,Basavanagudi,4.64,4923,902,40,29,1.14,0,17961,10
+rest_0228,Truffles Hub,Biryani,Whitefield,3.51,69,130,31,8,10.42,1,145,15
+rest_0229,Truffles Hut,Cafe,Electronic_City,4.45,122,421,42,23,3.36,0,462,13
+rest_0230,Chai House,Thai,Malleshwaram,4.61,631,543,50,31,11.47,0,1055,15
+rest_0231,Momo Bites,Fast_Food,HSR_Layout,3.21,460,317,45,19,3.29,0,1113,15
+rest_0232,Pasta Plate,Cafe,Banashankari,2.87,13,285,15,11,7.81,0,42,8
+rest_0233,Masala Kitchen,Desserts,Domlur,4.16,679,242,36,17,11.55,0,2669,10
+rest_0234,Blue_Tokai Delight,Mexican,Malleshwaram,4.17,1239,238,24,22,7.03,1,3205,10
+rest_0235,Oven Bites,Biryani,Hebbal,3.09,435,242,25,15,1.36,0,872,20
+rest_0236,Desi Junction,South_Indian,MG_Road,3.61,297,414,44,16,5.83,0,1078,9
+rest_0237,Green Palace,Healthy_Bowls,Hebbal,4.64,3114,717,26,24,11.89,0,4912,14
+rest_0238,Brahmin Point,Desserts,Electronic_City,4.06,2020,505,37,26,11.28,0,3454,17
+rest_0239,Flame House,North_Indian,HSR_Layout,4.04,313,237,45,20,11.34,0,509,17
+rest_0240,Rameshwaram Plate,Pizza,Rajajinagar,4.61,1615,683,30,23,10.66,0,2562,17
+rest_0241,Oven Diner,Biryani,Rajajinagar,3.92,174,235,32,14,7.89,0,607,11
+rest_0242,Spice Hut,Desserts,Old_Airport_Road,3.91,1042,338,38,20,2.57,0,2393,11
+rest_0243,Golden Republic,Continental,Malleshwaram,4.0,91,102,36,11,9.89,0,345,8
+rest_0244,Grill Grill,Healthy_Bowls,BTM_Layout,4.29,405,270,38,20,8.52,0,1532,8
+rest_0245,Meghana Grill,Thai,Electronic_City,3.44,1058,417,25,25,1.15,1,3178,8
+rest_0246,Blue_Tokai Republic,North_Indian,Hebbal,2.8,76,155,20,20,4.22,0,118,17
+rest_0247,Delhi Point,Healthy_Bowls,Basavanagudi,3.94,201,235,36,14,4.37,0,463,10
+rest_0248,Rameshwaram Diner,Street_Food,Yeshwanthpur,4.12,1200,477,39,21,7.27,0,2326,12
+rest_0249,Momo Junction,Chinese,Silk_Board,4.63,4892,713,49,33,7.43,1,18602,17
+rest_0250,Desi Republic,Chinese,Hebbal,2.86,173,117,17,19,8.89,0,404,8
+rest_0251,Flame Palace,Italian,Old_Airport_Road,4.23,1085,976,26,27,5.33,0,2078,14
+rest_0252,Paradise Hut,Fast_Food,Banashankari,4.28,1233,460,41,17,1.35,0,4456,12
+rest_0253,Spice Cafe,Biryani,Whitefield,4.15,3275,529,27,32,11.75,0,7679,17
+rest_0254,Shivaji Bowl,North_Indian,Sarjapur,2.75,465,176,16,9,11.71,0,1173,16
+rest_0255,Flame Stop,Biryani,Yelahanka,3.26,1220,420,35,14,0.54,1,2097,18
+rest_0256,Shivaji Palace,South_Indian,Koramangala,4.03,217,389,23,19,5.92,0,810,12
+rest_0257,Empire Hub,Fast_Food,BTM_Layout,3.78,589,376,28,17,6.99,0,1106,19
+rest_0258,Desi House,Japanese,Malleshwaram,3.12,397,210,32,8,9.91,0,1010,16
+rest_0259,Shivaji Grill,Cafe,JP_Nagar,3.3,121,401,36,14,9.21,0,233,10
+rest_0260,Madras Express,Pizza,HSR_Layout,3.15,431,218,34,12,8.86,0,1516,9
+rest_0261,Empire Lab,Pizza,Banashankari,3.56,988,567,20,23,2.22,1,2881,17
+rest_0262,Desi Point,Thai,Whitefield,3.8,460,156,28,12,6.08,0,1390,8
+rest_0263,Wok Corner,Pizza,Electronic_City,4.09,872,216,30,17,5.97,1,1893,13
+rest_0264,Biryani Bites,Biryani,Rajajinagar,3.53,454,130,24,19,10.0,0,986,14
+rest_0265,Urban Palace,Street_Food,Jayanagar,3.11,258,247,26,8,2.33,0,587,16
+rest_0266,Spice Hub,Italian,Jayanagar,2.87,243,91,26,19,4.74,0,646,14
+rest_0267,Truffles Republic,Thai,Bellandur,4.33,1251,421,31,15,3.47,0,4475,9
+rest_0268,Momo Kitchen,Pizza,Indiranagar,3.94,488,543,40,17,3.59,0,1231,8
+rest_0269,Royal Garden,Biryani,Bommanahalli,2.96,373,221,28,14,5.78,0,762,12
+rest_0270,Nandhini Grill,South_Indian,Koramangala,4.06,816,425,39,19,1.74,0,1354,12
+rest_0271,Curry Corner,Biryani,Yeshwanthpur,3.84,162,121,31,20,1.15,0,590,20
+rest_0272,Nandhini Stop,Fast_Food,Domlur,4.02,4274,1198,33,28,8.97,0,12640,17
+rest_0273,Pasta Cafe,Mexican,Old_Airport_Road,3.9,1024,563,41,21,10.22,0,3688,16
+rest_0274,Wok Bites,South_Indian,Rajajinagar,4.23,4779,1010,30,25,3.06,0,9836,12
+rest_0275,Vidyarthi Cafe,Fast_Food,Marathahalli,3.8,291,388,40,12,2.74,0,523,18
+rest_0276,Biryani Delight,North_Indian,Electronic_City,4.18,3552,1190,39,19,8.73,0,12244,15
+rest_0277,Wok Cafe,Japanese,Indiranagar,4.25,1581,861,30,30,9.47,0,2882,14
+rest_0278,Rameshwaram Hut,Pizza,Rajajinagar,3.25,458,492,20,20,6.61,0,707,8
+rest_0279,Oven Garden,Mexican,Malleshwaram,3.33,1080,435,25,12,3.93,0,2405,19
+rest_0280,Blue_Tokai Cafe,Pizza,Domlur,3.01,471,188,39,11,10.93,0,1662,8
+rest_0281,Grill Garden,Mexican,Electronic_City,3.23,1083,268,31,11,7.86,0,3712,17
+rest_0282,Golden Stop,South_Indian,Yeshwanthpur,2.57,69,172,27,9,5.96,0,129,19
+rest_0283,Vidyarthi Stop,South_Indian,Domlur,4.01,1485,255,23,13,9.52,0,4075,17
+rest_0284,Pasta Corner,Healthy_Bowls,Basavanagudi,3.04,219,145,16,16,2.89,0,839,13
+rest_0285,Oven Kitchen,North_Indian,Domlur,4.1,4903,935,29,17,1.36,0,16223,12
+rest_0286,Momo Corner,Street_Food,Indiranagar,4.16,523,1082,36,25,1.83,0,1897,8
+rest_0287,Royal Junction,Japanese,Yeshwanthpur,3.66,946,582,28,12,4.44,0,1688,14
+rest_0288,Empire Bowl,Healthy_Bowls,Rajajinagar,3.47,418,117,19,19,11.79,0,1509,9
+rest_0289,Vidyarthi Grill,Street_Food,KR_Puram,2.77,204,251,34,8,10.62,0,676,10
+rest_0290,Shivaji Republic,South_Indian,Sarjapur,3.28,1391,326,42,17,8.2,0,3262,16
+rest_0291,Desi Delight,Japanese,Silk_Board,3.65,1435,457,24,11,11.25,1,3966,15
+rest_0292,Paradise Hub,South_Indian,Rajajinagar,3.63,619,220,27,22,3.2,0,1638,20
+rest_0293,Veena House,Healthy_Bowls,Rajajinagar,3.35,1068,498,20,13,0.91,0,3068,9
+rest_0294,Biryani Studio,Continental,Jayanagar,3.18,184,160,16,11,4.32,0,629,17
+rest_0295,Truffles Bowl,Street_Food,Whitefield,4.59,217,673,45,24,4.8,0,383,10
+rest_0296,Vidyarthi Point,Biryani,Bommanahalli,3.36,854,286,45,16,1.74,0,2165,18
+rest_0297,Brahmin Stop,Thai,Basavanagudi,4.45,4544,989,42,28,6.05,0,12590,10
+rest_0298,Wok Plate,Healthy_Bowls,Electronic_City,4.59,2836,803,37,28,11.03,0,9659,12
+rest_0299,Nandhini Cafe,Biryani,Bellandur,2.71,318,234,38,16,8.57,0,1161,19
+rest_0300,Bowl Eatery,Mexican,Yelahanka,3.88,77,296,35,10,8.48,0,177,9
+rest_0301,Momo Delight,Desserts,Koramangala,3.23,347,221,21,16,9.53,0,1373,18
+rest_0302,Flame Junction,Healthy_Bowls,Indiranagar,2.94,395,199,26,15,10.48,1,1322,11
+rest_0303,Empire Garden,Continental,Old_Airport_Road,4.06,831,355,45,20,1.12,0,2791,11
+rest_0304,Veena Garden,Cafe,Yeshwanthpur,3.47,396,209,38,17,8.84,0,785,15
+rest_0305,Third_Wave Point,Pizza,Indiranagar,3.92,316,264,28,10,8.66,0,596,10
+rest_0306,Meghana House,Desserts,Old_Airport_Road,3.49,426,408,45,15,6.68,0,736,11
+rest_0307,Bowl Stop,Fast_Food,Hebbal,3.48,1316,412,37,10,4.48,1,2764,18
+rest_0308,Bombay Hut,Biryani,Banashankari,2.54,274,261,26,16,5.62,0,441,18
+rest_0309,Third_Wave House,South_Indian,MG_Road,3.66,283,82,17,11,9.4,0,1036,14
+rest_0310,Desi Palace,Continental,Old_Airport_Road,3.61,232,222,17,19,0.77,0,763,8
+rest_0311,Urban House,North_Indian,MG_Road,3.34,304,261,23,14,7.75,0,785,8
+rest_0312,Empire Stop,South_Indian,Banashankari,4.65,718,1005,43,16,1.33,0,2742,9
+rest_0313,Biryani Eatery,South_Indian,Yelahanka,3.16,212,261,15,15,3.03,0,713,20
+rest_0314,Delhi Bites,Japanese,Silk_Board,4.44,72,421,37,14,0.56,0,215,16
+rest_0315,Urban Bites,Italian,Silk_Board,3.59,118,171,35,16,2.62,0,358,12
+rest_0316,Golden Lab,Street_Food,Yeshwanthpur,3.58,187,300,26,25,4.61,0,594,11
+rest_0317,Desi Bites,Thai,HSR_Layout,2.98,240,152,36,12,2.25,0,700,20
+rest_0318,Curry Delight,Chinese,Koramangala,4.22,1362,374,31,14,4.31,0,3677,15
+rest_0319,Meghana Bites,Street_Food,Banashankari,4.58,871,1073,29,32,8.94,0,2670,19
+rest_0320,Fresh Kitchen,Healthy_Bowls,Basavanagudi,4.26,1235,362,38,16,6.84,0,3530,16
+rest_0321,Shivaji Diner,Desserts,Electronic_City,3.49,1257,493,29,14,6.37,0,3132,16
+rest_0322,Royal Stop,Italian,Bommanahalli,3.64,81,178,20,17,8.08,0,317,19
+rest_0323,Paradise Garden,South_Indian,Marathahalli,3.26,473,407,45,21,11.06,0,1751,8
+rest_0324,Curry Point,Mexican,Basavanagudi,3.56,589,431,38,15,4.85,0,1748,9
+rest_0325,Blue_Tokai Hut,Fast_Food,Malleshwaram,3.83,1287,203,24,24,1.39,0,4000,11
+rest_0326,Delhi Hub,Chinese,Malleshwaram,4.26,1403,292,45,20,6.04,0,3783,11
+rest_0327,Tandoor Diner,Healthy_Bowls,Sarjapur,4.04,4898,874,29,35,10.74,0,9145,10
+rest_0328,Flame Hub,Continental,BTM_Layout,3.93,88,551,43,19,2.99,0,265,15
+rest_0329,Shivaji Hub,Italian,Sarjapur,4.23,422,449,36,18,8.38,0,1606,17
+rest_0330,Empire Hut,Chinese,Whitefield,4.47,4331,947,29,34,5.97,1,13152,8
+rest_0331,Urban Republic,Japanese,Electronic_City,3.31,10,277,39,18,6.5,0,24,8
+rest_0332,Grill Republic,Desserts,BTM_Layout,4.25,1476,430,33,14,9.31,0,5572,9
+rest_0333,Momo Eatery,Cafe,Banashankari,3.45,64,431,23,10,2.86,0,224,14
+rest_0334,Truffles Point,Chinese,Sarjapur,2.88,447,198,33,13,11.91,0,1114,11
+rest_0335,Vidyarthi Lab,Desserts,Banashankari,3.68,1186,394,29,21,5.08,0,2188,18
+rest_0336,Tandoor Point,Italian,Basavanagudi,3.64,1177,446,41,11,11.59,0,1781,9
+rest_0337,Delhi Republic,Cafe,Bommanahalli,3.28,504,348,39,11,11.2,0,1260,18
+rest_0338,Paradise Factory,North_Indian,Jayanagar,3.9,275,143,16,20,6.43,0,571,10
+rest_0339,Royal Hub,South_Indian,Marathahalli,3.03,212,169,21,16,8.59,1,805,16
+rest_0340,Momo Plate,Healthy_Bowls,Banashankari,3.02,427,141,34,11,5.15,0,645,10
+rest_0341,Vidyarthi Studio,South_Indian,Banashankari,4.26,1158,1042,33,32,7.11,0,3746,14
+rest_0342,Masala Factory,Japanese,Bellandur,3.79,256,106,17,14,11.93,0,817,11
+rest_0343,Meghana Studio,Continental,Koramangala,2.9,157,100,36,19,1.37,0,601,15
+rest_0344,Curry Dhaba,Italian,KR_Puram,4.43,1449,572,26,25,3.2,0,3050,12
+rest_0345,Bowl Garden,Italian,JP_Nagar,3.03,408,103,17,18,6.17,0,618,16
+rest_0346,Green Republic,Fast_Food,Bommanahalli,4.37,1226,548,35,15,11.03,0,2698,11
+rest_0347,Green Studio,Fast_Food,BTM_Layout,3.66,244,295,37,16,8.43,0,373,11
+rest_0348,Truffles Eatery,Healthy_Bowls,Marathahalli,3.54,601,389,39,20,6.24,0,1217,19
+rest_0349,Nandhini Corner,Street_Food,MG_Road,4.47,1454,291,23,18,6.89,0,5293,11
+rest_0350,Delhi Plate,Chinese,Rajajinagar,2.76,265,110,35,16,4.13,0,719,12
+rest_0351,Golden Hut,South_Indian,Old_Airport_Road,3.48,570,391,40,13,4.35,0,1369,16
+rest_0352,Flame Dhaba,North_Indian,Sarjapur,4.78,1829,861,45,35,11.76,0,4044,13
+rest_0353,Third_Wave Republic,Desserts,Silk_Board,3.3,1306,315,40,14,7.87,0,4990,14
+rest_0354,Urban Hub,Fast_Food,JP_Nagar,4.05,597,442,32,18,9.48,0,2296,19
+rest_0355,Blue_Tokai Factory,Pizza,MG_Road,3.23,530,465,43,12,5.07,0,921,15
+rest_0356,Golden Kitchen,Desserts,BTM_Layout,4.49,262,305,24,12,10.68,0,595,11
+rest_0357,Blue_Tokai Hub,North_Indian,Indiranagar,3.79,176,270,29,16,6.81,0,323,19
+rest_0358,Wok Grill,Thai,Bellandur,4.03,1205,374,40,19,6.04,0,2491,9
+rest_0359,Veena Bites,Fast_Food,Sarjapur,3.59,50,409,44,14,5.9,0,76,15
+rest_0360,Truffles Palace,Pizza,Banashankari,3.52,1372,356,32,17,5.36,0,2879,20
+rest_0361,Pasta House,Chinese,Electronic_City,4.03,1315,381,42,25,0.72,0,2135,16
+rest_0362,Chai Junction,Mexican,Bellandur,2.85,87,83,21,13,9.54,0,238,13
+rest_0363,Brahmin Bowl,Desserts,Indiranagar,4.3,349,222,44,22,5.91,1,691,12
+rest_0364,Empire Kitchen,South_Indian,Old_Airport_Road,4.2,957,299,21,16,9.37,0,2682,11
+rest_0365,Shivaji Hut,Japanese,Yelahanka,2.74,382,89,32,16,6.03,0,858,13
+rest_0366,Bowl Point,Italian,Yeshwanthpur,3.22,615,434,32,17,0.98,1,2127,15
+rest_0367,Urban Garden,Chinese,Rajajinagar,4.56,691,448,45,19,9.6,0,1253,11
+rest_0368,Curry Lab,Desserts,Yeshwanthpur,3.71,234,241,15,19,8.83,0,497,8
+rest_0369,Paradise Bowl,Street_Food,Banashankari,4.11,438,427,37,21,5.89,0,1607,17
+rest_0370,Tandoor House,Continental,Electronic_City,4.27,1159,347,20,22,10.65,0,3534,13
+rest_0371,Oven Cafe,Mexican,HSR_Layout,3.31,208,122,36,15,2.27,0,459,14
+rest_0372,Desi Studio,Japanese,HSR_Layout,4.84,1663,1099,31,18,1.64,0,4868,14
+rest_0373,Truffles Garden,Thai,Old_Airport_Road,4.84,1909,925,27,29,1.2,0,5526,14
+rest_0374,Fresh Palace,Continental,Whitefield,4.21,3356,552,41,22,11.4,0,9719,16
+rest_0375,Vidyarthi Plate,South_Indian,Yeshwanthpur,4.08,1488,466,23,15,6.82,0,4109,18
+rest_0376,Veena Dhaba,Cafe,Hebbal,4.5,811,365,40,23,4.22,0,1704,16
+rest_0377,Bowl Hut,Desserts,Banashankari,2.88,241,178,27,8,11.8,0,720,16
+rest_0378,Madras Bites,North_Indian,Yelahanka,2.82,171,85,37,12,6.38,0,500,17
+rest_0379,Green Factory,Fast_Food,Electronic_City,4.33,4969,600,33,24,5.1,1,18855,19
+rest_0380,Fresh Plate,Fast_Food,Rajajinagar,4.27,1462,481,23,19,9.8,1,3587,20
+rest_0381,Golden Cafe,Fast_Food,Sarjapur,4.33,514,499,39,10,7.77,0,840,16
+rest_0382,Third_Wave Bowl,Italian,Electronic_City,4.66,3418,1177,49,34,1.54,0,8817,20
+rest_0383,Madras Cafe,South_Indian,Rajajinagar,3.26,867,305,32,23,2.0,0,1592,16
+rest_0384,Pasta Republic,Pizza,Yeshwanthpur,3.93,1123,298,22,18,4.22,0,4279,9
+rest_0385,Vidyarthi Delight,Fast_Food,Malleshwaram,3.65,1392,210,29,15,7.59,0,5533,15
+rest_0386,Delhi Factory,North_Indian,JP_Nagar,3.69,225,245,21,17,11.16,0,826,12
+rest_0387,Royal Cafe,Mexican,Whitefield,3.81,729,284,37,16,6.52,0,1564,15
+rest_0388,Blue_Tokai Express,Biryani,MG_Road,4.18,2422,442,45,15,8.09,1,7647,18
+rest_0389,Spice Bites,Healthy_Bowls,Yeshwanthpur,4.47,1091,591,23,20,7.37,0,1876,11
+rest_0390,Third_Wave Factory,Continental,Old_Airport_Road,4.22,4536,644,40,27,0.71,0,14564,13
+rest_0391,Biryani Garden,Continental,Marathahalli,3.44,459,165,15,16,3.09,0,1080,14
+rest_0392,Madras House,Mexican,BTM_Layout,4.08,1331,475,33,17,5.4,0,3035,17
+rest_0393,Madras Palace,Japanese,Electronic_City,4.09,464,545,29,14,10.95,0,1589,18
+rest_0394,Tandoor Cafe,South_Indian,Banashankari,4.14,427,327,24,10,10.62,0,1082,14
+rest_0395,Madras Hub,North_Indian,Bommanahalli,3.99,1304,292,27,17,4.63,0,4199,15
+rest_0396,Madras Studio,Healthy_Bowls,Bommanahalli,4.04,426,541,35,25,2.72,0,673,20
+rest_0397,Vidyarthi Garden,Mexican,Domlur,3.64,43,119,29,17,4.24,0,113,11
+rest_0398,Empire Plate,Fast_Food,BTM_Layout,4.17,1266,414,40,11,5.69,0,4516,8
+rest_0399,Oven Studio,Continental,BTM_Layout,2.56,208,194,35,8,5.55,0,771,20
+rest_0400,Golden Bowl,Continental,Electronic_City,4.04,235,489,23,15,11.29,0,761,10
+rest_0401,Brahmin Grill,Cafe,Old_Airport_Road,3.82,56,135,37,18,9.66,0,184,9
+rest_0402,Veena Diner,Fast_Food,HSR_Layout,3.7,1097,445,25,22,1.0,0,2114,13
+rest_0403,Golden Delight,Biryani,Yelahanka,3.94,157,218,18,10,0.54,0,535,8
+rest_0404,Paradise Lab,Desserts,Koramangala,3.84,494,436,35,24,1.41,0,1482,11
+rest_0405,Chai Eatery,Japanese,Banashankari,2.81,104,113,35,13,10.32,1,329,17
+rest_0406,Biryani Cafe,Cafe,HSR_Layout,4.38,1660,529,34,34,8.55,0,4864,16
+rest_0407,Wok Factory,Mexican,KR_Puram,3.25,662,329,32,12,10.2,0,1100,15
+rest_0408,Madras Point,Mexican,Marathahalli,3.74,479,478,39,11,8.89,1,1471,9
+rest_0409,Shivaji Plate,Mexican,Bommanahalli,3.98,157,174,25,12,11.94,0,374,10
+rest_0410,Paradise Republic,Desserts,MG_Road,2.85,158,295,15,9,7.69,1,283,11
+rest_0411,Bowl Kitchen,Japanese,Jayanagar,2.88,44,148,31,16,0.57,0,141,13
+rest_0412,Nandhini Plate,Thai,Bommanahalli,3.75,109,153,25,18,5.96,0,173,10
+rest_0413,Shivaji Junction,Japanese,Bellandur,3.31,181,182,28,19,6.49,1,527,18
+rest_0414,Spice Palace,Thai,Domlur,4.39,774,226,24,18,4.4,0,1887,16
+rest_0415,Tandoor Grill,Thai,BTM_Layout,3.35,681,482,30,11,1.5,0,2514,13
+rest_0416,Bowl Studio,Biryani,MG_Road,4.71,1855,1131,39,31,6.05,1,5101,11
+rest_0417,Masala Republic,Mexican,Basavanagudi,3.63,251,529,36,14,0.92,0,619,16
+rest_0418,Biryani Express,Japanese,Bommanahalli,3.0,465,90,31,20,4.09,0,1368,12
+rest_0419,Bowl Cafe,Italian,Jayanagar,3.89,953,468,28,14,1.82,0,3712,16
+rest_0420,Bowl Lab,Fast_Food,Banashankari,3.38,1492,522,38,17,4.08,0,5566,16
+rest_0421,Shivaji Stop,North_Indian,Whitefield,3.31,852,272,39,24,4.09,0,3019,19
+rest_0422,Urban Factory,Thai,Electronic_City,4.72,4036,478,34,35,5.85,0,8391,11
+rest_0423,Delhi Eatery,Biryani,Malleshwaram,4.11,1412,332,30,24,1.25,0,2516,15
+rest_0424,Brahmin Hub,Biryani,Malleshwaram,3.37,260,362,42,13,7.97,0,905,16
+rest_0425,Brahmin Hut,Thai,Sarjapur,3.52,375,590,32,12,9.86,0,1116,20
+rest_0426,Rameshwaram Grill,Desserts,Hebbal,3.51,1407,468,43,25,7.35,1,3255,9
+rest_0427,Veena Hub,Biryani,BTM_Layout,4.1,3304,662,45,16,9.9,1,12284,20
+rest_0428,Veena Palace,Italian,Domlur,2.95,416,281,24,14,11.02,0,1653,17
+rest_0429,Golden Dhaba,Cafe,Banashankari,2.5,296,261,26,9,10.46,0,618,19
+rest_0430,Curry Bowl,Pizza,BTM_Layout,3.91,1406,269,24,16,10.2,0,3375,14
+rest_0431,Spice Junction,Mexican,Rajajinagar,3.96,79,99,35,20,5.74,0,274,17
+rest_0432,Rameshwaram Eatery,Chinese,Bellandur,3.92,971,354,27,15,0.59,0,2665,19
+rest_0433,Third_Wave Corner,Pizza,Banashankari,3.24,127,427,42,21,6.04,1,409,10
+rest_0434,Brahmin Studio,South_Indian,Basavanagudi,2.63,251,219,36,18,7.79,1,877,12
+rest_0435,Biryani Plate,Desserts,KR_Puram,4.02,1234,268,21,19,7.68,0,2735,9
+rest_0436,Chai Corner,Healthy_Bowls,Marathahalli,4.1,1630,1128,48,19,4.75,0,3159,20
+rest_0437,Oven Republic,Chinese,Basavanagudi,3.01,53,293,34,10,9.16,0,134,14
+rest_0438,Oven Stop,Street_Food,Silk_Board,3.47,756,222,28,13,5.84,1,2034,15
+rest_0439,Veena Hut,Japanese,Hebbal,3.52,31,101,32,18,10.21,0,93,18
+rest_0440,Chai Cafe,Biryani,Marathahalli,2.88,309,166,39,18,8.94,0,918,11
+rest_0441,Desi Stop,Street_Food,Malleshwaram,3.57,445,214,39,12,7.33,1,1662,11
+rest_0442,Bombay Bowl,South_Indian,HSR_Layout,2.69,346,248,35,17,2.62,0,614,10
+rest_0443,Flame Bites,Street_Food,Domlur,3.46,482,299,39,14,8.18,0,1650,12
+rest_0444,Chai Express,Pizza,BTM_Layout,3.28,592,271,22,25,2.81,0,1469,18
+rest_0445,Delhi Lab,Desserts,Sarjapur,4.04,954,486,23,11,7.07,1,2028,15
+rest_0446,Spice Republic,Chinese,Yeshwanthpur,4.41,1411,356,24,20,7.11,0,3934,20
+rest_0447,Meghana Cafe,Japanese,Yelahanka,4.02,1375,236,37,20,5.79,1,4697,18
+rest_0448,Pasta Hub,Continental,Indiranagar,3.49,163,233,18,18,6.09,0,605,15
+rest_0449,Spice Plate,Thai,JP_Nagar,3.28,1157,457,35,24,0.69,0,2716,13
+rest_0450,Green Hut,South_Indian,Jayanagar,3.5,244,287,32,10,3.18,0,409,19
+rest_0451,Wok Diner,North_Indian,Yelahanka,2.65,322,118,33,9,1.72,0,883,20
+rest_0452,Grill House,Desserts,Jayanagar,4.25,1439,361,23,14,11.59,0,2925,8
+rest_0453,Fresh Point,Biryani,Electronic_City,2.75,199,202,29,11,0.97,0,348,18
+rest_0454,Urban Kitchen,North_Indian,MG_Road,3.56,313,275,28,19,9.38,0,1011,11
+rest_0455,Veena Delight,Italian,MG_Road,3.25,418,487,39,12,9.5,0,990,8
+rest_0456,Oven Palace,South_Indian,Basavanagudi,3.43,451,247,32,16,9.36,0,1419,12
+rest_0457,Golden Palace,South_Indian,Electronic_City,3.95,252,189,20,18,1.12,0,607,11
+rest_0458,Rameshwaram Corner,Fast_Food,Bommanahalli,3.64,32,103,16,16,9.53,0,86,9
+rest_0459,Veena Grill,Thai,Hebbal,4.17,717,292,23,20,3.23,0,1815,11
+rest_0460,Fresh Republic,Thai,Rajajinagar,4.39,1970,1142,39,20,2.07,0,6500,18
+rest_0461,Meghana Corner,Italian,Hebbal,4.62,688,624,28,29,2.47,0,1622,12
+rest_0462,Delhi Grill,Cafe,Koramangala,3.26,1013,493,36,11,5.03,0,3570,19
+rest_0463,Desi Factory,Street_Food,JP_Nagar,4.68,3531,1160,29,26,7.95,0,6097,15
+rest_0464,Biryani Hub,Mexican,Bellandur,3.62,22,295,29,20,8.59,0,43,13
+rest_0465,Royal Diner,South_Indian,BTM_Layout,3.0,26,145,39,12,7.54,0,76,11
+rest_0466,Masala Plate,Cafe,Indiranagar,4.38,795,555,23,22,7.62,0,1919,10
+rest_0467,Bowl Junction,Fast_Food,JP_Nagar,4.04,1238,548,42,16,9.25,0,2848,12
+rest_0468,Third_Wave Stop,Pizza,Marathahalli,4.34,3906,789,41,18,6.62,0,13918,12
+rest_0469,Veena Eatery,Fast_Food,Domlur,3.71,491,274,21,15,4.99,1,955,9
+rest_0470,Desi Hub,Biryani,Whitefield,3.24,457,125,35,8,11.65,0,1304,10
+rest_0471,Curry Republic,Thai,Domlur,3.76,237,181,33,10,4.02,0,823,11
+rest_0472,Momo Express,Chinese,Malleshwaram,4.44,1316,570,42,19,2.52,0,4303,18
+rest_0473,Madras Factory,Biryani,Malleshwaram,3.93,121,466,31,14,6.71,0,230,12
+rest_0474,Curry Junction,North_Indian,Silk_Board,3.86,1375,482,35,19,9.17,0,5479,18
+rest_0475,Veena Cafe,Mexican,Whitefield,3.85,81,229,18,12,7.6,1,166,13
+rest_0476,Urban Cafe,North_Indian,Bommanahalli,3.96,504,513,44,18,1.46,0,1826,18
+rest_0477,Nandhini Palace,Street_Food,Hebbal,3.87,164,563,31,22,10.32,0,397,13
+rest_0478,Meghana Dhaba,Biryani,Bellandur,2.63,382,275,38,14,3.82,0,1342,14
+rest_0479,Vidyarthi Junction,Healthy_Bowls,KR_Puram,3.39,671,390,36,20,11.54,1,2274,9
+rest_0480,Wok Hut,Biryani,Banashankari,4.27,668,534,29,25,5.83,0,1046,8
+rest_0481,Delhi Corner,Biryani,Yeshwanthpur,3.21,344,227,24,14,10.93,0,1070,8
+rest_0482,Bombay Corner,Street_Food,HSR_Layout,3.67,1034,426,28,25,9.91,0,2515,19
+rest_0483,Madras Dhaba,Chinese,Indiranagar,3.75,779,219,29,12,9.31,0,1525,9
+rest_0484,Curry Cafe,Healthy_Bowls,Domlur,2.91,367,231,18,16,9.97,0,562,16
+rest_0485,Momo Dhaba,Desserts,Rajajinagar,4.4,383,241,24,17,9.64,0,1109,19
+rest_0486,Blue_Tokai Lab,Mexican,Banashankari,3.7,223,181,17,9,11.12,0,601,12
+rest_0487,Wok Bowl,Biryani,Koramangala,2.68,75,268,19,19,1.94,0,136,9
+rest_0488,Bombay House,North_Indian,Rajajinagar,2.56,65,87,36,16,5.89,0,245,8
+rest_0489,Bombay Eatery,Italian,KR_Puram,2.78,189,86,19,19,11.41,0,447,10
+rest_0490,Third_Wave Plate,Thai,JP_Nagar,3.29,1234,505,36,16,11.59,0,2380,20
+rest_0491,Meghana Hut,Pizza,Jayanagar,3.73,693,249,23,14,4.65,0,1538,19
+rest_0492,Green House,Fast_Food,Rajajinagar,4.26,2755,950,39,22,3.84,0,10023,11
+rest_0493,Paradise Stop,South_Indian,BTM_Layout,4.06,224,248,32,22,11.74,0,751,10
+rest_0494,Fresh Dhaba,Italian,Hebbal,4.3,877,249,33,25,8.71,0,2591,12
+rest_0495,Flame Republic,Street_Food,JP_Nagar,3.37,253,495,22,25,11.68,0,621,18
+rest_0496,Brahmin Palace,Biryani,Domlur,3.86,1160,337,37,10,0.86,0,2988,9
+rest_0497,Empire Factory,Fast_Food,BTM_Layout,3.25,412,423,44,19,2.39,0,1061,12
+rest_0498,Tandoor Studio,North_Indian,BTM_Layout,3.97,823,447,31,19,0.82,0,1327,13
+rest_0499,Meghana Plate,Thai,Koramangala,3.44,204,101,26,13,1.15,0,430,11
+rest_0500,Urban Bowl,South_Indian,Yelahanka,4.15,4610,661,39,28,10.87,0,9987,19
+rest_0501,Empire Cafe,Thai,Whitefield,2.65,355,125,30,16,8.17,0,680,12
+rest_0502,Truffles Delight,Italian,Rajajinagar,4.47,204,536,37,16,1.05,0,814,14
+rest_0503,Grill Eatery,Mexican,HSR_Layout,3.37,313,154,17,17,5.97,0,633,20
+rest_0504,Fresh Diner,Healthy_Bowls,Yelahanka,3.59,1408,416,26,23,7.69,0,3707,20
+rest_0505,Wok Kitchen,Japanese,Old_Airport_Road,3.44,1072,285,43,24,7.84,0,3775,20
+rest_0506,Golden Studio,Italian,Malleshwaram,3.51,1453,506,33,23,10.05,0,2413,11
+rest_0507,Tandoor Corner,Japanese,Bommanahalli,3.51,357,277,27,19,6.94,0,924,18
+rest_0508,Flame Corner,Japanese,Banashankari,4.31,1045,513,21,12,3.93,0,1733,14
+rest_0509,Truffles Stop,Japanese,HSR_Layout,4.29,337,294,38,13,10.03,0,1305,16
+rest_0510,Bombay Cafe,Fast_Food,KR_Puram,3.71,390,132,28,11,2.51,0,1530,15
+rest_0511,Rameshwaram Republic,Japanese,JP_Nagar,3.82,489,112,30,19,4.04,0,1522,17
+rest_0512,Oven Corner,Continental,BTM_Layout,4.45,793,561,41,13,3.22,0,2066,8
+rest_0513,Biryani House,Cafe,JP_Nagar,4.32,378,566,40,20,9.32,0,950,8
+rest_0514,Rameshwaram Point,Healthy_Bowls,MG_Road,3.26,190,173,38,16,5.71,0,297,8
+rest_0515,Tandoor Garden,Continental,Old_Airport_Road,3.75,400,109,34,18,11.3,0,1051,19
+rest_0516,Spice Lab,Japanese,Bommanahalli,4.38,997,279,42,15,7.61,1,2991,10
+rest_0517,Urban Dhaba,Chinese,KR_Puram,4.65,3764,1019,39,30,8.71,1,7439,20
+rest_0518,Bowl Bites,Mexican,Domlur,3.43,348,212,28,17,10.93,0,843,18
+rest_0519,Bowl Bowl,Pizza,Old_Airport_Road,3.98,199,238,21,11,3.2,0,750,17
+rest_0520,Green Kitchen,Biryani,Basavanagudi,3.59,858,469,24,11,3.49,0,2367,13
+rest_0521,Brahmin Junction,South_Indian,Hebbal,3.15,143,106,16,10,11.69,0,314,13
+rest_0522,Rameshwaram Bites,Cafe,Marathahalli,4.19,590,407,33,15,11.94,0,2011,10
+rest_0523,Golden Garden,Chinese,Indiranagar,3.41,1006,375,35,11,11.87,0,2919,15
+rest_0524,Wok Hub,Mexican,Basavanagudi,3.34,349,209,33,8,7.06,0,886,9
+rest_0525,Truffles Grill,Cafe,Whitefield,2.73,51,181,37,18,7.73,0,110,18
+rest_0526,Green Diner,Thai,Bellandur,4.15,1215,252,21,19,1.14,0,2037,17
+rest_0527,Empire House,Pizza,Marathahalli,4.45,866,236,26,15,5.13,0,2700,18
+rest_0528,Biryani Stop,Thai,Electronic_City,3.32,802,405,35,24,5.98,0,2331,14
+rest_0529,Urban Delight,Desserts,Malleshwaram,3.76,922,237,36,20,8.28,0,2875,19
+rest_0530,Delhi Junction,Japanese,Yelahanka,3.28,161,205,32,9,6.4,0,447,14
+rest_0531,Flame Grill,South_Indian,Basavanagudi,4.67,3991,544,30,27,5.29,1,13014,13
+rest_0532,Flame Cafe,Cafe,MG_Road,3.3,1287,304,41,13,0.71,0,3201,8
+rest_0533,Nandhini Bites,South_Indian,Electronic_City,4.17,330,957,31,15,7.96,0,1031,14
+rest_0534,Shivaji Kitchen,Healthy_Bowls,Bellandur,3.46,1216,532,32,11,1.68,0,4400,14
+rest_0535,Vidyarthi Republic,Mexican,KR_Puram,3.92,645,215,32,25,8.83,0,2475,15
+rest_0536,Grill Bowl,North_Indian,Basavanagudi,4.52,4732,451,45,28,1.84,0,14464,18
+rest_0537,Tandoor Bites,Mexican,Jayanagar,3.77,1089,288,41,20,10.31,0,3580,15
+rest_0538,Empire Delight,Healthy_Bowls,Domlur,3.04,251,256,20,17,8.44,0,430,15
+rest_0539,Meghana Stop,Chinese,MG_Road,3.84,26,257,25,14,3.11,1,75,15
+rest_0540,Desi Bowl,North_Indian,Bellandur,3.94,396,104,18,20,9.49,0,1531,16
+rest_0541,Veena Studio,Street_Food,Silk_Board,2.73,196,154,19,9,5.55,0,497,20
+rest_0542,Shivaji Cafe,Biryani,Basavanagudi,3.55,899,344,41,17,9.17,0,2296,11
+rest_0543,Truffles Kitchen,Street_Food,Electronic_City,3.58,274,288,17,13,11.79,0,523,8
+rest_0544,Nandhini Express,Japanese,Yeshwanthpur,3.95,1343,592,45,19,10.69,0,4367,12
+rest_0545,Nandhini Factory,Japanese,Jayanagar,3.44,326,223,37,13,9.49,0,818,11
+rest_0546,Green Lab,Fast_Food,BTM_Layout,3.61,74,195,32,12,6.38,0,168,13
+rest_0547,Tandoor Kitchen,North_Indian,Banashankari,3.51,672,491,36,13,10.18,0,1444,16
+rest_0548,Meghana Point,North_Indian,Yeshwanthpur,3.17,303,242,29,13,9.76,0,1203,17
+rest_0549,Grill Dhaba,Biryani,Yelahanka,3.72,303,228,37,14,3.35,0,702,17
+rest_0550,Rameshwaram Delight,South_Indian,HSR_Layout,4.8,4101,572,27,26,5.13,0,11882,20
+rest_0551,Rameshwaram Factory,Mexican,Rajajinagar,3.13,93,112,19,15,1.99,0,303,16
+rest_0552,Bowl Factory,Street_Food,Indiranagar,3.92,199,283,18,17,1.77,0,482,12
+rest_0553,Truffles Bites,Fast_Food,Yelahanka,3.24,342,257,38,23,10.78,1,1273,11
+rest_0554,Green Delight,Street_Food,KR_Puram,3.79,741,513,35,14,6.3,0,1965,15
+rest_0555,Veena Junction,Healthy_Bowls,Silk_Board,4.24,1410,449,32,17,4.4,0,2276,18
+rest_0556,Veena Plate,Biryani,Yeshwanthpur,4.15,403,858,50,24,1.92,0,1168,11
+rest_0557,Golden Grill,Continental,Jayanagar,3.25,19,106,32,10,3.66,0,38,19
+rest_0558,Vidyarthi Kitchen,Healthy_Bowls,Basavanagudi,3.53,284,592,37,15,2.6,0,971,10
+rest_0559,Spice Bowl,North_Indian,Yelahanka,3.62,895,557,28,22,10.84,0,1458,11
+rest_0560,Third_Wave Studio,Pizza,Whitefield,3.61,1182,363,35,10,3.19,0,4391,12
+rest_0561,Third_Wave Palace,Desserts,Electronic_City,4.48,552,415,33,24,9.85,1,2154,17
+rest_0562,Empire Dhaba,Healthy_Bowls,Yeshwanthpur,4.29,626,218,43,12,5.05,0,1131,10
+rest_0563,Flame Bowl,Street_Food,Marathahalli,4.48,749,284,39,20,8.46,1,2333,8
+rest_0564,Veena Stop,South_Indian,Malleshwaram,3.06,317,159,20,20,11.81,0,574,13
+rest_0565,Pasta Factory,North_Indian,JP_Nagar,3.64,358,283,26,11,7.55,1,808,19
+rest_0566,Paradise Dhaba,North_Indian,Marathahalli,4.12,1291,284,26,22,3.69,1,3551,10
+rest_0567,Pasta Stop,Mexican,KR_Puram,3.4,99,94,19,19,3.49,1,289,11
+rest_0568,Blue_Tokai Plate,Desserts,Marathahalli,4.08,1469,471,39,18,10.66,0,2210,14
+rest_0569,Grill Express,Biryani,Sarjapur,3.61,852,278,22,10,3.09,0,2746,9
+rest_0570,Shivaji Delight,Desserts,Koramangala,4.01,734,536,27,13,11.53,0,2628,13
+rest_0571,Blue_Tokai Garden,South_Indian,Bommanahalli,4.19,1330,379,23,12,11.04,0,3249,19
+rest_0572,Fresh Junction,North_Indian,Bellandur,4.55,3737,453,46,16,3.89,0,9169,9
+rest_0573,Royal Factory,Pizza,Bellandur,3.82,327,102,35,18,5.72,0,758,11
+rest_0574,Fresh Grill,Desserts,Jayanagar,2.69,270,136,28,15,5.61,0,569,20
+rest_0575,Green Express,Chinese,Yelahanka,3.87,1384,502,29,14,4.05,0,3262,13
+rest_0576,Royal Studio,Thai,Domlur,2.59,269,260,32,8,2.75,0,538,11
+rest_0577,Fresh Cafe,Italian,Domlur,4.1,1007,440,30,20,5.31,0,1919,15
+rest_0578,Empire Palace,Pizza,MG_Road,2.51,15,96,15,16,3.84,1,29,17
+rest_0579,Truffles Express,North_Indian,Jayanagar,3.43,586,488,30,17,0.75,0,2113,9
+rest_0580,Brahmin Garden,Fast_Food,Malleshwaram,3.91,419,299,28,19,2.16,1,1596,20
+rest_0581,Pasta Palace,Continental,BTM_Layout,2.98,229,295,22,8,7.25,0,832,12
+rest_0582,Third_Wave Grill,Cafe,Rajajinagar,3.31,1013,516,39,12,4.96,0,3754,20
+rest_0583,Third_Wave Dhaba,Street_Food,Basavanagudi,3.62,815,410,35,25,7.18,0,2522,20
+rest_0584,Grill Palace,Street_Food,JP_Nagar,3.6,822,429,31,18,2.04,0,1405,15
+rest_0585,Blue_Tokai Dhaba,Italian,KR_Puram,4.46,2955,741,39,28,9.75,0,6774,14
+rest_0586,Flame Diner,South_Indian,Malleshwaram,2.94,266,193,35,9,11.16,0,464,9
+rest_0587,Flame Kitchen,Desserts,Yelahanka,3.65,877,578,38,10,6.4,0,2984,10
+rest_0588,Nandhini Garden,Italian,Silk_Board,3.21,274,209,32,20,9.87,0,644,9
+rest_0589,Curry Palace,Pizza,Old_Airport_Road,3.77,1193,212,24,14,8.98,0,3280,18
+rest_0590,Rameshwaram Stop,Desserts,BTM_Layout,3.54,163,152,15,17,11.1,0,307,13
+rest_0591,Nandhini Hut,Italian,BTM_Layout,4.35,4089,487,43,29,4.0,0,7885,18
+rest_0592,Wok Express,Healthy_Bowls,Old_Airport_Road,3.23,457,228,32,19,3.85,0,1284,15
+rest_0593,Blue_Tokai Kitchen,Chinese,Hebbal,3.12,90,298,19,16,9.05,0,222,11
+rest_0594,Pasta Studio,Mexican,Domlur,3.46,342,378,32,17,10.97,0,1264,15
+rest_0595,Brahmin Dhaba,Mexican,Old_Airport_Road,3.09,431,258,20,14,10.85,0,1436,15
+rest_0596,Desi Hut,Mexican,Indiranagar,4.33,610,553,37,19,1.27,0,2022,11
+rest_0597,Bombay Dhaba,South_Indian,Whitefield,4.21,889,380,28,16,5.81,0,1496,19
+rest_0598,Tandoor Hub,Healthy_Bowls,Koramangala,3.43,304,414,32,15,9.28,1,970,10
+rest_0599,Wok Palace,Mexican,Indiranagar,3.3,236,233,35,20,8.12,0,743,9
+rest_0600,Royal Express,Desserts,BTM_Layout,3.89,201,280,21,9,0.82,1,308,11
+rest_0601,Curry Kitchen,Pizza,Jayanagar,3.29,620,460,31,11,3.01,1,1397,17
+rest_0602,Desi Eatery,Fast_Food,Yeshwanthpur,3.52,404,233,25,10,10.67,0,927,18
+rest_0603,Shivaji House,Fast_Food,Koramangala,3.96,833,404,43,17,8.6,0,1277,8
+rest_0604,Bombay Bites,Italian,Silk_Board,3.52,212,224,31,25,2.24,0,426,8
+rest_0605,Masala Junction,Biryani,Hebbal,4.19,1116,517,33,19,3.13,0,3718,13
+rest_0606,Paradise House,Italian,Indiranagar,3.38,468,250,25,16,1.4,0,1550,12
+rest_0607,Pasta Garden,Pizza,MG_Road,3.59,1230,379,40,16,9.48,0,2091,13
+rest_0608,Tandoor Republic,Street_Food,Sarjapur,4.16,369,528,45,25,4.89,1,1341,20
+rest_0609,Delhi Palace,North_Indian,Koramangala,3.6,201,188,28,14,4.79,0,547,18
+rest_0610,Tandoor Palace,Desserts,Sarjapur,3.66,394,239,31,19,8.42,0,1277,18
+rest_0611,Shivaji Express,Cafe,Malleshwaram,4.08,1478,466,24,18,11.36,0,2761,11
+rest_0612,Meghana Junction,Biryani,Silk_Board,4.17,1481,323,25,25,1.3,1,4799,16
+rest_0613,Vidyarthi Diner,Biryani,Silk_Board,3.43,431,482,26,25,11.41,0,1132,11
+rest_0614,Golden Plate,Chinese,Jayanagar,4.37,887,376,39,13,2.41,0,1980,14
+rest_0615,Spice Grill,Italian,Rajajinagar,4.19,69,224,44,10,9.58,0,110,11
+rest_0616,Masala Cafe,Healthy_Bowls,JP_Nagar,3.5,203,214,26,13,0.54,0,746,14
+rest_0617,Pasta Kitchen,Japanese,Hebbal,4.32,574,1176,48,25,3.19,0,1556,19
+rest_0618,Desi Plate,Pizza,Yelahanka,4.13,1115,550,45,11,9.66,0,2512,18
+rest_0619,Bowl Hub,Desserts,Domlur,2.66,376,86,25,14,3.03,0,806,15
+rest_0620,Madras Lab,Japanese,Silk_Board,4.23,731,549,38,12,4.84,0,2407,19
+rest_0621,Empire Diner,Japanese,Banashankari,3.16,129,129,18,12,1.53,1,432,11
+rest_0622,Pasta Hut,Pizza,Hebbal,3.7,488,255,31,18,3.05,0,1214,16
+rest_0623,Brahmin Cafe,Chinese,Yelahanka,3.25,243,112,24,10,10.26,0,867,8
+rest_0624,Bowl Republic,Biryani,Old_Airport_Road,2.59,424,153,37,11,11.25,0,874,19
+rest_0625,Paradise Plate,Pizza,Yelahanka,3.49,444,115,15,16,5.36,0,1191,13
+rest_0626,Fresh Studio,Mexican,Yelahanka,4.4,1485,543,32,13,9.15,0,4382,20
+rest_0627,Royal Dhaba,Mexican,KR_Puram,4.71,1409,701,38,20,1.6,0,5544,10
+rest_0628,Golden Point,Continental,Yeshwanthpur,3.76,354,451,32,17,3.27,1,963,19
+rest_0629,Empire Corner,Japanese,Yeshwanthpur,3.22,288,233,35,17,7.09,1,844,12
+rest_0630,Desi Grill,Chinese,BTM_Layout,4.04,938,319,24,13,8.71,0,3428,16
+rest_0631,Madras Grill,Italian,Yeshwanthpur,3.93,121,234,23,19,6.76,0,309,18
+rest_0632,Curry Studio,Cafe,Malleshwaram,3.86,1458,240,21,17,2.13,1,5307,11
+rest_0633,Madras Eatery,Continental,Jayanagar,3.56,1324,369,37,18,7.97,0,2526,15
+rest_0634,Chai Diner,Mexican,Yeshwanthpur,3.68,1396,459,36,15,2.27,0,5557,14
+rest_0635,Oven House,Biryani,Whitefield,4.09,883,226,40,12,4.34,0,1927,20
+rest_0636,Grill Corner,North_Indian,Whitefield,4.46,825,581,45,13,8.88,0,1869,20
+rest_0637,Momo Lab,Biryani,Bommanahalli,4.04,2805,1157,37,20,9.02,0,10995,16
+rest_0638,Delhi Stop,Chinese,Electronic_City,4.16,158,567,40,21,3.36,0,477,19
+rest_0639,Rameshwaram Studio,Mexican,JP_Nagar,4.32,675,363,30,12,1.38,0,1417,9
+rest_0640,Golden House,Mexican,Yelahanka,3.84,71,585,33,14,6.42,0,283,16
+rest_0641,Meghana Garden,Mexican,Domlur,3.74,460,288,36,17,5.66,1,883,20
+rest_0642,Wok House,Fast_Food,Electronic_City,4.44,915,398,25,21,4.39,0,2925,16
+rest_0643,Biryani Diner,Continental,Indiranagar,3.84,444,187,26,8,4.28,0,1058,8
+rest_0644,Meghana Kitchen,South_Indian,Sarjapur,3.31,1103,559,33,13,0.58,0,3776,12
+rest_0645,Biryani Dhaba,Pizza,MG_Road,3.55,948,463,34,15,9.09,0,1435,19
+rest_0646,Pasta Bites,North_Indian,Electronic_City,4.17,114,264,26,25,11.8,0,204,15
+rest_0647,Empire Junction,South_Indian,Whitefield,2.69,186,190,39,18,8.3,0,438,17
+rest_0648,Momo Republic,South_Indian,Sarjapur,3.4,1097,275,28,13,11.93,0,2323,14
+rest_0649,Delhi Garden,South_Indian,Electronic_City,3.56,443,572,33,10,1.55,0,720,14
+rest_0650,Third_Wave Delight,Japanese,Indiranagar,3.55,624,577,42,23,10.79,0,1219,8
+rest_0651,Masala Bites,South_Indian,Whitefield,3.52,404,270,25,13,4.66,0,1392,16
+rest_0652,Delhi Express,Chinese,Jayanagar,4.13,1197,590,31,24,1.85,0,3100,15
+rest_0653,Third_Wave Kitchen,Chinese,Bommanahalli,4.46,643,218,38,11,8.48,0,2155,14
+rest_0654,Tandoor Factory,Desserts,Basavanagudi,4.21,870,443,26,15,7.08,1,2592,8
+rest_0655,Meghana Diner,Thai,Malleshwaram,4.43,1174,306,24,23,3.89,0,4652,18
+rest_0656,Chai Hub,Biryani,Koramangala,4.47,1244,243,43,22,3.46,0,3813,17
+rest_0657,Grill Cafe,Biryani,Jayanagar,4.25,859,262,27,23,10.87,0,1489,10
+rest_0658,Brahmin Diner,Pizza,Whitefield,2.71,394,258,34,9,0.74,0,1405,20
+rest_0659,Green Junction,Italian,HSR_Layout,4.42,1278,205,20,13,9.91,0,4641,9
+rest_0660,Momo Point,Continental,Sarjapur,4.82,396,581,37,19,3.8,0,1506,18
+rest_0661,Fresh Eatery,Fast_Food,Whitefield,4.4,223,558,39,14,6.6,0,668,18
+rest_0662,Rameshwaram Junction,Cafe,Domlur,3.44,156,157,18,12,8.11,0,597,20
+rest_0663,Delhi Hut,Street_Food,Silk_Board,3.96,427,95,33,14,3.7,0,737,10
+rest_0664,Vidyarthi Eatery,Desserts,Yeshwanthpur,4.24,1389,569,32,23,6.7,0,3794,16
+rest_0665,Urban Grill,Mexican,Sarjapur,4.21,499,481,27,21,11.93,1,769,16
+rest_0666,Rameshwaram Dhaba,North_Indian,Old_Airport_Road,4.52,4106,1070,30,15,2.12,0,8674,8
+rest_0667,Madras Plate,Continental,Old_Airport_Road,3.21,379,154,40,18,3.8,0,716,18
+rest_0668,Wok Studio,Chinese,Koramangala,3.75,980,422,28,19,5.37,0,1854,9
+rest_0669,Nandhini Hub,Healthy_Bowls,Silk_Board,3.41,49,260,29,15,7.88,0,174,10
+rest_0670,Rameshwaram Palace,Biryani,Whitefield,4.33,2948,422,34,20,1.25,0,8822,20
+rest_0671,Biryani Palace,Continental,Jayanagar,3.24,601,234,38,11,9.59,0,970,13
+rest_0672,Green Bites,Chinese,Electronic_City,2.62,330,101,37,11,9.79,0,1034,20
+rest_0673,Rameshwaram Express,Cafe,Old_Airport_Road,3.08,116,299,34,9,7.02,0,462,9
+rest_0674,Biryani Lab,Healthy_Bowls,HSR_Layout,3.79,397,574,25,12,4.68,0,684,10
+rest_0675,Paradise Express,Fast_Food,Yelahanka,4.31,1443,252,31,20,8.35,0,3989,12
+rest_0676,Brahmin Factory,Japanese,Banashankari,3.2,53,120,18,14,2.79,0,123,13
+rest_0677,Chai Hut,South_Indian,Yelahanka,3.18,224,195,36,12,1.12,0,837,14
+rest_0678,Meghana Delight,Street_Food,Rajajinagar,4.22,1476,375,42,22,6.95,0,5512,11
+rest_0679,Tandoor Eatery,Pizza,Jayanagar,4.44,1441,431,20,21,0.69,0,5391,16
+rest_0680,Spice Eatery,Cafe,Sarjapur,4.67,4662,480,39,31,0.88,0,10371,14
+rest_0681,Empire Point,Italian,Rajajinagar,3.03,416,281,28,18,9.02,0,631,13
+rest_0682,Grill Studio,Biryani,Marathahalli,2.9,439,279,28,18,10.85,0,1113,8
+rest_0683,Flame Lab,Chinese,Hebbal,3.32,945,205,44,14,8.64,1,3592,9
+rest_0684,Grill Bites,Italian,Banashankari,3.59,423,253,39,12,3.66,0,1623,18
+rest_0685,Spice Diner,Thai,Whitefield,4.83,1205,486,34,23,1.57,0,3296,13
+rest_0686,Spice Delight,South_Indian,Rajajinagar,2.61,361,172,25,18,9.8,0,703,8
+rest_0687,Masala Dhaba,Street_Food,Bommanahalli,3.21,1118,497,23,16,6.66,0,3124,20
+rest_0688,Chai Republic,Italian,HSR_Layout,3.92,652,387,45,25,11.38,0,2481,12
+rest_0689,Pasta Grill,Fast_Food,Malleshwaram,3.73,240,117,16,16,5.21,0,722,18
+rest_0690,Nandhini Kitchen,South_Indian,MG_Road,3.14,105,159,17,11,4.78,0,362,9
+rest_0691,Masala Palace,Street_Food,KR_Puram,3.85,297,95,24,17,3.0,0,862,19
+rest_0692,Pasta Express,Desserts,Rajajinagar,4.49,912,248,34,15,7.3,0,1907,8
+rest_0693,Biryani Corner,Fast_Food,Malleshwaram,3.92,691,398,21,22,11.82,0,1888,18
+rest_0694,Truffles Lab,North_Indian,Old_Airport_Road,2.89,411,89,16,12,4.29,1,1246,20
+rest_0695,Tandoor Junction,Thai,Bellandur,4.29,1412,1002,38,35,1.91,0,3980,17
+rest_0696,Curry Plate,Street_Food,JP_Nagar,4.69,878,682,32,35,2.87,0,1488,15
+rest_0697,Blue_Tokai Studio,Healthy_Bowls,Hebbal,2.97,242,224,31,9,3.02,0,583,15
+rest_0698,Spice Factory,Chinese,Marathahalli,4.6,3908,682,28,32,5.46,1,7333,16
+rest_0699,Masala Express,Street_Food,Marathahalli,3.26,833,493,33,16,5.13,0,2486,16
+rest_0700,Golden Express,Thai,Marathahalli,3.89,614,291,39,22,1.66,0,2047,19
+rest_0701,Oven Hub,Fast_Food,Domlur,4.17,3929,513,25,30,0.74,0,15464,9
+rest_0702,Meghana Republic,Thai,Koramangala,3.52,274,218,20,19,6.54,0,525,10
+rest_0703,Truffles Factory,North_Indian,Malleshwaram,3.63,1110,510,39,25,8.39,1,3685,8
+rest_0704,Delhi Delight,Healthy_Bowls,JP_Nagar,2.71,264,87,33,19,5.45,0,532,9
+rest_0705,Desi Corner,Cafe,Yeshwanthpur,3.85,240,297,31,10,8.31,0,892,14
+rest_0706,Blue_Tokai Bowl,Fast_Food,Bommanahalli,4.72,4842,1175,50,26,11.65,0,13302,18
+rest_0707,Delhi Studio,Biryani,Bommanahalli,3.41,1047,315,45,19,0.97,1,2311,17
+rest_0708,Nandhini Point,Cafe,Marathahalli,3.4,98,204,36,13,2.1,0,335,12
+rest_0709,Veena Bowl,Fast_Food,Basavanagudi,3.57,249,158,29,14,5.8,0,941,8
+rest_0710,Vidyarthi House,Desserts,Electronic_City,3.59,546,432,31,14,10.85,0,2017,8
+rest_0711,Golden Corner,Healthy_Bowls,Yeshwanthpur,4.53,2580,852,47,25,1.9,0,7640,16
+rest_0712,Grill Stop,Japanese,Electronic_City,3.6,63,522,39,16,0.5,1,189,9
+rest_0713,Blue_Tokai Point,Italian,Jayanagar,4.02,4343,755,26,18,6.06,0,8512,11
+rest_0714,Delhi Kitchen,Biryani,Bellandur,4.35,4955,642,45,35,7.63,0,7960,13
+rest_0715,Meghana Bowl,Continental,BTM_Layout,3.43,360,341,43,20,10.37,0,666,20
+rest_0716,Shivaji Eatery,Japanese,MG_Road,4.41,1399,410,24,20,7.18,0,4142,14
+rest_0717,Flame Point,North_Indian,Silk_Board,4.69,441,1139,35,18,4.84,0,1751,17
+rest_0718,Momo Garden,Italian,Silk_Board,4.26,443,234,20,13,9.82,0,1653,13
+rest_0719,Urban Junction,Desserts,Basavanagudi,3.35,522,221,37,20,9.95,1,1161,12
+rest_0720,Third_Wave Bites,Pizza,Bommanahalli,4.63,1108,866,33,35,4.39,1,2384,13
+rest_0721,Chai Plate,North_Indian,Whitefield,4.46,3069,745,34,22,1.14,1,10539,20
+rest_0722,Pasta Lab,Thai,BTM_Layout,3.61,292,186,27,20,1.94,0,949,16
+rest_0723,Meghana Eatery,Japanese,JP_Nagar,2.69,213,185,18,18,3.38,1,608,15
+rest_0724,Vidyarthi Bowl,Thai,Rajajinagar,3.46,330,537,36,17,6.86,0,596,19
+rest_0725,Green Corner,Biryani,KR_Puram,4.28,223,224,39,22,10.42,0,548,8
+rest_0726,Rameshwaram Lab,North_Indian,Domlur,3.9,762,575,39,20,10.94,0,2686,17
+rest_0727,Tandoor Hut,Street_Food,Silk_Board,2.86,474,83,40,18,1.48,0,1007,16
+rest_0728,Momo Cafe,Thai,BTM_Layout,4.25,2401,927,50,35,7.49,0,4347,17
+rest_0729,Veena Kitchen,Street_Food,Indiranagar,3.22,442,202,28,8,1.41,0,1654,16
+rest_0730,Curry House,Street_Food,MG_Road,4.22,581,548,24,17,2.19,0,1769,8
+rest_0731,Curry Express,Continental,Old_Airport_Road,4.44,580,590,20,21,1.01,0,1210,9
+rest_0732,Truffles Cafe,Pizza,Yeshwanthpur,4.43,652,449,25,21,11.2,1,2464,8
+rest_0733,Meghana Palace,Pizza,KR_Puram,4.65,3321,1010,45,17,11.52,0,13220,17
+rest_0734,Masala Garden,Desserts,Malleshwaram,3.61,286,477,34,23,4.55,0,790,13
+rest_0735,Oven Delight,Japanese,KR_Puram,3.41,417,143,25,9,5.34,1,1650,17
+rest_0736,Paradise Cafe,North_Indian,KR_Puram,3.88,1090,538,33,19,4.16,0,2121,10
+rest_0737,Bowl Delight,Continental,Marathahalli,4.0,253,339,25,13,6.1,0,520,10
+rest_0738,Momo Grill,Pizza,Silk_Board,3.36,979,318,23,13,5.47,0,2112,10
+rest_0739,Urban Plate,Desserts,JP_Nagar,2.99,269,154,29,18,8.23,0,453,19
+rest_0740,Blue_Tokai Stop,Chinese,Yelahanka,3.81,352,187,40,18,4.61,0,951,9
+rest_0741,Nandhini Bowl,Chinese,Rajajinagar,3.8,317,171,22,8,6.34,0,1180,20
+rest_0742,Vidyarthi Express,Continental,Hebbal,3.61,851,524,33,22,1.13,0,2309,11
+rest_0743,Bowl Diner,South_Indian,Bommanahalli,3.37,1155,208,43,10,1.54,0,3767,13
+rest_0744,Tandoor Dhaba,Fast_Food,Sarjapur,4.15,77,214,20,13,9.6,0,123,12
+rest_0745,Third_Wave Garden,Pizza,Koramangala,3.59,497,162,32,19,3.08,1,1957,14
+rest_0746,Desi Diner,Biryani,Hebbal,4.57,885,476,30,21,6.13,0,1880,10
+rest_0747,Nandhini Eatery,Healthy_Bowls,Rajajinagar,4.29,526,224,35,18,9.02,0,1886,8
+rest_0748,Fresh Hut,Chinese,Koramangala,4.17,390,279,23,11,6.19,0,1195,16
+rest_0749,Momo Studio,Japanese,Jayanagar,3.93,200,194,23,15,11.27,0,763,19
+rest_0750,Desi Lab,Street_Food,Hebbal,4.56,1481,453,45,32,4.47,0,2273,11
+rest_0751,Bowl Corner,Chinese,Marathahalli,3.36,1119,435,44,22,9.38,0,3335,12
+rest_0752,Royal Palace,Street_Food,Malleshwaram,3.21,685,331,31,18,0.65,0,1495,18
+rest_0753,Pasta Bowl,Continental,Sarjapur,4.17,56,324,37,21,5.86,1,201,9
+rest_0754,Momo Palace,Fast_Food,Old_Airport_Road,3.33,390,255,17,16,3.47,0,1040,8
+rest_0755,Wok Garden,Healthy_Bowls,Jayanagar,4.14,365,474,44,21,2.33,1,638,16
+rest_0756,Masala Studio,Healthy_Bowls,Koramangala,4.18,208,458,24,25,2.93,0,538,13
+rest_0757,Flame Delight,Chinese,MG_Road,3.87,267,386,22,21,1.67,0,976,20
+rest_0758,Golden Factory,Biryani,Indiranagar,4.44,3207,440,44,26,4.38,0,7184,8
+rest_0759,Chai Dhaba,Street_Food,Old_Airport_Road,4.39,1122,428,21,12,0.94,0,3392,19
+rest_0760,Third_Wave Lab,Healthy_Bowls,JP_Nagar,2.57,303,184,39,14,8.42,0,595,16
+rest_0761,Curry Garden,South_Indian,Bommanahalli,4.13,993,435,40,20,5.97,0,2873,13
+rest_0762,Bombay Point,Pizza,Jayanagar,3.34,642,271,25,22,4.55,0,1312,17
+rest_0763,Truffles Diner,South_Indian,Domlur,3.94,400,220,31,16,3.09,0,1003,20
+rest_0764,Brahmin Bites,Healthy_Bowls,Bellandur,4.34,869,315,37,20,8.05,0,2788,9
+rest_0765,Vidyarthi Palace,Japanese,Koramangala,3.38,1319,401,22,23,4.24,0,2802,17
+rest_0766,Truffles Plate,Healthy_Bowls,JP_Nagar,4.42,459,329,29,12,2.88,0,1217,11
+rest_0767,Masala Hub,Italian,Bellandur,2.6,393,87,36,14,11.95,0,1436,9
+rest_0768,Fresh Factory,Cafe,Old_Airport_Road,3.52,582,337,42,24,5.68,0,1248,12
+rest_0769,Biryani Junction,Thai,Koramangala,4.14,1108,362,39,15,7.9,0,3288,16
+rest_0770,Urban Express,Street_Food,KR_Puram,3.52,424,476,40,17,8.75,0,824,17
+rest_0771,Royal Grill,Pizza,Whitefield,3.16,339,123,40,18,5.75,0,508,20
+rest_0772,Chai Stop,Continental,Basavanagudi,3.77,423,395,30,25,2.56,0,1438,18
+rest_0773,Biryani Point,Cafe,Bellandur,4.09,424,277,23,17,6.27,0,975,16
+rest_0774,Urban Factory 773,Italian,Hebbal,4.19,583,423,29,10,9.35,0,2143,19
+rest_0775,Brahmin Eatery,Japanese,Jayanagar,3.65,230,260,29,15,11.94,0,432,13
+rest_0776,Flame Studio,South_Indian,Bellandur,4.34,3640,720,28,26,4.06,0,6054,18
+rest_0777,Blue_Tokai Junction,Chinese,Old_Airport_Road,3.25,1271,521,43,19,5.27,0,2406,10
+rest_0778,Wok Dhaba,Cafe,Whitefield,2.54,114,147,35,13,3.55,0,262,20
+rest_0779,Flame Lab 778,Street_Food,Whitefield,3.48,273,283,25,10,9.78,0,742,16
+rest_0780,Bombay Plate 779,Mexican,KR_Puram,2.73,237,111,23,20,7.82,0,663,16
+rest_0781,Tandoor Bowl,Mexican,Rajajinagar,2.84,62,99,38,17,10.45,0,130,18
+rest_0782,Veena Factory,Thai,Basavanagudi,4.36,3737,935,25,21,0.78,0,14443,9
+rest_0783,Spice Point,Italian,KR_Puram,3.86,1365,424,44,15,8.5,0,2725,9
+rest_0784,Oven Lab,Thai,Electronic_City,4.83,4357,967,42,25,10.0,1,9017,13
+rest_0785,Spice Eatery 784,North_Indian,Banashankari,4.34,1580,401,41,15,4.92,1,2479,17
+rest_0786,Urban Stop,Japanese,Hebbal,3.34,369,197,27,20,2.81,0,848,15
+rest_0787,Empire Bites,Street_Food,Yelahanka,3.55,280,263,21,9,7.26,0,1050,16
+rest_0788,Spice Express,Biryani,BTM_Layout,4.45,157,529,41,23,6.53,0,305,13
+rest_0789,Oven Eatery,Japanese,Marathahalli,3.13,302,236,35,12,10.6,0,1009,12
+rest_0790,Green Stop,Cafe,Basavanagudi,2.78,117,239,16,17,2.26,1,426,12
+rest_0791,Paradise Eatery,Biryani,Malleshwaram,3.46,255,282,19,15,4.64,0,474,18
+rest_0792,Masala House,Fast_Food,Malleshwaram,3.4,486,323,22,21,4.13,0,1827,15
+rest_0793,Vidyarthi Hub,Continental,Banashankari,4.11,625,476,27,13,2.19,0,1632,20
+rest_0794,Pasta Diner,Fast_Food,Yelahanka,3.92,52,158,40,15,10.75,1,132,10
+rest_0795,Grill Palace 794,North_Indian,Old_Airport_Road,4.29,4536,554,31,30,2.64,0,10070,18
+rest_0796,Grill Hub,Pizza,Yeshwanthpur,2.95,221,191,24,11,9.98,0,737,16
+rest_0797,Oven Studio 796,Street_Food,Jayanagar,3.22,680,453,30,19,5.43,0,1227,10
+rest_0798,Masala Bowl,Italian,Electronic_City,3.67,303,294,22,19,3.23,0,1075,15
+rest_0799,Oven Hut,Pizza,Old_Airport_Road,2.52,143,125,24,8,7.91,1,365,13
+rest_0800,Curry Hut 799,Desserts,Yeshwanthpur,2.53,401,144,15,18,5.27,0,669,11
+rest_0801,Flame Hut,South_Indian,Yeshwanthpur,3.24,1285,587,41,22,1.8,0,3172,9
+rest_0802,Flame Factory,Cafe,Jayanagar,4.57,448,1104,40,20,1.49,1,934,17
+rest_0803,Royal Corner 802,Cafe,Banashankari,2.75,126,230,40,13,4.24,0,452,13
+rest_0804,Spice Kitchen,North_Indian,Yelahanka,4.17,784,454,39,18,4.61,0,1965,19
+rest_0805,Spice Studio,Street_Food,HSR_Layout,3.8,1477,426,45,11,1.85,0,4123,10
+rest_0806,Fresh Stop,Chinese,KR_Puram,3.93,525,281,29,14,4.99,0,1275,16
+rest_0807,Chai Corner 806,Healthy_Bowls,Yelahanka,3.5,713,563,38,16,4.02,0,2541,16
+rest_0808,Meghana Garden 807,Chinese,Koramangala,3.61,500,269,32,16,0.7,0,950,17
+rest_0809,Green Hut 808,Fast_Food,Indiranagar,2.63,478,115,34,19,3.38,0,1344,12
+rest_0810,Vidyarthi Bites,Chinese,Basavanagudi,4.78,627,858,50,20,5.91,0,1603,10
+rest_0811,Oven Junction 810,North_Indian,JP_Nagar,2.88,214,183,29,13,5.83,0,543,8
+rest_0812,Third_Wave Express,Japanese,Banashankari,3.35,44,300,19,14,8.71,0,146,18
+rest_0813,Shivaji Kitchen 812,Fast_Food,Malleshwaram,4.21,4229,1142,37,33,5.45,0,8829,11
+rest_0814,Bombay Junction,South_Indian,Bellandur,4.65,2514,1016,47,25,8.76,0,6507,9
+rest_0815,Green Garden 814,Healthy_Bowls,Bellandur,3.2,147,583,45,18,10.84,0,565,8
+rest_0816,Masala Hut,Desserts,Sarjapur,4.46,3496,570,31,34,9.39,0,11779,9
+rest_0817,Curry Diner,Fast_Food,Jayanagar,2.55,106,81,26,8,11.24,0,330,14
+rest_0818,Desi Dhaba,South_Indian,Whitefield,3.65,172,275,20,17,9.7,0,357,12
+rest_0819,Nandhini Junction 818,Italian,Marathahalli,3.36,343,126,18,19,1.73,1,691,10
+rest_0820,Grill Lab,Continental,Yeshwanthpur,2.66,379,162,23,19,10.41,1,1057,12
+rest_0821,Royal Republic 820,Healthy_Bowls,Jayanagar,3.83,61,100,33,11,3.69,0,156,13
+rest_0822,Grill Junction 821,Italian,Indiranagar,3.99,201,297,37,12,6.68,0,431,13
+rest_0823,Royal Kitchen,Desserts,Domlur,3.79,380,87,25,10,9.79,0,1126,9
+rest_0824,Flame Garden,Pizza,Malleshwaram,3.32,1106,310,24,22,1.91,0,2800,20
+rest_0825,Truffles Cafe 824,Continental,Domlur,3.45,97,467,35,22,9.61,0,354,16
+rest_0826,Grill Junction,Desserts,Whitefield,4.64,3925,821,48,18,7.47,0,7836,17
+rest_0827,Blue_Tokai Lab 826,Pizza,Silk_Board,4.33,374,1022,35,22,5.05,0,968,20
+rest_0828,Truffles Grill 827,Pizza,Yeshwanthpur,2.87,179,204,24,8,10.7,0,523,20
+rest_0829,Madras Stop,Cafe,Banashankari,3.75,155,262,26,14,1.85,0,287,19
+rest_0830,Royal Lab,Street_Food,Sarjapur,4.75,1393,1013,50,31,4.37,0,5306,9
+rest_0831,Pasta Factory 830,Italian,HSR_Layout,3.93,170,159,20,11,11.55,0,301,16
+rest_0832,Brahmin Plate,Desserts,Rajajinagar,2.76,105,97,20,18,6.15,1,372,16
+rest_0833,Madras Bites 832,Cafe,Bommanahalli,4.16,1098,421,22,12,5.7,0,3144,15
+rest_0834,Masala Plate 833,Cafe,Rajajinagar,4.43,846,267,38,15,7.27,0,3105,11
+rest_0835,Meghana Hut 834,Chinese,Electronic_City,3.34,477,258,28,14,4.23,1,1637,16
+rest_0836,Pasta Eatery 835,Chinese,Yeshwanthpur,4.27,958,447,48,15,6.48,0,2431,15
+rest_0837,Oven Grill,Healthy_Bowls,Banashankari,3.92,680,307,23,25,5.82,0,2284,15
+rest_0838,Spice House 837,Biryani,Jayanagar,4.05,1097,277,39,16,7.13,0,4366,9
+rest_0839,Bowl Express,Biryani,KR_Puram,3.69,476,414,41,15,10.58,0,1679,20
+rest_0840,Truffles Hut 839,Street_Food,KR_Puram,3.46,198,173,40,12,4.77,0,589,20
+rest_0841,Pasta Stop 840,Desserts,Jayanagar,3.4,950,569,33,22,2.21,0,2263,9
+rest_0842,Fresh Bowl,Thai,Old_Airport_Road,3.45,148,206,25,11,8.64,0,339,10
+rest_0843,Madras Hub 842,Desserts,Whitefield,4.34,779,409,43,17,5.56,0,2155,15
+rest_0844,Madras Kitchen 843,Continental,KR_Puram,3.67,146,198,32,19,7.56,0,540,10
+rest_0845,Third_Wave Hut 844,Thai,Yelahanka,3.8,177,155,23,13,1.07,0,320,10
+rest_0846,Rameshwaram Hub 845,Healthy_Bowls,MG_Road,4.14,1683,1171,50,29,10.64,0,5444,15
+rest_0847,Madras Palace 846,Chinese,Old_Airport_Road,2.93,285,215,38,19,8.34,0,869,9
+rest_0848,Curry Republic 847,Thai,Old_Airport_Road,4.43,2446,1072,46,19,3.17,0,8623,19
+rest_0849,Chai Cafe 848,Mexican,KR_Puram,4.28,728,208,42,11,11.68,0,2308,14
+rest_0850,Madras Republic 849,Biryani,BTM_Layout,4.22,247,417,45,14,7.5,0,736,10
+rest_0851,Urban Plate 850,Cafe,Indiranagar,2.84,428,270,29,8,2.07,0,688,15
+rest_0852,Golden Hut 851,Fast_Food,Bellandur,3.66,795,584,25,16,8.89,0,1211,8
+rest_0853,Momo House 852,South_Indian,Banashankari,4.0,242,582,40,20,7.59,0,468,16
+rest_0854,Empire Hut 853,Street_Food,JP_Nagar,3.42,13,142,36,13,11.12,0,34,20
+rest_0855,Royal Express 854,Chinese,Banashankari,3.58,311,450,27,14,2.29,0,662,12
+rest_0856,Truffles Hut 855,Continental,Malleshwaram,3.13,474,167,39,8,8.55,0,1812,9
+rest_0857,Brahmin Plate 856,Pizza,Old_Airport_Road,3.55,727,518,32,18,11.34,0,2755,13
+rest_0858,Chai Plate 857,Cafe,MG_Road,4.38,993,304,41,25,6.22,1,3085,10
+rest_0859,Shivaji Bowl 858,Mexican,JP_Nagar,2.84,126,173,17,16,0.9,0,314,8
+rest_0860,Empire Hub 859,Pizza,Domlur,4.71,3471,583,48,30,4.94,0,7929,12
+rest_0861,Empire Cafe 860,Biryani,Jayanagar,4.46,4936,910,30,22,1.03,0,8897,9
+rest_0862,Grill Bites 861,Mexican,Marathahalli,3.69,166,215,27,17,7.27,0,561,11
+rest_0863,Biryani Palace 862,Biryani,Old_Airport_Road,3.7,223,229,37,21,2.85,1,830,11
+rest_0864,Meghana Cafe 863,Italian,Silk_Board,4.25,3232,568,27,20,8.95,0,9341,12
+rest_0865,Green Diner 864,Cafe,JP_Nagar,3.66,1253,589,39,18,2.55,0,2876,20
+rest_0866,Vidyarthi Palace 865,North_Indian,Electronic_City,3.61,1411,480,32,17,5.83,0,4657,10
+rest_0867,Pasta Hub 866,North_Indian,Yelahanka,2.57,93,215,32,11,1.8,0,309,16
+rest_0868,Delhi Point 867,Japanese,Banashankari,3.6,124,157,20,15,8.88,0,205,15
+rest_0869,Third_Wave Palace 868,Desserts,Bommanahalli,3.77,67,170,22,12,6.47,0,206,11
+rest_0870,Bombay Diner 869,Desserts,Jayanagar,4.36,301,219,28,19,11.64,0,550,17
+rest_0871,Meghana Junction 870,Mexican,Hebbal,4.1,4315,662,36,34,1.27,1,10096,8
+rest_0872,Empire Republic 871,South_Indian,Silk_Board,4.16,382,437,32,12,3.08,0,1350,10
+rest_0873,Bombay House 872,Thai,JP_Nagar,4.48,1153,232,30,10,0.76,0,4020,18
+rest_0874,Oven House 873,Japanese,Hebbal,3.73,132,209,33,10,9.58,0,236,14
+rest_0875,Urban Hut,Desserts,Marathahalli,4.26,1448,365,21,13,8.51,0,5643,13
+rest_0876,Desi Garden 875,Mexican,Koramangala,4.01,280,577,31,16,7.82,0,713,8
+rest_0877,Madras House 876,Thai,Malleshwaram,4.45,1244,212,30,24,4.1,0,2052,15
+rest_0878,Meghana Grill 877,Continental,Malleshwaram,4.03,1066,485,46,18,11.2,0,3148,9
+rest_0879,Oven Grill 878,South_Indian,Bommanahalli,4.46,4883,1014,43,17,1.87,0,17070,8
+rest_0880,Delhi Express 879,Continental,Malleshwaram,3.29,586,476,24,24,11.0,0,1812,11
+rest_0881,Oven Dhaba 880,Continental,Sarjapur,4.9,4580,535,35,18,1.95,0,12123,10
+rest_0882,Spice Hut 881,Pizza,Marathahalli,2.53,443,102,18,8,2.35,0,1637,12
+rest_0883,Desi Delight 882,North_Indian,Banashankari,2.67,325,183,19,10,8.28,0,1201,17
+rest_0884,Fresh Kitchen 883,Fast_Food,JP_Nagar,4.09,783,702,48,26,8.71,0,3110,19
+rest_0885,Fresh Bites 884,Continental,Hebbal,3.51,206,91,33,10,9.36,0,512,16
+rest_0886,Golden Bowl 885,Chinese,MG_Road,2.72,62,103,17,15,7.99,0,168,17
+rest_0887,Grill Dhaba 886,Japanese,Indiranagar,4.2,929,224,33,23,7.93,0,3307,15
+rest_0888,Golden Factory 887,Desserts,Hebbal,3.09,474,272,34,17,1.15,0,880,15
+rest_0889,Flame Junction 888,Chinese,HSR_Layout,3.51,570,451,41,20,6.71,0,1010,10
+rest_0890,Flame Cafe 889,Healthy_Bowls,Indiranagar,3.04,109,121,30,12,0.72,0,226,9
+rest_0891,Rameshwaram House 890,Street_Food,Hebbal,2.65,291,177,17,15,6.99,0,561,19
+rest_0892,Urban Studio 891,Fast_Food,Basavanagudi,3.36,490,93,29,15,2.42,0,1767,8
+rest_0893,Royal Republic 892,Italian,KR_Puram,4.2,1092,536,22,15,6.96,0,2780,13
+rest_0894,Green Studio 893,Japanese,HSR_Layout,3.72,1132,266,33,15,9.36,0,4055,16
+rest_0895,Biryani Express 894,Fast_Food,Malleshwaram,4.19,573,400,22,24,9.46,0,1258,8
+rest_0896,Madras Hut 895,North_Indian,Koramangala,4.06,2637,440,46,29,2.19,0,8022,19
+rest_0897,Paradise Dhaba 896,North_Indian,JP_Nagar,4.18,1408,272,21,14,10.08,0,4731,17
+rest_0898,Bowl Grill 897,Pizza,BTM_Layout,3.65,388,241,22,16,9.94,0,1120,18
+rest_0899,Veena House 898,Biryani,BTM_Layout,3.73,303,155,22,17,10.58,0,822,14
+rest_0900,Momo Bowl 899,Biryani,Hebbal,3.32,1191,207,37,13,7.35,0,2822,13
+rest_0901,Biryani Bowl 900,Pizza,KR_Puram,3.63,302,421,26,20,6.19,0,926,16
+rest_0902,Fresh Palace 901,Continental,JP_Nagar,4.0,3422,1031,32,21,2.62,0,11620,18
+rest_0903,Bowl Junction 902,Healthy_Bowls,Sarjapur,3.15,120,108,38,11,3.46,0,294,10
+rest_0904,Meghana Cafe 903,Mexican,Bellandur,3.11,152,153,36,16,4.21,0,513,13
+rest_0905,Paradise Grill,Cafe,Rajajinagar,4.25,1452,844,28,21,7.51,0,4089,12
+rest_0906,Blue_Tokai Palace 905,South_Indian,Bellandur,3.2,875,273,38,16,7.89,0,2803,13
+rest_0907,Desi Hub 906,South_Indian,Yeshwanthpur,3.4,333,267,38,9,9.78,0,582,17
+rest_0908,Pasta Hut 907,Continental,Bellandur,4.57,3423,1055,49,32,9.05,0,10121,15
+rest_0909,Urban Diner 908,Street_Food,Marathahalli,3.89,322,105,17,15,0.65,1,613,10
+rest_0910,Biryani Hut 909,Cafe,Malleshwaram,3.6,821,525,23,22,9.14,0,2010,9
+rest_0911,Flame Garden 910,Pizza,Rajajinagar,3.42,262,578,20,25,1.39,0,691,8
+rest_0912,Wok Studio 911,Pizza,Whitefield,2.74,385,211,25,14,4.33,0,785,10
+rest_0913,Momo Delight 912,Continental,Hebbal,3.76,1419,431,33,13,6.69,0,3178,15
+rest_0914,Meghana Grill 913,North_Indian,Whitefield,4.13,1212,441,43,11,1.43,0,2504,12
+rest_0915,Madras Lab 914,Street_Food,Yeshwanthpur,3.38,1042,574,22,16,5.98,0,2891,15
+rest_0916,Spice Stop 915,North_Indian,HSR_Layout,4.5,612,244,27,10,4.85,0,1909,14
+rest_0917,Masala Garden 916,Biryani,HSR_Layout,4.33,308,515,36,13,3.52,0,823,14
+rest_0918,Chai Bites 917,Street_Food,Rajajinagar,2.77,420,273,15,16,2.62,0,1411,12
+rest_0919,Tandoor Studio 918,North_Indian,Yelahanka,4.42,783,203,24,11,8.22,0,1269,17
+rest_0920,Bombay Hut 919,Street_Food,Yeshwanthpur,4.41,99,355,35,23,3.33,0,185,18
+rest_0921,Veena Studio 920,Biryani,KR_Puram,3.41,1233,315,31,13,5.18,1,2275,8
+rest_0922,Delhi Kitchen 921,Healthy_Bowls,Indiranagar,3.58,275,144,23,10,3.41,0,1075,16
+rest_0923,Momo Factory 922,South_Indian,Rajajinagar,3.18,144,88,34,8,5.82,0,544,9
+rest_0924,Blue_Tokai Dhaba 923,Biryani,Sarjapur,4.21,4659,774,31,15,6.99,0,12484,19
+rest_0925,Golden Point 924,Fast_Food,Rajajinagar,3.38,52,280,25,8,1.61,0,87,19
+rest_0926,Bowl Hut 925,Thai,Old_Airport_Road,3.85,425,83,16,8,7.28,0,1196,17
+rest_0927,Bowl Delight 926,Cafe,JP_Nagar,3.88,1411,467,20,12,5.06,0,4853,18
+rest_0928,Royal House 927,Japanese,Basavanagudi,4.01,1060,310,38,10,7.9,0,2503,10
+rest_0929,Bowl Stop 928,Healthy_Bowls,Yeshwanthpur,3.52,931,599,42,20,0.86,0,1451,19
+rest_0930,Meghana Dhaba 929,Biryani,Hebbal,2.89,397,175,16,20,10.95,0,675,11
+rest_0931,Delhi Lab 930,Chinese,Silk_Board,3.52,321,389,44,21,5.87,0,968,9
+rest_0932,Paradise Lab 931,Thai,Indiranagar,3.62,168,220,16,10,6.28,0,442,14
+rest_0933,Truffles Kitchen 932,Desserts,Yeshwanthpur,3.76,174,103,21,15,4.77,1,593,20
+rest_0934,Flame Hut 933,Fast_Food,BTM_Layout,3.93,1264,404,35,10,6.84,0,4358,11
+rest_0935,Meghana Factory 934,Healthy_Bowls,MG_Road,3.63,62,172,24,17,6.11,0,179,9
+rest_0936,Bowl Express 935,Thai,JP_Nagar,4.69,4052,878,41,25,7.65,0,12668,14
+rest_0937,Brahmin Express 936,Fast_Food,Yelahanka,2.7,439,151,17,18,1.14,0,1656,10
+rest_0938,Rameshwaram Eatery 937,Healthy_Bowls,Sarjapur,3.47,1280,238,35,22,3.47,0,2318,16
+rest_0939,Madras Cafe 938,North_Indian,Domlur,3.31,456,235,30,14,9.19,0,1680,12
+rest_0940,Curry Bowl 939,North_Indian,Basavanagudi,4.38,1289,395,35,18,11.61,0,4700,17
+rest_0941,Urban House 940,Continental,Whitefield,2.98,120,245,29,20,5.12,0,202,19
+rest_0942,Urban Lab 941,Cafe,Silk_Board,3.63,218,171,30,15,2.84,0,855,13
+rest_0943,Veena Lab 942,South_Indian,Domlur,3.84,325,300,38,14,6.81,0,1026,13
+rest_0944,Meghana House 943,Biryani,Hebbal,4.13,141,332,36,10,2.2,0,434,16
+rest_0945,Grill Bites 944,Street_Food,Electronic_City,3.97,240,583,33,25,1.15,0,698,19
+rest_0946,Grill Corner 945,Thai,Sarjapur,3.61,783,511,33,19,7.53,0,2036,17
+rest_0947,Truffles Plate 946,North_Indian,MG_Road,3.82,496,159,25,19,9.52,0,1783,11
+rest_0948,Bowl Dhaba 947,Thai,Bellandur,4.49,1409,219,23,20,5.82,0,5138,20
+rest_0949,Spice Palace 948,Thai,BTM_Layout,4.07,3050,893,25,16,5.54,0,4843,14
+rest_0950,Flame Bowl 949,Desserts,HSR_Layout,4.46,4485,712,43,18,1.95,1,8167,11
+rest_0951,Empire Junction 950,Mexican,Bommanahalli,3.83,1389,393,22,23,1.58,0,2594,12
+rest_0952,Grill Studio 951,Healthy_Bowls,Yelahanka,4.29,1358,233,33,21,10.68,0,3144,9
+rest_0953,Chai Lab 952,Healthy_Bowls,Indiranagar,4.11,948,490,26,13,11.89,0,2339,13
+rest_0954,Grill Palace 953,Japanese,JP_Nagar,4.13,2082,602,37,15,9.87,0,7753,14
+rest_0955,Wok Grill 954,Healthy_Bowls,Whitefield,4.07,853,324,23,23,2.74,1,1669,16
+rest_0956,Rameshwaram Republic 955,Thai,Rajajinagar,2.54,76,157,33,10,10.26,1,143,19
+rest_0957,Golden Grill 956,Biryani,Koramangala,3.74,775,393,35,23,10.61,0,1948,19
+rest_0958,Curry Cafe 957,Biryani,Domlur,3.57,155,119,22,9,6.17,0,288,19
+rest_0959,Green Republic 958,Desserts,Basavanagudi,4.08,2243,1058,48,26,4.52,0,7530,19
+rest_0960,Blue_Tokai Stop 959,Fast_Food,Sarjapur,2.57,189,218,36,17,11.92,0,642,16
+rest_0961,Empire Republic 960,Mexican,Banashankari,3.97,379,536,23,21,6.03,0,714,9
+rest_0962,Truffles House 961,Japanese,Malleshwaram,4.16,587,241,36,15,6.33,0,2213,13
+rest_0963,Desi Bites 962,North_Indian,Hebbal,3.55,128,114,35,9,7.25,0,192,12
+rest_0964,Blue_Tokai Hut 963,Street_Food,Bommanahalli,3.93,1351,454,36,18,6.44,0,3604,18
+rest_0965,Brahmin Stop 964,South_Indian,Marathahalli,3.99,500,133,33,11,10.79,0,1352,17
+rest_0966,Golden Corner 965,Japanese,Marathahalli,3.84,1004,579,27,23,11.29,0,3939,19
+rest_0967,Urban Cafe 966,Fast_Food,Old_Airport_Road,4.08,1471,222,40,22,2.42,0,3977,15
+rest_0968,Blue_Tokai Studio 967,Italian,HSR_Layout,3.77,924,593,44,19,2.22,0,1392,10
+rest_0969,Nandhini Corner 968,Thai,Bellandur,4.62,2554,632,48,25,1.65,0,8484,9
+rest_0970,Truffles Eatery 969,Cafe,MG_Road,4.66,3088,851,39,25,7.4,0,12217,9
+rest_0971,Curry Factory 970,Japanese,Yeshwanthpur,3.8,168,141,16,15,10.91,0,323,14
+rest_0972,Flame Eatery 971,Mexican,Indiranagar,4.46,553,307,35,12,9.61,0,1285,8
+rest_0973,Golden Grill 972,Street_Food,Malleshwaram,3.51,215,103,39,17,7.9,1,814,8
+rest_0974,Flame Cafe 973,Chinese,Malleshwaram,3.79,1003,478,35,25,6.67,0,1539,8
+rest_0975,Momo Express 974,Biryani,JP_Nagar,4.47,1235,349,34,22,2.24,0,4668,14
+rest_0976,Chai Corner 975,Thai,Bommanahalli,4.05,2964,803,30,24,8.25,0,7737,12
+rest_0977,Meghana Junction 976,Thai,MG_Road,4.32,926,448,36,24,6.73,0,2456,15
+rest_0978,Paradise Lab 977,Desserts,Indiranagar,3.12,173,233,24,13,6.37,0,481,14
+rest_0979,Paradise Diner 978,Mexican,Indiranagar,4.3,2982,825,47,33,1.2,0,5411,15
+rest_0980,Delhi Lab 979,Italian,JP_Nagar,3.91,159,328,37,12,8.25,1,614,13
+rest_0981,Momo Bites 980,North_Indian,Silk_Board,3.37,405,176,24,18,9.54,0,1190,9
+rest_0982,Curry Hut 981,Continental,Silk_Board,2.81,236,291,22,20,10.42,0,589,8
+rest_0983,Chai Diner 982,North_Indian,Banashankari,3.52,492,319,20,22,6.65,0,1341,12
+rest_0984,Urban Dhaba 983,Street_Food,MG_Road,4.12,488,481,22,12,4.88,0,856,14
+rest_0985,Shivaji Factory 984,North_Indian,Koramangala,2.76,259,284,25,19,4.36,0,848,12
+rest_0986,Madras Delight 985,Cafe,Hebbal,4.03,1017,238,22,20,1.99,0,3378,9
+rest_0987,Paradise Studio 986,Desserts,Indiranagar,3.87,903,568,42,23,11.3,0,1861,8
+rest_0988,Spice Express 987,Mexican,Malleshwaram,3.82,214,239,39,14,2.9,0,393,14
+rest_0989,Rameshwaram Studio 988,Continental,Malleshwaram,3.54,321,410,37,16,7.08,0,658,15
+rest_0990,Empire Stop 989,Pizza,JP_Nagar,3.96,189,242,36,20,8.78,0,674,10
+rest_0991,Veena Corner 990,Italian,Marathahalli,3.99,875,403,39,16,5.04,0,2946,8
+rest_0992,Royal Kitchen 991,Chinese,KR_Puram,4.31,445,516,20,13,10.67,0,743,12
+rest_0993,Truffles House 992,Pizza,Hebbal,3.32,275,247,33,11,1.23,0,468,9
+rest_0994,Spice Bites 993,Thai,Malleshwaram,4.32,1382,377,33,15,2.69,0,4702,16
+rest_0995,Grill Cafe 994,Italian,HSR_Layout,3.35,607,349,33,10,11.55,0,1856,12
+rest_0996,Third_Wave Republic 995,Chinese,Koramangala,3.16,252,176,27,19,1.98,1,721,15
+rest_0997,Delhi Republic 996,Thai,Marathahalli,3.77,499,406,35,19,1.02,0,1895,11
+rest_0998,Delhi Corner 997,Chinese,Whitefield,4.35,2125,774,46,17,8.64,0,4818,19
+rest_0999,Desi Hut 998,Desserts,Marathahalli,3.56,19,149,35,20,7.06,0,32,15
+rest_1000,Empire Hut 999,Thai,Marathahalli,3.45,236,244,26,13,9.81,0,494,15
+rest_1001,Bombay Cafe 1000,Thai,Electronic_City,3.56,398,207,17,8,0.74,0,1222,14
+rest_1002,Blue_Tokai Plate 1001,Biryani,Basavanagudi,3.71,126,136,39,13,5.48,0,461,18
+rest_1003,Green Bowl 1002,Healthy_Bowls,BTM_Layout,2.69,475,92,31,9,0.87,0,994,8
+rest_1004,Masala Studio 1003,Continental,HSR_Layout,3.26,374,110,19,15,4.29,0,978,15
+rest_1005,Vidyarthi Delight 1004,Continental,Indiranagar,4.22,779,503,29,12,5.3,1,2565,12
+rest_1006,Chai Junction 1005,Mexican,Sarjapur,4.3,577,385,37,16,9.3,0,1964,17
+rest_1007,Third_Wave Hut 1006,Continental,Domlur,4.8,2963,454,48,19,7.83,0,7992,14
+rest_1008,Madras Republic 1007,North_Indian,Old_Airport_Road,4.0,929,238,23,19,10.89,0,2563,11
+rest_1009,Oven Dhaba 1008,Desserts,Jayanagar,3.5,1475,568,20,21,3.74,0,4361,13
+rest_1010,Desi Republic 1009,Mexican,JP_Nagar,3.66,132,87,37,9,8.38,0,435,17
+rest_1011,Desi Grill 1010,Fast_Food,Sarjapur,4.2,1278,564,29,23,6.14,1,2563,13
+rest_1012,Madras Studio 1011,Desserts,Silk_Board,3.22,128,132,25,10,2.47,0,235,18
+rest_1013,Desi Express 1012,Desserts,Old_Airport_Road,4.27,4187,1024,43,30,2.72,0,9194,17
+rest_1014,Desi Republic 1013,Fast_Food,BTM_Layout,4.46,2964,749,46,17,11.47,0,6934,9
+rest_1015,Curry Eatery 1014,South_Indian,Sarjapur,3.56,1359,431,30,16,8.77,0,3940,8
+rest_1016,Wok Garden 1015,Continental,Domlur,4.5,4388,861,37,35,8.21,0,8407,15
+rest_1017,Grill Delight 1016,Italian,BTM_Layout,3.6,15,287,25,19,1.25,1,31,10
+rest_1018,Shivaji Kitchen 1017,Italian,Domlur,4.02,1737,915,46,30,8.83,0,3937,10
+rest_1019,Third_Wave Cafe 1018,Thai,Jayanagar,2.66,286,220,22,18,2.11,0,687,12
+rest_1020,Urban Point 1019,Desserts,Koramangala,3.25,248,251,22,11,5.83,0,401,12
+rest_1021,Oven Plate 1020,Pizza,Yeshwanthpur,3.27,117,344,24,15,8.26,1,252,18
+rest_1022,Empire Bites 1021,Continental,Sarjapur,4.67,3947,691,36,21,7.33,0,13668,16
+rest_1023,Madras Republic 1022,Pizza,Whitefield,4.39,604,484,44,18,3.7,0,2299,13
+rest_1024,Grill Point 1023,Chinese,Bommanahalli,3.45,613,577,43,19,1.09,0,2419,10
+rest_1025,Third_Wave Delight 1024,Fast_Food,Whitefield,3.36,1462,254,29,17,3.61,0,4613,8
+rest_1026,Wok House 1025,Chinese,JP_Nagar,4.5,2996,766,41,33,7.25,0,7245,10
+rest_1027,Third_Wave Studio 1026,Street_Food,MG_Road,4.12,1455,429,22,15,8.71,0,4278,17
+rest_1028,Grill Diner 1027,Continental,Sarjapur,2.91,41,164,30,10,10.4,0,105,17
+rest_1029,Momo Junction 1028,Pizza,Basavanagudi,3.75,258,293,29,11,6.99,0,927,8
+rest_1030,Urban Kitchen 1029,Cafe,Bommanahalli,4.44,4765,539,46,25,3.28,0,18209,20
+rest_1031,Pasta Hut 1030,Biryani,Jayanagar,3.58,480,529,43,23,3.41,0,907,20
+rest_1032,Grill Bowl 1031,Italian,Bellandur,2.73,301,265,38,12,7.83,0,517,17
+rest_1033,Spice Studio 1032,Fast_Food,Hebbal,3.63,1346,371,38,25,4.84,0,3922,10
+rest_1034,Spice Kitchen 1033,Japanese,Electronic_City,3.33,361,286,26,17,5.04,0,1227,11
+rest_1035,Meghana Hub 1034,Mexican,Bellandur,3.67,1392,548,25,12,1.64,0,3714,13
+rest_1036,Paradise Hub 1035,Street_Food,MG_Road,3.97,956,297,43,14,6.99,0,1715,19
+rest_1037,Biryani Factory 1036,Continental,MG_Road,4.05,710,545,43,14,11.05,1,2194,18
+rest_1038,Truffles Dhaba 1037,Desserts,Old_Airport_Road,4.82,2710,563,34,19,1.71,1,6365,17
+rest_1039,Vidyarthi Garden 1038,Mexican,Bellandur,3.41,461,259,40,20,11.0,1,1380,19
+rest_1040,Bowl Hut 1039,Street_Food,Sarjapur,4.28,1016,432,43,21,8.89,0,2884,13
+rest_1041,Chai Grill 1040,Japanese,Sarjapur,3.41,1328,359,28,11,9.93,0,4199,13
+rest_1042,Grill Republic 1041,Cafe,Banashankari,4.15,1451,563,21,17,6.08,0,5718,14
+rest_1043,Tandoor Stop 1042,North_Indian,MG_Road,4.24,789,403,26,24,1.78,0,1921,10
+rest_1044,Meghana Bites 1043,Japanese,MG_Road,3.57,351,272,19,20,5.1,0,1129,16
+rest_1045,Bombay Junction 1044,Street_Food,Yelahanka,4.39,70,244,32,16,9.16,0,120,16
+rest_1046,Wok Studio 1045,South_Indian,Yeshwanthpur,3.74,718,433,28,20,2.81,1,2304,17
+rest_1047,Nandhini House 1046,Mexican,JP_Nagar,3.3,233,156,25,8,11.5,0,882,19
+rest_1048,Masala Corner 1047,Pizza,Banashankari,3.24,133,238,16,20,11.63,0,342,9
+rest_1049,Grill Junction 1048,Italian,Banashankari,3.78,907,595,32,23,7.78,1,3245,19
+rest_1050,Brahmin House 1049,Italian,BTM_Layout,4.29,1026,579,42,21,9.07,1,2350,15
+rest_1051,Blue_Tokai Plate 1050,Japanese,BTM_Layout,3.57,362,192,35,14,5.82,0,1208,15
+rest_1052,Veena Hut 1051,North_Indian,Domlur,3.74,492,198,21,8,10.29,0,1407,10
+rest_1053,Desi Plate 1052,Pizza,Electronic_City,2.92,22,172,35,15,3.81,0,87,11
+rest_1054,Tandoor Republic 1053,Biryani,Bommanahalli,3.4,540,424,36,19,9.22,0,2067,18
+rest_1055,Desi Junction 1054,North_Indian,Banashankari,4.0,3774,813,31,31,4.59,0,13752,20
+rest_1056,Pasta Stop 1055,Biryani,Koramangala,3.47,872,417,43,13,6.47,0,2933,12
+rest_1057,Veena Dhaba 1056,Pizza,Indiranagar,4.7,1207,441,38,24,0.96,0,4130,17
+rest_1058,Spice Bowl 1057,Biryani,Jayanagar,4.02,1047,563,33,24,11.23,0,2010,15
+rest_1059,Vidyarthi Point 1058,Fast_Food,Whitefield,4.01,3049,932,40,15,11.5,0,9321,13
+rest_1060,Bombay Republic 1059,Desserts,Bommanahalli,4.15,1117,541,30,10,8.03,0,4437,8
+rest_1061,Desi Hut 1060,Biryani,Malleshwaram,4.35,4816,1102,31,19,10.24,0,7500,10
+rest_1062,Truffles Stop 1061,Italian,Marathahalli,4.79,2509,957,44,17,3.0,1,9720,19
+rest_1063,Biryani Factory 1062,Desserts,Rajajinagar,4.34,2202,946,30,31,2.0,0,6820,10
+rest_1064,Royal Stop 1063,Continental,Koramangala,4.24,3092,812,40,20,8.08,0,8377,18
+rest_1065,Delhi Dhaba 1064,Fast_Food,Banashankari,4.16,827,396,30,10,6.94,0,1434,8
+rest_1066,Wok Republic 1065,North_Indian,Indiranagar,3.36,121,251,18,11,5.0,0,354,15
+rest_1067,Bombay Diner 1066,North_Indian,Hebbal,3.34,1201,562,37,23,6.16,0,4702,12
+rest_1068,Bombay Diner 1067,Thai,Banashankari,3.54,1280,573,22,23,6.99,0,2499,15
+rest_1069,Shivaji Palace 1068,Street_Food,Sarjapur,3.96,1010,382,38,17,10.22,0,2555,17
+rest_1070,Wok House 1069,Desserts,Electronic_City,3.61,1171,297,34,10,2.61,0,4288,16
+rest_1071,Brahmin Plate 1070,Cafe,Yelahanka,3.35,826,206,41,13,8.33,0,1475,13
+rest_1072,Desi Garden 1071,Cafe,Koramangala,4.01,652,352,23,15,4.7,0,1142,12
+rest_1073,Tandoor Bites 1072,Cafe,MG_Road,3.51,11,235,30,12,1.89,0,28,20
+rest_1074,Pasta House 1073,Italian,Sarjapur,4.03,1063,263,43,22,3.5,0,3760,8
+rest_1075,Vidyarthi Junction 1074,South_Indian,Indiranagar,3.24,711,547,39,25,0.7,0,1308,17
+rest_1076,Shivaji Diner 1075,Healthy_Bowls,KR_Puram,4.48,927,287,33,17,4.53,0,3657,18
+rest_1077,Veena Garden 1076,Japanese,Malleshwaram,3.74,512,346,31,12,5.47,0,1230,12
+rest_1078,Bombay Diner 1077,Desserts,HSR_Layout,3.1,474,100,15,14,7.98,1,754,9
+rest_1079,Rameshwaram Express 1078,Desserts,Hebbal,3.57,246,476,26,25,11.18,0,433,11
+rest_1080,Wok Bites 1079,South_Indian,Sarjapur,2.64,315,156,23,8,8.79,0,1198,18
+rest_1081,Momo Stop 1080,Desserts,MG_Road,3.8,763,382,27,13,8.33,0,2869,10
+rest_1082,Tandoor Bites 1081,Healthy_Bowls,Malleshwaram,3.24,1049,553,20,10,3.18,0,2507,18
+rest_1083,Veena Bowl 1082,Biryani,Electronic_City,3.93,1029,298,31,20,5.38,1,2388,10
+rest_1084,Momo Plate 1083,Continental,Bellandur,3.67,88,313,37,14,5.06,0,161,15
+rest_1085,Chai Bites 1084,Continental,KR_Puram,2.53,12,206,24,14,9.25,0,34,14
+rest_1086,Truffles Bites 1085,Biryani,Bommanahalli,4.03,1321,477,37,20,4.22,0,3204,18
+rest_1087,Green Point 1086,Pizza,Bommanahalli,4.38,4102,824,40,34,2.89,0,11057,8
+rest_1088,Pasta Hub 1087,Pizza,Bellandur,3.39,1390,453,41,17,2.15,0,5400,19
+rest_1089,Fresh Stop 1088,Mexican,Bellandur,3.45,973,344,20,25,0.58,0,3755,19
+rest_1090,Paradise Cafe 1089,Healthy_Bowls,Marathahalli,3.61,91,190,30,9,3.95,0,263,20
+rest_1091,Rameshwaram Kitchen 1090,South_Indian,Old_Airport_Road,3.19,397,292,37,19,0.57,0,1487,15
+rest_1092,Fresh Delight 1091,Mexican,Sarjapur,3.94,761,417,32,16,11.85,0,1394,13
+rest_1093,Paradise Bites 1092,North_Indian,BTM_Layout,3.41,716,514,34,15,3.07,0,1097,19
+rest_1094,Rameshwaram Bites 1093,Italian,Sarjapur,4.1,222,463,43,20,7.36,0,772,13
+rest_1095,Desi Kitchen 1094,Thai,Basavanagudi,3.81,345,262,28,11,6.57,0,1367,10
+rest_1096,Oven Factory 1095,South_Indian,Electronic_City,4.34,1127,411,20,19,1.42,0,3906,13
+rest_1097,Blue_Tokai Palace 1096,Italian,Bommanahalli,4.18,4594,933,44,31,2.28,0,14320,12
+rest_1098,Nandhini House 1097,Healthy_Bowls,Whitefield,2.64,352,281,15,18,0.89,0,547,12
+rest_1099,Green Eatery 1098,Thai,Bellandur,3.58,405,445,25,17,7.81,1,740,10
+rest_1100,Bowl Hub 1099,Street_Food,BTM_Layout,3.53,1395,549,26,14,5.71,0,2104,20
+rest_1101,Bombay Diner 1100,Chinese,Hebbal,4.37,159,550,45,23,7.56,0,239,11
+rest_1102,Masala Express 1101,Mexican,Marathahalli,4.49,216,200,25,22,4.43,0,528,12
+rest_1103,Third_Wave Garden 1102,North_Indian,Basavanagudi,3.24,274,148,30,15,6.7,0,1031,10
+rest_1104,Flame Junction 1103,Street_Food,Banashankari,3.32,1490,450,22,15,10.18,0,4457,8
+rest_1105,Tandoor Delight 1104,Continental,MG_Road,4.06,788,497,28,16,3.44,0,2734,9
+rest_1106,Golden Dhaba 1105,Fast_Food,Banashankari,4.61,3624,515,31,17,11.93,0,8817,8
+rest_1107,Biryani Bowl 1106,Chinese,Rajajinagar,4.11,266,500,27,23,7.79,0,638,17
+rest_1108,Veena Bites 1107,Pizza,Koramangala,3.37,485,243,22,25,5.65,0,1638,12
+rest_1109,Bombay Republic 1108,Italian,Indiranagar,3.04,48,258,25,9,8.06,0,75,14
+rest_1110,Brahmin Republic 1109,Japanese,Malleshwaram,2.92,58,275,35,10,8.25,0,218,18
+rest_1111,Pasta Stop 1110,Japanese,HSR_Layout,4.17,971,369,25,10,4.48,0,3704,15
+rest_1112,Rameshwaram Republic 1111,Italian,Koramangala,3.31,425,92,32,16,1.7,0,1095,15
+rest_1113,Royal Hub 1112,Japanese,Marathahalli,3.51,542,377,43,16,6.64,0,904,9
+rest_1114,Rameshwaram Palace 1113,South_Indian,Marathahalli,4.1,1107,234,34,14,7.28,0,2217,19
+rest_1115,Delhi Hub 1114,Desserts,Bellandur,3.87,610,370,31,17,3.32,0,2095,17
+rest_1116,Paradise Studio 1115,Fast_Food,KR_Puram,4.55,2978,804,38,17,8.33,0,10457,19
+rest_1117,Royal Cafe 1116,Pizza,Indiranagar,3.01,171,185,31,19,11.5,0,377,8
+rest_1118,Tandoor House 1117,Desserts,Jayanagar,4.3,712,332,34,10,5.97,0,1677,14
+rest_1119,Momo Bites 1118,Biryani,Bellandur,3.8,977,255,29,18,2.23,0,2835,9
+rest_1120,Spice Cafe 1119,Italian,BTM_Layout,4.45,558,527,38,20,2.02,0,1747,14
+rest_1121,Truffles Bites 1120,Pizza,Silk_Board,4.74,704,576,49,32,11.76,0,1856,10
+rest_1122,Bowl Point 1121,Thai,Malleshwaram,2.57,251,203,22,8,4.44,0,495,8
+rest_1123,Golden Factory 1122,Biryani,Jayanagar,4.02,581,568,28,25,2.69,0,1115,10
+rest_1124,Oven Republic 1123,Cafe,Bellandur,4.35,386,229,23,13,5.78,1,1357,8
+rest_1125,Golden Plate 1124,Cafe,Marathahalli,4.47,1355,596,20,23,1.41,0,2595,13
+rest_1126,Desi Eatery 1125,Thai,BTM_Layout,3.45,123,111,16,18,10.98,0,230,19
+rest_1127,Delhi Hut 1126,Chinese,Bellandur,3.47,259,545,25,20,2.0,0,886,16
+rest_1128,Vidyarthi Point 1127,Desserts,Marathahalli,4.58,4940,925,26,35,8.25,1,13121,11
+rest_1129,Shivaji Diner 1128,Chinese,Silk_Board,3.44,36,280,21,8,1.21,0,131,9
+rest_1130,Third_Wave Eatery 1129,Japanese,Silk_Board,2.91,445,138,32,9,6.97,0,1352,9
+rest_1131,Bowl Cafe 1130,Street_Food,Electronic_City,3.4,493,216,40,18,8.74,1,1761,11
+rest_1132,Bombay Palace 1131,Continental,Yeshwanthpur,4.34,1391,447,30,18,7.11,0,5352,18
+rest_1133,Desi Diner 1132,Chinese,Sarjapur,3.5,1065,407,34,16,6.48,1,3434,13
+rest_1134,Truffles Hub 1133,Pizza,Indiranagar,4.18,553,334,40,25,2.44,0,878,13
+rest_1135,Golden Hut 1134,Italian,Old_Airport_Road,4.09,504,1061,43,30,1.66,0,1824,14
+rest_1136,Madras Republic 1135,Italian,Whitefield,3.0,250,265,20,14,9.08,1,946,11
+rest_1137,Shivaji Dhaba 1136,Thai,Malleshwaram,4.63,1716,676,40,19,9.02,0,5495,8
+rest_1138,Chai Palace 1137,Desserts,Whitefield,4.06,3569,827,45,15,10.77,0,8611,19
+rest_1139,Curry Express 1138,Pizza,Sarjapur,4.39,3130,918,33,18,3.12,0,12028,13
+rest_1140,Madras Stop 1139,Mexican,Yeshwanthpur,3.88,676,493,30,18,9.71,0,1461,11
+rest_1141,Shivaji Hut 1140,Cafe,Rajajinagar,3.74,1132,367,45,16,7.21,0,3532,13
+rest_1142,Oven Lab 1141,Pizza,Indiranagar,3.92,40,127,30,12,5.58,0,96,14
+rest_1143,Curry Hut 1142,Continental,Basavanagudi,3.85,457,295,33,11,8.19,0,1199,12
+rest_1144,Grill Grill 1143,Continental,BTM_Layout,4.35,456,499,32,22,0.76,0,820,12
+rest_1145,Shivaji Corner 1144,South_Indian,Malleshwaram,2.64,232,242,19,17,5.28,0,385,12
+rest_1146,Oven Eatery 1145,Street_Food,Malleshwaram,3.63,867,463,40,15,1.06,0,2554,15
+rest_1147,Bombay Hut 1146,Pizza,Sarjapur,3.58,227,117,38,18,7.6,0,650,19
+rest_1148,Urban Express 1147,South_Indian,MG_Road,3.59,876,380,44,12,7.27,0,2639,17
+rest_1149,Paradise Delight 1148,South_Indian,Sarjapur,4.18,1336,591,36,11,0.94,0,4433,8
+rest_1150,Wok Bites 1149,Japanese,Banashankari,4.32,1374,586,37,10,3.95,0,4108,8
+rest_1151,Royal Cafe 1150,North_Indian,Silk_Board,4.09,3364,460,26,15,3.68,1,11940,12
+rest_1152,Third_Wave Kitchen 1151,Mexican,Rajajinagar,3.98,164,326,26,10,7.56,0,249,20
+rest_1153,Grill Kitchen 1152,North_Indian,Whitefield,4.06,3675,642,34,20,3.36,1,11412,16
+rest_1154,Blue_Tokai Bowl 1153,Thai,Hebbal,3.69,70,161,32,15,7.2,0,264,15
+rest_1155,Desi Diner 1154,Continental,Basavanagudi,4.37,2879,1084,28,21,3.69,0,9842,18
+rest_1156,Tandoor Dhaba 1155,North_Indian,Indiranagar,4.49,290,494,30,22,11.88,0,576,10
+rest_1157,Bowl Studio 1156,Desserts,Basavanagudi,4.09,1892,426,36,20,7.18,0,7307,16
+rest_1158,Oven Hub 1157,Healthy_Bowls,MG_Road,3.23,46,247,17,15,1.81,0,108,19
+rest_1159,Grill Grill 1158,Chinese,Yeshwanthpur,4.37,4323,898,43,25,6.24,0,10986,10
+rest_1160,Urban Palace 1159,Cafe,Electronic_City,3.18,108,242,18,17,6.68,0,424,13
+rest_1161,Bowl Cafe 1160,Japanese,Sarjapur,3.98,372,145,22,9,11.57,0,1121,18
+rest_1162,Blue_Tokai Eatery 1161,Biryani,Koramangala,3.08,404,179,34,14,2.12,0,659,9
+rest_1163,Masala Bowl 1162,Japanese,Old_Airport_Road,2.84,364,170,28,14,6.22,0,615,20
+rest_1164,Truffles Plate 1163,North_Indian,Marathahalli,4.67,4288,440,29,33,1.11,0,7970,13
+rest_1165,Pasta Grill 1164,Chinese,JP_Nagar,4.84,3979,1193,46,31,1.48,1,13982,8
+rest_1166,Fresh Kitchen 1165,Japanese,Whitefield,3.55,472,232,40,18,4.07,0,1621,16
+rest_1167,Biryani Bites 1166,South_Indian,Yelahanka,4.39,949,371,26,24,10.93,0,3746,10
+rest_1168,Shivaji Diner 1167,South_Indian,Hebbal,2.7,315,289,23,13,6.94,0,661,16
+rest_1169,Bombay Eatery 1168,North_Indian,KR_Puram,3.68,966,504,20,24,7.16,0,2364,8
+rest_1170,Chai Garden 1169,Chinese,Marathahalli,4.81,302,935,49,18,6.29,0,1035,14
+rest_1171,Royal Diner 1170,North_Indian,Sarjapur,3.87,266,529,28,10,9.41,0,650,12
+rest_1172,Grill Eatery 1171,Italian,Rajajinagar,4.36,321,499,34,13,3.39,0,603,12
+rest_1173,Royal Corner 1172,North_Indian,KR_Puram,2.82,159,113,39,11,11.67,0,570,8
+rest_1174,Vidyarthi Lab 1173,Fast_Food,Rajajinagar,2.86,408,285,30,18,3.61,0,1425,18
+rest_1175,Tandoor Bowl 1174,North_Indian,Malleshwaram,3.75,351,346,39,24,4.82,0,727,9
+rest_1176,Flame Dhaba 1175,South_Indian,Whitefield,3.84,472,129,20,20,6.05,0,1469,18
+rest_1177,Royal Eatery 1176,Mexican,Bellandur,4.46,1283,696,46,27,10.47,0,3669,14
+rest_1178,Brahmin Dhaba 1177,Thai,Hebbal,4.79,2611,513,33,35,5.32,0,5516,13
+rest_1179,Brahmin Palace 1178,Chinese,MG_Road,3.65,228,291,23,20,7.76,0,415,12
+rest_1180,Truffles House 1179,North_Indian,Yeshwanthpur,3.33,57,94,35,17,3.89,0,87,10
+rest_1181,Momo Kitchen 1180,Mexican,Yeshwanthpur,2.73,20,82,24,18,5.09,0,35,15
+rest_1182,Rameshwaram Corner 1181,Italian,Domlur,3.78,230,98,19,8,7.59,0,881,14
+rest_1183,Momo Cafe 1182,Healthy_Bowls,Domlur,3.95,387,188,24,9,3.88,0,986,19
+rest_1184,Shivaji Eatery 1183,Chinese,Whitefield,3.2,1124,582,34,21,9.06,0,1974,8
+rest_1185,Momo Delight 1184,Mexican,Hebbal,3.53,341,246,35,16,6.91,0,662,20
+rest_1186,Bowl House 1185,Japanese,Koramangala,3.71,942,481,23,18,9.59,0,2586,18
+rest_1187,Pasta Cafe 1186,Biryani,Yeshwanthpur,4.18,624,489,23,21,11.25,0,2365,18
+rest_1188,Rameshwaram Hub 1187,Healthy_Bowls,Jayanagar,3.68,968,385,41,24,1.26,0,2881,11
+rest_1189,Truffles Plate 1188,Desserts,Koramangala,4.29,695,348,43,24,3.79,0,2033,18
+rest_1190,Rameshwaram Hub 1189,Continental,HSR_Layout,3.17,235,181,29,20,10.31,0,917,18
+rest_1191,Grill Dhaba 1190,Mexican,Bommanahalli,3.56,637,581,30,17,10.17,0,1940,14
+rest_1192,Curry Grill 1191,Cafe,Indiranagar,3.65,1400,470,33,21,0.65,0,3609,11
+rest_1193,Nandhini Kitchen 1192,Thai,Yeshwanthpur,2.91,210,272,26,8,2.09,0,782,20
+rest_1194,Nandhini Lab 1193,Pizza,Sarjapur,2.55,347,291,32,8,8.73,1,1307,17
+rest_1195,Truffles Palace 1194,Italian,HSR_Layout,2.62,112,97,21,13,9.88,0,432,8
+rest_1196,Biryani Cafe 1195,Italian,JP_Nagar,4.45,417,208,31,22,3.68,0,1606,9
+rest_1197,Paradise Diner 1196,Healthy_Bowls,BTM_Layout,4.49,985,273,26,25,5.41,0,3588,8
+rest_1198,Wok Eatery 1197,Biryani,Bommanahalli,3.66,800,326,25,20,2.82,0,1576,15
+rest_1199,Delhi Lab 1198,Fast_Food,Marathahalli,4.88,1545,727,32,35,9.05,0,5200,9
+rest_1200,Wok Garden 1199,Japanese,HSR_Layout,4.06,123,257,22,21,6.19,0,465,16
+rest_1201,Desi Bites 1200,North_Indian,Malleshwaram,3.34,17,226,37,11,6.01,0,37,10
+rest_1202,Brahmin Hub 1201,Desserts,Malleshwaram,3.31,333,214,23,20,3.11,0,505,10
+rest_1203,Delhi Palace 1202,Cafe,Old_Airport_Road,3.61,49,151,16,10,11.77,0,135,8
+rest_1204,Third_Wave Hub 1203,Healthy_Bowls,MG_Road,3.19,170,236,17,12,9.16,0,495,14
+rest_1205,Nandhini Junction 1204,Healthy_Bowls,Koramangala,3.28,1434,470,37,19,7.57,0,2593,16
+rest_1206,Curry Republic 1205,Continental,HSR_Layout,2.68,154,253,23,19,9.96,0,336,15
+rest_1207,Biryani Plate 1206,Italian,Koramangala,3.58,831,427,37,19,4.27,0,2103,12
+rest_1208,Oven Factory 1207,Chinese,Whitefield,3.69,412,202,21,13,3.38,0,1359,20
+rest_1209,Biryani Plate 1208,Cafe,Domlur,4.28,267,557,21,20,8.96,0,499,13
+rest_1210,Brahmin Express 1209,Street_Food,Marathahalli,2.62,458,117,18,11,7.67,0,1438,16
+rest_1211,Oven Express 1210,Cafe,Malleshwaram,3.84,264,162,19,20,10.51,0,410,9
+rest_1212,Oven Corner 1211,Japanese,HSR_Layout,3.93,1029,466,34,19,5.19,0,2049,15
+rest_1213,Veena Palace 1212,Cafe,Hebbal,4.49,1343,405,30,20,5.83,0,2431,11
+rest_1214,Delhi Plate 1213,Continental,Domlur,3.38,137,432,25,24,3.33,0,399,8
+rest_1215,Third_Wave Studio 1214,Thai,Basavanagudi,4.0,1461,282,35,13,1.97,0,5024,13
+rest_1216,Nandhini Stop 1215,Japanese,Marathahalli,4.06,540,338,24,16,9.56,0,1042,9
+rest_1217,Third_Wave Bites 1216,North_Indian,Koramangala,4.81,310,1070,28,21,11.58,0,668,15
+rest_1218,Desi Stop 1217,Italian,Yeshwanthpur,3.52,801,486,41,19,6.82,0,1819,17
+rest_1219,Spice Delight 1218,Desserts,KR_Puram,3.36,88,154,25,16,1.13,0,175,13
+rest_1220,Veena Bowl 1219,Pizza,Yelahanka,3.3,685,371,38,13,8.42,0,1961,11
+rest_1221,Truffles Junction 1220,South_Indian,Bellandur,3.91,79,95,21,8,6.41,0,205,16
+rest_1222,Urban Studio 1221,Healthy_Bowls,Bommanahalli,4.07,95,260,22,17,6.89,1,296,8
+rest_1223,Fresh Studio 1222,Biryani,Indiranagar,3.07,116,212,34,19,8.92,0,279,20
+rest_1224,Brahmin Plate 1223,Chinese,Old_Airport_Road,3.66,1347,209,28,10,1.69,0,4692,18
+rest_1225,Veena Republic 1224,Fast_Food,Marathahalli,4.13,297,498,41,24,5.42,1,577,20
+rest_1226,Brahmin Republic 1225,Japanese,Indiranagar,4.43,4575,483,28,26,4.87,1,10611,12
+rest_1227,Urban Dhaba 1226,Fast_Food,Banashankari,3.9,340,297,28,11,1.77,0,1069,12
+rest_1228,Curry Hut 1227,Thai,Banashankari,4.48,1969,551,31,17,7.27,0,6686,14
+rest_1229,Truffles Point 1228,Continental,Koramangala,3.85,594,324,28,22,9.51,0,2073,8
+rest_1230,Brahmin Diner 1229,Street_Food,MG_Road,3.01,268,95,21,10,5.5,0,529,18
+rest_1231,Fresh Grill 1230,Cafe,Yelahanka,4.11,750,452,35,23,11.17,0,2541,14
+rest_1232,Shivaji Stop 1231,Japanese,MG_Road,4.7,4536,584,43,20,0.59,0,10665,11
+rest_1233,Delhi Cafe 1232,Mexican,KR_Puram,3.75,236,118,15,14,5.58,0,861,11
+rest_1234,Blue_Tokai Diner 1233,Continental,Yelahanka,3.47,312,589,31,17,7.1,1,949,11
+rest_1235,Curry Kitchen 1234,Chinese,BTM_Layout,3.39,418,161,26,16,8.86,0,683,10
+rest_1236,Bombay Diner 1235,Italian,Bellandur,3.96,1337,225,37,19,4.04,0,3602,14
+rest_1237,Pasta Studio 1236,North_Indian,MG_Road,2.76,174,257,32,10,9.47,0,587,16
+rest_1238,Meghana Garden 1237,Cafe,Rajajinagar,3.42,1356,207,44,23,6.71,1,4744,10
+rest_1239,Madras Junction 1238,Street_Food,Koramangala,3.81,274,280,36,18,6.16,0,591,12
+rest_1240,Bombay Factory 1239,Fast_Food,Yeshwanthpur,4.1,981,384,29,25,1.79,0,3654,15
+rest_1241,Nandhini Republic 1240,North_Indian,Bellandur,4.11,1151,500,28,18,7.25,0,2071,13
+rest_1242,Empire Kitchen 1241,Fast_Food,JP_Nagar,3.4,478,282,32,9,0.65,1,755,19
+rest_1243,Tandoor Hub 1242,Mexican,Hebbal,3.6,321,124,25,14,11.63,0,888,12
+rest_1244,Madras Cafe 1243,Street_Food,Silk_Board,2.98,75,280,25,17,8.76,0,134,10
+rest_1245,Green Dhaba 1244,Continental,Marathahalli,3.24,62,464,45,18,8.21,0,109,13
+rest_1246,Meghana Hut 1245,Chinese,BTM_Layout,4.18,1206,415,37,11,1.95,0,4785,17
+rest_1247,Pasta Dhaba 1246,Italian,Bellandur,3.96,370,590,22,24,9.07,0,1394,14
+rest_1248,Chai Grill 1247,Mexican,Rajajinagar,4.71,2575,1177,36,33,3.49,0,4814,9
+rest_1249,Royal Stop 1248,Street_Food,BTM_Layout,4.79,1593,690,31,32,10.19,0,3612,16
+rest_1250,Vidyarthi Factory 1249,Biryani,Bommanahalli,4.32,404,236,32,11,10.75,0,782,16
+rest_1251,Bombay Lab 1250,Continental,BTM_Layout,3.41,205,275,17,13,7.49,0,340,9
+rest_1252,Momo Dhaba 1251,Thai,Jayanagar,4.1,979,519,34,29,11.2,1,2888,11
+rest_1253,Meghana Corner 1252,Chinese,JP_Nagar,3.51,481,475,38,24,4.08,0,1348,16
+rest_1254,Paradise Palace 1253,Street_Food,Hebbal,4.33,369,417,22,22,11.43,1,922,11
+rest_1255,Bowl Cafe 1254,Japanese,Yeshwanthpur,3.42,275,286,17,20,8.57,0,885,16
+rest_1256,Desi Diner 1255,Fast_Food,Indiranagar,3.21,940,375,21,18,9.4,0,3142,13
+rest_1257,Masala Garden 1256,Mexican,Electronic_City,3.79,738,520,39,16,7.88,1,2826,17
+rest_1258,Fresh Garden 1257,Italian,Bellandur,4.26,4085,1106,47,15,10.72,0,6631,19
+rest_1259,Oven Express 1258,South_Indian,Bommanahalli,2.96,73,81,32,11,11.31,0,155,13
+rest_1260,Vidyarthi Lab 1259,Chinese,Hebbal,2.98,87,276,31,16,0.98,1,262,14
+rest_1261,Momo Plate 1260,Italian,Jayanagar,2.58,428,84,16,18,11.06,0,1004,20
+rest_1262,Grill Diner 1261,Desserts,JP_Nagar,3.68,452,284,21,9,4.26,0,1601,16
+rest_1263,Momo Garden 1262,Italian,Domlur,4.44,278,590,40,10,0.74,0,1098,8
+rest_1264,Wok Corner 1263,Fast_Food,Banashankari,2.75,379,240,18,8,6.3,0,1182,19
+rest_1265,Grill Republic 1264,Healthy_Bowls,Old_Airport_Road,3.12,443,250,26,20,6.2,0,864,12
+rest_1266,Biryani Corner 1265,Street_Food,Rajajinagar,2.54,153,155,22,15,4.95,0,529,15
+rest_1267,Madras Republic 1266,Italian,BTM_Layout,4.71,3909,689,25,23,6.93,1,6979,11
+rest_1268,Curry Junction 1267,Thai,Sarjapur,3.97,564,561,23,12,5.21,0,907,11
+rest_1269,Spice Delight 1268,Thai,KR_Puram,3.32,292,205,22,20,1.32,0,626,17
+rest_1270,Masala Delight 1269,South_Indian,Bellandur,3.8,100,142,19,9,5.77,0,388,12
+rest_1271,Truffles Plate 1270,Pizza,Silk_Board,4.48,653,1194,38,34,4.51,0,1498,20
+rest_1272,Pasta Hut 1271,Desserts,Bellandur,3.65,1205,397,24,21,4.04,0,3932,10
+rest_1273,Rameshwaram Lab 1272,Healthy_Bowls,Sarjapur,3.77,835,317,39,16,2.87,0,3337,8
+rest_1274,Chai Garden 1273,Japanese,Basavanagudi,2.61,401,155,16,10,5.01,0,685,15
+rest_1275,Pasta Junction 1274,Fast_Food,Basavanagudi,3.25,146,195,15,14,3.67,0,246,14
+rest_1276,Golden Hub 1275,South_Indian,Whitefield,4.17,874,588,21,15,7.51,0,3365,10
+rest_1277,Truffles Junction 1276,South_Indian,Rajajinagar,3.68,851,326,38,18,6.86,0,2472,12
+rest_1278,Empire Palace 1277,Street_Food,Jayanagar,4.37,4432,539,31,28,11.38,0,15006,8
+rest_1279,Rameshwaram Republic 1278,South_Indian,Electronic_City,3.54,1476,337,27,22,7.44,0,4204,19
+rest_1280,Spice Corner 1279,Fast_Food,Yeshwanthpur,3.71,1012,535,39,12,3.3,0,2203,20
+rest_1281,Grill Studio 1280,Mexican,Yelahanka,3.46,593,262,21,21,9.09,0,1528,17
+rest_1282,Spice Plate 1281,Thai,Koramangala,4.84,3959,893,34,20,10.58,0,13234,17
+rest_1283,Vidyarthi Lab 1282,Mexican,HSR_Layout,3.81,437,233,36,18,3.81,1,781,17
+rest_1284,Bowl Eatery 1283,Healthy_Bowls,MG_Road,3.22,466,578,35,23,5.12,0,1562,19
+rest_1285,Urban Republic 1284,Japanese,KR_Puram,4.0,64,106,32,10,7.1,0,135,19
+rest_1286,Green Diner 1285,Biryani,Old_Airport_Road,4.06,449,506,34,21,3.21,1,1751,13
+rest_1287,Truffles Factory 1286,Street_Food,Silk_Board,3.47,276,468,27,24,0.95,0,898,11
+rest_1288,Oven Cafe 1287,North_Indian,Malleshwaram,4.47,2464,646,25,20,4.67,0,7604,18
+rest_1289,Curry Express 1288,Thai,Banashankari,4.37,185,466,35,14,7.47,0,298,12
+rest_1290,Meghana Hut 1289,Biryani,Electronic_City,3.84,489,236,35,12,9.43,1,1273,13
+rest_1291,Truffles Plate 1290,Chinese,Rajajinagar,4.55,2095,622,34,27,9.77,0,4685,12
+rest_1292,Blue_Tokai House 1291,Healthy_Bowls,Malleshwaram,2.61,210,285,40,13,8.24,0,363,15
+rest_1293,Fresh Cafe 1292,Cafe,Yelahanka,2.63,198,287,27,16,6.91,0,341,16
+rest_1294,Veena Junction 1293,Street_Food,Electronic_City,2.56,213,182,23,17,4.68,0,626,11
+rest_1295,Chai Palace 1294,North_Indian,Bellandur,4.74,4711,914,26,25,4.03,0,7359,20
+rest_1296,Meghana Delight 1295,Healthy_Bowls,Basavanagudi,2.93,496,206,27,19,11.14,0,958,12
+rest_1297,Shivaji House 1296,Healthy_Bowls,Basavanagudi,4.08,565,709,32,26,6.18,0,1746,17
+rest_1298,Bombay Palace 1297,Cafe,Sarjapur,2.56,381,234,24,10,2.22,0,1350,18
+rest_1299,Empire Junction 1298,Healthy_Bowls,Bommanahalli,4.18,3289,1178,27,25,3.67,0,12005,8
+rest_1300,Brahmin Cafe 1299,Biryani,Rajajinagar,4.6,1687,467,31,26,9.68,0,3335,17
+rest_1301,Brahmin Republic 1300,South_Indian,KR_Puram,3.02,51,289,18,17,3.53,0,182,11
+rest_1302,Flame Dhaba 1301,Chinese,Marathahalli,4.33,4839,773,32,26,9.59,0,14133,18
+rest_1303,Spice Cafe 1302,Italian,HSR_Layout,3.92,729,418,25,15,7.85,0,1804,9
+rest_1304,Golden Cafe 1303,Mexican,Indiranagar,2.93,191,101,32,11,8.9,0,297,19
+rest_1305,Empire Cafe 1304,Cafe,Domlur,4.9,1424,845,25,17,6.34,0,3718,17
+rest_1306,Veena Garden 1305,South_Indian,Whitefield,4.15,2813,952,31,29,4.16,0,10639,11
+rest_1307,Blue_Tokai Grill 1306,Fast_Food,Basavanagudi,3.41,457,133,19,9,8.22,0,1614,11
+rest_1308,Blue_Tokai Dhaba 1307,Desserts,Banashankari,3.55,188,485,42,22,5.52,0,515,17
+rest_1309,Spice Stop 1308,South_Indian,Banashankari,4.43,3174,1100,32,29,8.7,0,7814,9
+rest_1310,Bowl Kitchen 1309,Fast_Food,Sarjapur,4.81,2061,486,28,35,6.17,0,7944,19
+rest_1311,Delhi Grill 1310,North_Indian,Rajajinagar,2.88,84,255,19,18,7.2,0,133,12
+rest_1312,Nandhini Plate 1311,Desserts,HSR_Layout,3.84,711,376,30,24,11.45,0,1834,11
+rest_1313,Biryani Express 1312,South_Indian,Basavanagudi,3.57,947,524,34,18,10.98,1,3365,19
+rest_1314,Third_Wave Bites 1313,North_Indian,Koramangala,3.29,57,591,45,25,6.48,0,133,14
+rest_1315,Chai Eatery 1314,Chinese,Banashankari,3.59,115,513,45,22,5.32,0,313,16
+rest_1316,Tandoor Plate 1315,Desserts,Whitefield,3.95,1446,254,42,20,10.13,0,5400,12
+rest_1317,Brahmin Eatery 1316,Mexican,Whitefield,3.14,494,265,19,15,11.46,0,1502,20
+rest_1318,Biryani Palace 1317,North_Indian,Bommanahalli,3.74,979,402,40,16,1.08,0,3211,20
+rest_1319,Desi Point 1318,Healthy_Bowls,Basavanagudi,4.34,830,264,23,12,10.77,0,2011,13
+rest_1320,Veena Diner 1319,Biryani,HSR_Layout,3.48,1482,299,43,11,11.49,1,5738,14
+rest_1321,Flame Eatery 1320,South_Indian,Bellandur,3.9,426,369,29,12,7.35,1,1619,18
+rest_1322,Bowl Lab 1321,Thai,Bommanahalli,3.19,362,131,36,12,10.03,0,1164,13
+rest_1323,Curry Garden 1322,Cafe,Whitefield,2.58,213,221,37,8,0.67,0,830,17
+rest_1324,Bowl Express 1323,North_Indian,Silk_Board,3.81,541,560,34,25,5.47,0,2124,11
+rest_1325,Tandoor Dhaba 1324,Continental,MG_Road,3.37,156,200,32,15,7.08,0,271,16
+rest_1326,Grill Bowl 1325,Thai,Basavanagudi,4.4,2211,522,40,20,2.69,0,8345,15
+rest_1327,Pasta Republic 1326,Italian,Jayanagar,3.95,347,147,16,16,7.81,1,789,16
+rest_1328,Nandhini Eatery 1327,South_Indian,Old_Airport_Road,4.65,4676,465,42,30,11.03,0,12916,9
+rest_1329,Third_Wave Hut 1328,Chinese,Basavanagudi,4.5,1855,496,37,31,2.71,0,5518,11
+rest_1330,Nandhini Bowl 1329,Thai,Malleshwaram,3.39,689,310,35,13,2.33,0,2597,13
+rest_1331,Veena Dhaba 1330,Japanese,Jayanagar,4.61,1162,690,34,25,9.1,0,2966,11
+rest_1332,Wok Dhaba 1331,Street_Food,Basavanagudi,3.5,900,412,24,17,8.44,1,1684,13
+rest_1333,Third_Wave Point 1332,Desserts,Rajajinagar,3.73,136,426,37,17,3.9,0,449,13
+rest_1334,Flame Corner 1333,Pizza,Silk_Board,3.72,407,366,26,21,11.59,1,1141,19
+rest_1335,Veena Junction 1334,Italian,Rajajinagar,3.77,519,213,20,20,9.81,0,1031,8
+rest_1336,Masala Factory 1335,South_Indian,Bommanahalli,4.62,3557,740,28,30,4.65,0,14026,9
+rest_1337,Desi Garden 1336,South_Indian,Koramangala,3.3,229,109,26,11,1.92,1,523,15
+rest_1338,Masala Factory 1337,South_Indian,KR_Puram,3.93,197,140,39,14,5.97,0,783,18
+rest_1339,Nandhini Garden 1338,Street_Food,Koramangala,3.16,46,204,16,16,5.02,0,114,12
+rest_1340,Empire Express 1339,Desserts,Domlur,2.77,86,225,25,14,7.98,1,327,13
+rest_1341,Meghana Factory 1340,North_Indian,Malleshwaram,4.27,1030,237,39,12,3.07,0,2137,11
+rest_1342,Biryani Stop 1341,Desserts,Whitefield,3.01,393,165,37,20,3.4,0,995,13
+rest_1343,Pasta House 1342,Thai,Silk_Board,3.86,333,141,19,11,9.05,0,697,15
+rest_1344,Empire Cafe 1343,Desserts,Bellandur,3.22,877,243,40,14,1.93,0,1881,12
+rest_1345,Paradise Diner 1344,North_Indian,Hebbal,3.74,78,163,30,15,2.72,0,125,8
+rest_1346,Pasta Cafe 1345,Healthy_Bowls,Yelahanka,3.92,491,224,28,8,2.28,0,990,14
+rest_1347,Chai Corner 1346,Healthy_Bowls,Malleshwaram,2.64,164,209,23,14,9.59,0,605,18
+rest_1348,Meghana Point 1347,Italian,Sarjapur,2.61,150,278,32,8,3.57,0,366,13
+rest_1349,Veena Bites 1348,Thai,HSR_Layout,4.49,973,366,28,15,0.55,0,1474,10
+rest_1350,Bombay Lab 1349,Fast_Food,Bellandur,4.04,366,1077,30,16,9.67,0,760,16
+rest_1351,Pasta Factory 1350,Desserts,Domlur,3.02,487,246,16,16,1.23,1,1385,19
+rest_1352,Madras Stop 1351,Mexican,KR_Puram,4.79,2679,432,39,30,3.49,0,8264,9
+rest_1353,Green Bowl 1352,Biryani,Sarjapur,4.47,2599,709,46,29,0.89,0,4764,20
+rest_1354,Spice Eatery 1353,Healthy_Bowls,BTM_Layout,3.19,65,255,30,11,11.58,0,198,16
+rest_1355,Flame Junction 1354,Healthy_Bowls,Jayanagar,3.38,1432,445,28,17,11.97,0,3786,19
+rest_1356,Veena Bites 1355,South_Indian,Malleshwaram,3.84,701,469,29,10,6.2,0,1530,9
+rest_1357,Empire Grill 1356,Biryani,Domlur,4.81,624,603,42,16,5.19,0,2048,16
+rest_1358,Momo Plate 1357,Mexican,BTM_Layout,3.32,463,395,44,13,2.43,1,784,12
+rest_1359,Golden Dhaba 1358,Pizza,Koramangala,3.73,209,265,27,20,8.87,0,491,9
+rest_1360,Golden Delight 1359,Healthy_Bowls,Yelahanka,3.5,102,338,21,22,4.75,0,223,10
+rest_1361,Urban Bites 1360,Fast_Food,Marathahalli,4.12,2426,482,33,28,2.29,0,5881,10
+rest_1362,Momo Hub 1361,Chinese,Yeshwanthpur,3.77,828,315,28,17,1.9,0,1985,12
+rest_1363,Bowl Hut 1362,Biryani,Sarjapur,3.55,1442,324,31,14,3.96,1,4172,13
+rest_1364,Pasta Diner 1363,Thai,Marathahalli,3.42,246,286,32,11,5.5,0,600,17
+rest_1365,Bombay Factory 1364,Mexican,Hebbal,4.84,525,950,34,29,1.25,0,1841,16
+rest_1366,Spice Dhaba 1365,Cafe,Rajajinagar,4.33,1183,279,41,14,2.29,0,2490,19
+rest_1367,Vidyarthi Palace 1366,Healthy_Bowls,Hebbal,4.13,2524,550,25,27,1.9,0,5448,9
+rest_1368,Shivaji Factory 1367,Continental,Koramangala,3.94,448,242,45,17,11.73,0,1450,12
+rest_1369,Urban Grill 1368,North_Indian,Domlur,4.02,1484,285,32,23,4.41,0,4266,17
+rest_1370,Meghana Delight 1369,Healthy_Bowls,Hebbal,3.02,134,91,36,12,9.68,1,294,18
+rest_1371,Blue_Tokai Express 1370,Fast_Food,Banashankari,4.02,1249,574,39,20,6.29,0,2757,16
+rest_1372,Rameshwaram Eatery 1371,Japanese,Silk_Board,4.36,447,1105,25,34,1.42,0,1512,13
+rest_1373,Biryani Diner 1372,Fast_Food,Koramangala,3.79,1367,414,31,19,9.13,0,5245,11
+rest_1374,Paradise Delight 1373,Japanese,Hebbal,2.82,193,188,35,19,10.71,0,718,20
+rest_1375,Desi Dhaba 1374,Desserts,BTM_Layout,4.47,457,593,42,25,6.29,0,1403,10
+rest_1376,Chai Bowl 1375,Mexican,JP_Nagar,3.32,653,582,25,16,1.11,0,2534,16
+rest_1377,Oven Hut 1376,Chinese,Jayanagar,4.3,3842,721,50,16,5.81,0,9469,14
+rest_1378,Paradise Grill 1377,Pizza,BTM_Layout,3.02,51,232,24,11,8.47,0,135,15
+rest_1379,Vidyarthi Point 1378,South_Indian,Hebbal,4.15,1246,583,44,25,6.33,0,2814,8
+rest_1380,Vidyarthi House 1379,North_Indian,HSR_Layout,4.18,1046,697,35,35,9.55,0,4117,8
+rest_1381,Momo Junction 1380,Japanese,Silk_Board,3.88,73,243,20,10,1.08,0,207,13
+rest_1382,Rameshwaram Junction 1381,Biryani,Electronic_City,3.97,919,591,32,17,10.49,0,2408,10
+rest_1383,Empire Bites 1382,Fast_Food,Bommanahalli,2.59,457,267,16,20,5.86,1,1728,20
+rest_1384,Royal Kitchen 1383,South_Indian,KR_Puram,3.01,33,217,40,16,2.45,0,71,14
+rest_1385,Wok Cafe 1384,Italian,Marathahalli,4.05,1251,434,34,20,9.17,0,2097,9
+rest_1386,Flame Hub 1385,Cafe,Banashankari,3.3,915,576,33,19,7.37,0,1743,12
+rest_1387,Chai Republic 1386,South_Indian,Malleshwaram,3.61,303,231,30,18,7.12,0,1156,12
+rest_1388,Urban Stop 1387,Chinese,Silk_Board,3.32,483,246,39,14,0.73,0,1410,20
+rest_1389,Flame Grill 1388,Mexican,Rajajinagar,4.48,1344,446,27,16,9.46,0,2793,16
+rest_1390,Flame Grill 1389,Chinese,Yeshwanthpur,4.15,703,472,23,20,11.51,0,1152,10
+rest_1391,Empire Factory 1390,Healthy_Bowls,Yeshwanthpur,3.21,76,240,36,19,8.19,0,237,14
+rest_1392,Bombay Stop 1391,Mexican,Basavanagudi,2.88,68,239,29,14,9.55,0,142,8
+rest_1393,Tandoor Plate 1392,Healthy_Bowls,MG_Road,3.86,181,295,21,19,5.67,0,427,15
+rest_1394,Shivaji Eatery 1393,Healthy_Bowls,MG_Road,3.94,1431,440,37,23,4.2,0,3504,8
+rest_1395,Veena Studio 1394,Thai,Koramangala,2.59,176,285,33,17,2.16,0,321,13
+rest_1396,Oven Delight 1395,Desserts,MG_Road,4.3,76,298,41,14,9.52,0,114,15
+rest_1397,Bowl House 1396,Continental,Sarjapur,4.64,2025,1053,50,18,6.56,0,4462,11
+rest_1398,Brahmin Kitchen 1397,Italian,Bommanahalli,3.25,1415,419,37,18,3.16,0,5135,17
+rest_1399,Biryani Hut 1398,Japanese,Hebbal,4.11,419,311,42,15,7.38,0,1666,8
+rest_1400,Chai Cafe 1399,Thai,Silk_Board,4.12,797,628,46,17,1.44,0,1895,10
+rest_1401,Tandoor Point 1400,South_Indian,Bommanahalli,3.43,260,107,31,14,4.47,0,814,14
+rest_1402,Meghana Bites 1401,Chinese,Banashankari,3.65,1050,312,37,20,4.03,1,2354,9
+rest_1403,Blue_Tokai Plate 1402,Chinese,Electronic_City,2.81,333,236,20,11,5.77,0,770,15
+rest_1404,Biryani Palace 1403,Cafe,Bellandur,3.33,1118,498,26,15,5.99,0,3272,9
+rest_1405,Truffles Cafe 1404,Cafe,Bellandur,4.3,1290,395,25,22,4.63,1,2078,18
+rest_1406,Paradise House 1405,Thai,Banashankari,3.86,704,228,24,12,3.82,0,1623,16
+rest_1407,Flame Kitchen 1406,Healthy_Bowls,Banashankari,3.41,276,151,18,13,9.7,0,509,18
+rest_1408,Fresh Dhaba 1407,Fast_Food,Hebbal,4.81,1455,1165,28,27,1.68,0,5388,20
+rest_1409,Desi Bites 1408,Fast_Food,MG_Road,2.77,77,248,18,20,7.83,0,122,20
+rest_1410,Fresh Grill 1409,South_Indian,Bellandur,3.24,1228,537,36,15,5.83,0,4793,9
+rest_1411,Veena Express 1410,Cafe,Yeshwanthpur,2.55,188,107,21,18,9.9,0,667,18
+rest_1412,Paradise Lab 1411,Japanese,Domlur,3.2,253,146,16,13,8.84,0,672,8
+rest_1413,Fresh Kitchen 1412,Biryani,Malleshwaram,3.06,438,245,32,10,8.54,0,988,12
+rest_1414,Rameshwaram Bowl 1413,North_Indian,Domlur,4.04,288,542,20,19,9.61,0,662,16
+rest_1415,Brahmin Factory 1414,North_Indian,BTM_Layout,3.27,725,575,26,24,1.92,1,2236,14
+rest_1416,Vidyarthi Junction 1415,Japanese,Domlur,3.54,492,293,41,13,2.26,0,1588,12
+rest_1417,Veena Grill 1416,Pizza,Old_Airport_Road,2.67,134,121,19,10,1.64,0,275,10
+rest_1418,Brahmin Express 1417,Italian,Old_Airport_Road,4.25,1240,381,39,24,6.73,0,4130,8
+rest_1419,Fresh Eatery 1418,Cafe,KR_Puram,2.75,202,112,23,12,4.13,1,313,18
+rest_1420,Bombay Junction 1419,Italian,Yeshwanthpur,4.16,941,317,23,18,0.55,0,1581,13
+rest_1421,Blue_Tokai Eatery 1420,Desserts,MG_Road,3.15,259,208,29,17,3.87,0,951,13
+rest_1422,Bowl Bites 1421,Continental,Jayanagar,3.47,434,88,28,9,3.61,0,1011,19
+rest_1423,Royal Bowl 1422,Desserts,Old_Airport_Road,3.74,56,454,42,19,0.53,0,108,10
+rest_1424,Tandoor Lab 1423,Italian,Yeshwanthpur,3.55,1382,310,39,20,1.42,1,5369,10
+rest_1425,Desi Republic 1424,Pizza,Koramangala,3.43,68,124,30,15,7.67,0,190,12
+rest_1426,Fresh Junction 1425,Thai,KR_Puram,3.72,533,542,36,10,11.73,0,1867,8
+rest_1427,Masala Point 1426,Fast_Food,Marathahalli,4.29,410,569,42,23,4.02,1,636,12
+rest_1428,Veena Eatery 1427,Healthy_Bowls,Yelahanka,2.66,360,211,27,14,1.56,0,900,20
+rest_1429,Wok Lab 1428,Street_Food,Old_Airport_Road,3.84,1112,343,28,14,4.5,0,3773,17
+rest_1430,Flame Junction 1429,Desserts,Koramangala,4.32,652,414,34,14,11.16,0,2346,20
+rest_1431,Momo Dhaba 1430,Continental,Basavanagudi,3.36,421,434,38,10,0.61,0,746,10
+rest_1432,Delhi Garden 1431,Fast_Food,Hebbal,2.81,46,284,35,19,3.86,0,104,20
+rest_1433,Golden House 1432,Continental,Sarjapur,4.01,2878,1185,48,34,8.04,1,8160,14
+rest_1434,Bombay Express 1433,North_Indian,JP_Nagar,4.03,480,507,26,13,4.06,0,875,9
+rest_1435,Chai Plate 1434,Mexican,Indiranagar,3.53,52,169,29,10,9.3,0,105,17
+rest_1436,Desi Point 1435,Mexican,MG_Road,3.42,153,103,26,18,10.99,0,287,9
+rest_1437,Bowl Palace 1436,Fast_Food,Koramangala,3.89,190,100,18,10,3.49,0,528,18
+rest_1438,Wok Diner 1437,Continental,Malleshwaram,4.21,995,436,35,18,3.43,0,3622,16
+rest_1439,Third_Wave Lab 1438,North_Indian,Sarjapur,3.99,1059,314,31,12,8.08,0,3240,19
+rest_1440,Spice Cafe 1439,Cafe,Rajajinagar,3.85,10,156,35,8,10.64,0,38,9
+rest_1441,Bombay Dhaba 1440,Fast_Food,Domlur,4.08,2620,668,39,15,8.26,1,9565,15
+rest_1442,Veena Cafe 1441,Healthy_Bowls,Hebbal,3.45,1169,545,24,17,3.62,0,3405,15
+rest_1443,Nandhini Garden 1442,Chinese,Marathahalli,4.24,1177,397,44,17,9.21,0,1875,18
+rest_1444,Wok Cafe 1443,Mexican,Domlur,3.47,228,95,26,9,3.44,0,640,16
+rest_1445,Flame Junction 1444,Fast_Food,Marathahalli,4.02,1412,204,37,21,11.99,0,2398,12
+rest_1446,Urban Hub 1445,Mexican,Rajajinagar,2.69,262,233,28,8,9.18,1,451,14
+rest_1447,Desi Hut 1446,Mexican,Banashankari,4.28,461,540,41,20,4.02,1,1759,20
+rest_1448,Blue_Tokai Cafe 1447,Cafe,Koramangala,3.96,170,205,20,22,10.35,0,555,14
+rest_1449,Madras House 1448,Fast_Food,Old_Airport_Road,4.26,366,576,20,16,11.05,0,1330,14
+rest_1450,Bowl Dhaba 1449,Pizza,Bellandur,4.43,716,1044,43,15,8.66,1,1473,12
+rest_1451,Vidyarthi Garden 1450,Cafe,Electronic_City,2.76,329,292,34,12,7.8,0,1062,14
+rest_1452,Oven Corner 1451,Biryani,HSR_Layout,3.96,68,291,20,10,3.07,1,124,14
+rest_1453,Royal Delight 1452,Desserts,Hebbal,3.95,126,106,23,16,9.33,0,469,10
+rest_1454,Green Palace 1453,Thai,Koramangala,2.66,296,91,33,10,10.69,0,527,8
+rest_1455,Royal Dhaba 1454,Biryani,MG_Road,4.21,1073,313,31,13,9.22,0,4224,9
+rest_1456,Grill Palace 1455,Healthy_Bowls,Old_Airport_Road,4.42,1288,560,36,20,9.4,0,2963,20
+rest_1457,Urban Express 1456,Fast_Food,Bellandur,4.45,174,299,34,13,1.78,0,656,17
+rest_1458,Biryani Junction 1457,Cafe,Sarjapur,2.79,17,82,38,11,0.75,0,52,9
+rest_1459,Royal Dhaba 1458,South_Indian,Silk_Board,3.41,192,143,18,12,1.77,0,492,9
+rest_1460,Golden Bites 1459,Healthy_Bowls,KR_Puram,3.54,315,248,25,20,8.46,0,1053,10
+rest_1461,Paradise Bowl 1460,Italian,Marathahalli,3.29,26,179,17,15,6.1,0,57,20
+rest_1462,Spice Kitchen 1461,Italian,Domlur,3.01,324,139,19,17,4.32,1,567,18
+rest_1463,Paradise Factory 1462,Street_Food,Marathahalli,4.77,3716,1100,45,21,3.92,0,12250,17
+rest_1464,Wok Studio 1463,Thai,Bommanahalli,4.22,285,216,34,20,7.56,0,1004,9
+rest_1465,Spice Palace 1464,Street_Food,BTM_Layout,3.24,1113,547,30,11,10.53,0,2449,15
+rest_1466,Golden Studio 1465,Continental,Indiranagar,4.28,766,541,35,14,6.29,0,2350,16
+rest_1467,Desi Bowl 1466,Healthy_Bowls,Yelahanka,3.55,654,205,21,12,9.37,0,2474,16
+rest_1468,Bombay House 1467,Italian,Electronic_City,3.51,1274,415,33,19,5.4,0,3600,15
+rest_1469,Royal Delight 1468,Japanese,Domlur,4.48,374,241,26,10,0.67,0,865,8
+rest_1470,Brahmin Hut 1469,Mexican,Rajajinagar,3.99,55,329,43,19,1.91,0,93,18
+rest_1471,Brahmin Lab 1470,South_Indian,Electronic_City,3.39,475,223,25,18,8.58,0,988,13
+rest_1472,Grill Corner 1471,Mexican,Bommanahalli,3.08,34,153,16,19,6.79,0,63,13
+rest_1473,Urban Express 1472,Mexican,Marathahalli,3.23,107,316,27,12,0.92,1,247,8
+rest_1474,Masala Hut 1473,Biryani,Jayanagar,3.82,15,91,32,17,0.62,0,44,13
+rest_1475,Vidyarthi Diner 1474,Fast_Food,Yeshwanthpur,3.97,130,113,28,8,5.98,0,492,8
+rest_1476,Tandoor Plate 1475,Desserts,Rajajinagar,3.7,804,438,35,23,10.81,0,2708,20
+rest_1477,Fresh Hut 1476,Mexican,Hebbal,4.28,1476,409,23,19,10.23,0,3842,17
+rest_1478,Blue_Tokai Diner 1477,Japanese,Domlur,4.23,3017,624,33,28,11.07,0,8903,9
+rest_1479,Masala Hub 1478,Pizza,HSR_Layout,3.87,1472,254,21,14,11.35,0,2683,17
+rest_1480,Wok Point 1479,Japanese,Old_Airport_Road,3.2,345,132,31,8,2.31,0,560,13
+rest_1481,Desi Kitchen 1480,Street_Food,Bellandur,3.03,16,109,40,8,11.22,0,47,8
+rest_1482,Paradise Hub 1481,South_Indian,Yeshwanthpur,3.65,244,227,32,18,6.16,0,460,20
+rest_1483,Oven Bowl 1482,Biryani,Yelahanka,3.14,203,214,35,17,2.3,1,344,20
+rest_1484,Delhi Bites 1483,Chinese,BTM_Layout,4.46,851,453,35,15,5.33,0,2482,10
+rest_1485,Vidyarthi House 1484,Street_Food,Yelahanka,3.91,1331,486,36,15,10.21,1,3946,13
+rest_1486,Paradise Bowl 1485,Thai,Domlur,2.83,177,205,32,18,4.96,0,535,20
+rest_1487,Vidyarthi Plate 1486,South_Indian,Electronic_City,3.23,110,274,15,13,5.04,0,360,19
+rest_1488,Bowl Factory 1487,Fast_Food,Yeshwanthpur,3.72,148,204,16,12,4.37,0,266,9
+rest_1489,Urban Diner 1488,Pizza,Domlur,4.63,342,1048,40,26,6.21,0,732,11
+rest_1490,Nandhini Point 1489,Italian,Old_Airport_Road,3.51,431,90,34,13,1.09,0,779,8
+rest_1491,Fresh Studio 1490,Italian,Yeshwanthpur,2.61,365,156,17,19,8.02,0,577,17
+rest_1492,Veena Factory 1491,Thai,HSR_Layout,3.26,677,244,34,25,0.78,0,1684,15
+rest_1493,Momo Eatery 1492,Pizza,Domlur,2.56,65,121,15,15,10.57,0,216,17
+rest_1494,Bombay Eatery 1493,Street_Food,Jayanagar,4.01,584,226,44,22,8.92,0,1370,8
+rest_1495,Royal Palace 1494,South_Indian,Yelahanka,4.47,1438,407,43,10,1.48,0,5682,15
+rest_1496,Paradise Garden 1495,Biryani,Malleshwaram,4.45,1121,354,42,15,6.8,0,3150,10
+rest_1497,Chai Grill 1496,Pizza,JP_Nagar,3.68,822,440,23,23,1.4,0,3056,13
+rest_1498,Veena Junction 1497,Pizza,Hebbal,3.53,112,179,16,8,1.25,0,278,13
+rest_1499,Oven Junction 1498,Desserts,Indiranagar,4.37,1083,1187,49,27,7.85,0,2575,14
+rest_1500,Desi Hub 1499,Thai,Whitefield,3.56,398,199,27,8,2.58,0,1440,14
