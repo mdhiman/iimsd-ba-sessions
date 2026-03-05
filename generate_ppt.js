@@ -102,11 +102,11 @@ function addSessionDivider(sessionNum, title, subtitle) {
   });
 }
 
-function addCaseStudyDivider(caseNum, title, company) {
+function addUseCaseDivider(caseNum, title, company) {
   const slide = pptx.addSlide();
   addGradientBg(slide, "0D1B2A", "1B3A4B");
   
-  slide.addText(`CASE STUDY ${caseNum}`, {
+  slide.addText(`INDUSTRIAL USE CASE ${caseNum}`, {
     x: 1, y: 2.0, w: 11, h: 0.5,
     fontSize: 16, fontFace: FONT.accent, color: C.accent,
     bold: true, letterSpacing: 6,
@@ -382,7 +382,7 @@ function jupyterWorkflowSlide(title, tasks) {
     fill: { color: C.accent },
   });
   
-  slide.addText("4 Sessions  •  12 Case Studies  •  Real-World Business Impact", {
+  slide.addText("4 Sessions  •  12 Industrial Use Cases  •  Real-World Business Impact", {
     x: 1, y: 4.5, w: 11, h: 0.5,
     fontSize: 15, fontFace: FONT.body, color: C.lightBlue,
   });
@@ -449,8 +449,8 @@ function jupyterWorkflowSlide(title, tasks) {
       x: xPos + 0.2, y: 4.3, w: 1.5, h: 0.02,
       fill: { color: C.lightGray },
     });
-    // Case studies label
-    slide.addText("Case Studies:", {
+    // Industrial use cases label
+    slide.addText("Industrial Use Cases:", {
       x: xPos + 0.2, y: 4.5, w: 2.5, h: 0.3,
       fontSize: 10, fontFace: FONT.accent, color: s.color, bold: true,
     });
@@ -557,8 +557,8 @@ bulletSlide("Why Sorting Matters in Business Systems", [
   });
 }
 
-// ── CASE STUDY 2: IPL ──
-addCaseStudyDivider(2, "IPL Auction Player Ranking", "Indian Premier League (Cricket)");
+// ── INDUSTRIAL USE CASE 2: IPL ──
+addUseCaseDivider(2, "IPL Auction Player Ranking", "Indian Premier League (Cricket)");
 
 twoColumnSlide(
   "IPL Auction: ₹4,000 Cr Decisions in 48 Hours",
@@ -592,7 +592,7 @@ bulletSlide("Analytical Mapping: Multi-Criteria Sorting", [
   "Real Impact: In 2023, teams using analytics-driven sorting won 23% more matches than those relying on expert intuition alone",
 ], { accentColor: C.teal });
 
-datasetSlide("Case Study 2: Dataset Structure", [
+datasetSlide("Industrial Use Case 2: Dataset Structure", [
   ["player_name", "string", "Full name of the cricketer"],
   ["strike_rate", "float", "Career T20 strike rate (runs per 100 balls)"],
   ["batting_avg", "float", "Career T20 batting average"],
@@ -611,8 +611,8 @@ jupyterWorkflowSlide("Jupyter Notebook Tasks — IPL Auction", [
   "Visualize: scatter plot of value-for-money (score/price ratio) vs absolute score",
 ]);
 
-// ── CASE STUDY 3: Amazon ──
-addCaseStudyDivider(3, "Amazon Product Search Ranking", "Amazon.com");
+// ── INDUSTRIAL USE CASE 3: Amazon ──
+addUseCaseDivider(3, "Amazon Product Search Ranking", "Amazon.com");
 
 twoColumnSlide(
   "Amazon: 8.5 Billion Searches/Day, Every Result Sorted",
@@ -635,7 +635,7 @@ twoColumnSlide(
   ],
 );
 
-datasetSlide("Case Study 3: Amazon Product Dataset", [
+datasetSlide("Industrial Use Case 3: Amazon Product Dataset", [
   ["product_id", "string", "Unique ASIN identifier"],
   ["category", "category", "Electronics | Books | Clothing | Home | Sports | etc."],
   ["avg_rating", "float", "Average customer rating (1-5 stars)"],
@@ -703,8 +703,8 @@ twoColumnSlide(
   ],
 );
 
-// ── CASE STUDY 1: Microsoft Supply Chain ──
-addCaseStudyDivider(1, "Microsoft Global Supply Chain\nNetwork Optimization", "Microsoft Corporation");
+// ── INDUSTRIAL USE CASE 1: Microsoft Supply Chain ──
+addUseCaseDivider(1, "Microsoft Global Supply Chain\nNetwork Optimization", "Microsoft Corporation");
 
 twoColumnSlide(
   "Microsoft Supply Chain: A $200B+ Network",
@@ -726,7 +726,7 @@ twoColumnSlide(
   ],
 );
 
-datasetSlide("Case Study 1: Supply Chain Dataset", [
+datasetSlide("Industrial Use Case 1: Supply Chain Dataset", [
   ["source", "string", "Origin node (e.g., 'Supplier_Taiwan_A')"],
   ["destination", "string", "Destination node (e.g., 'Factory_Ireland')"],
   ["cost", "float", "Transport cost per unit in USD"],
@@ -745,8 +745,8 @@ jupyterWorkflowSlide("Jupyter Notebook Tasks — Supply Chain Graph", [
   "Generate disruption report: % cost increase, SLA breach count, affected product lines",
 ]);
 
-// ── CASE STUDY 2: Cricket Partnership ──
-addCaseStudyDivider(2, "Cricket Partnership Network\nAnalysis", "Indian Premier League");
+// ── INDUSTRIAL USE CASE 2: Cricket Partnership ──
+addUseCaseDivider(2, "Cricket Partnership Network\nAnalysis", "Indian Premier League");
 
 twoColumnSlide(
   "Cricket Partnership Graph: Data-Driven Team Building",
@@ -770,7 +770,7 @@ twoColumnSlide(
   ],
 );
 
-datasetSlide("Case Study 2: Partnership Dataset", [
+datasetSlide("Industrial Use Case 2: Partnership Dataset", [
   ["player_a", "string", "First player in the partnership"],
   ["player_b", "string", "Second player in the partnership"],
   ["runs_together", "int", "Total runs scored while both were batting"],
@@ -788,8 +788,8 @@ jupyterWorkflowSlide("Jupyter Notebook Tasks — Partnership Network", [
   "Visualize: force-directed graph with communities color-coded",
 ]);
 
-// ── CASE STUDY 3: Google Maps ──
-addCaseStudyDivider(3, "Google Maps Route Optimization", "Google (Alphabet)");
+// ── INDUSTRIAL USE CASE 3: Google Maps ──
+addUseCaseDivider(3, "Google Maps Route Optimization", "Google (Alphabet)");
 
 twoColumnSlide(
   "Google Maps: 1 Billion Users, Real-Time Routing",
@@ -812,7 +812,7 @@ twoColumnSlide(
   ],
 );
 
-datasetSlide("Case Study 3: Google Maps Dataset", [
+datasetSlide("Industrial Use Case 3: Google Maps Dataset", [
   ["source", "string", "Origin location"],
   ["destination", "string", "Destination location"],
   ["distance_km", "float", "Road segment distance in km"],
@@ -879,8 +879,8 @@ twoColumnSlide(
   ],
 );
 
-// ── CASE STUDY 1: Netflix ──
-addCaseStudyDivider(1, "Netflix User Segmentation\n& Retention Strategy", "Netflix Inc.");
+// ── INDUSTRIAL USE CASE 1: Netflix ──
+addUseCaseDivider(1, "Netflix User Segmentation\n& Retention Strategy", "Netflix Inc.");
 
 twoColumnSlide(
   "Netflix: 247M Subscribers, 190 Countries, 1 Algorithm",
@@ -903,7 +903,7 @@ twoColumnSlide(
   ],
 );
 
-datasetSlide("Case Study 1: Netflix Dataset", [
+datasetSlide("Industrial Use Case 1: Netflix Dataset", [
   ["user_id", "string", "Unique anonymous user identifier"],
   ["avg_watch_hours", "float", "Average daily watch hours (0-12)"],
   ["genre_diversity_score", "float", "0.0 (one genre only) to 1.0 (watches all genres)"],
@@ -923,8 +923,8 @@ jupyterWorkflowSlide("Jupyter Notebook Tasks — Netflix Segmentation", [
   "Name each cluster with a business persona (e.g., 'Binge Watcher', 'Casual Browser')",
 ]);
 
-// ── CASE STUDY 2: IPL Fan Segmentation ──
-addCaseStudyDivider(2, "IPL Fan Segmentation\n& Revenue Optimization", "Indian Premier League");
+// ── INDUSTRIAL USE CASE 2: IPL Fan Segmentation ──
+addUseCaseDivider(2, "IPL Fan Segmentation\n& Revenue Optimization", "Indian Premier League");
 
 twoColumnSlide(
   "IPL: 500M+ Viewers, ₹50,000 Cr Media Rights",
@@ -947,7 +947,7 @@ twoColumnSlide(
   ],
 );
 
-datasetSlide("Case Study 2: IPL Fan Dataset", [
+datasetSlide("Industrial Use Case 2: IPL Fan Dataset", [
   ["fan_id", "string", "Unique anonymous fan identifier"],
   ["match_attendance", "int", "Number of stadium matches attended per season"],
   ["merchandise_spend", "float", "Annual merchandise spending in ₹"],
@@ -966,8 +966,8 @@ jupyterWorkflowSlide("Jupyter Notebook Tasks — IPL Fan Segmentation", [
   "Design targeted campaign for each segment with specific channel + message + offer",
 ]);
 
-// ── CASE STUDY 3: Spotify ──
-addCaseStudyDivider(3, "Spotify Listener Segmentation", "Spotify Technology");
+// ── INDUSTRIAL USE CASE 3: Spotify ──
+addUseCaseDivider(3, "Spotify Listener Segmentation", "Spotify Technology");
 
 twoColumnSlide(
   "Spotify: 615M Users, Personalization at Scale",
@@ -990,7 +990,7 @@ twoColumnSlide(
   ],
 );
 
-datasetSlide("Case Study 3: Spotify Dataset", [
+datasetSlide("Industrial Use Case 3: Spotify Dataset", [
   ["user_id", "string", "Unique listener identifier"],
   ["daily_listen_hours", "float", "Average daily listening time"],
   ["genre_diversity", "float", "0.0 (one genre) to 1.0 (all genres)"],
@@ -1061,8 +1061,8 @@ twoColumnSlide(
   { accentColor: C.red }
 );
 
-// ── CASE STUDY 1: Loan Approval ──
-addCaseStudyDivider(1, "Loan Approval Model\nCredit Risk Classification", "Banking / Financial Services");
+// ── INDUSTRIAL USE CASE 1: Loan Approval ──
+addUseCaseDivider(1, "Loan Approval Model\nCredit Risk Classification", "Banking / Financial Services");
 
 twoColumnSlide(
   "Credit Risk: $4.2 Trillion in Global Loans at Stake",
@@ -1086,7 +1086,7 @@ twoColumnSlide(
   ],
 );
 
-datasetSlide("Case Study 1: Loan Dataset", [
+datasetSlide("Industrial Use Case 1: Loan Dataset", [
   ["credit_score", "int", "FICO score (300-850)"],
   ["income", "float", "Annual income in USD"],
   ["loan_amount", "float", "Requested loan amount in USD"],
@@ -1106,8 +1106,8 @@ jupyterWorkflowSlide("Jupyter Notebook Tasks — Loan Approval", [
   "ROC curve analysis: find optimal threshold that minimizes total business cost",
 ]);
 
-// ── CASE STUDY 2: Churn Prediction ──
-addCaseStudyDivider(2, "Churn Prediction\nSaaS Platform (Azure)", "Microsoft (Azure SaaS)");
+// ── INDUSTRIAL USE CASE 2: Churn Prediction ──
+addUseCaseDivider(2, "Churn Prediction\nSaaS Platform (Azure)", "Microsoft (Azure SaaS)");
 
 twoColumnSlide(
   "SaaS Churn: Every 1% Reduction = $100M+ in ARR",
@@ -1131,7 +1131,7 @@ twoColumnSlide(
   ],
 );
 
-datasetSlide("Case Study 2: SaaS Churn Dataset", [
+datasetSlide("Industrial Use Case 2: SaaS Churn Dataset", [
   ["customer_id", "string", "Unique enterprise customer identifier"],
   ["login_frequency_30d", "int", "Logins in last 30 days"],
   ["support_tickets_90d", "int", "Support tickets in last 90 days"],
@@ -1152,8 +1152,8 @@ jupyterWorkflowSlide("Jupyter Notebook Tasks — Churn Prediction", [
   "Simulation: if model catches 80% of churners 60 days early, calculate retention campaign ROI",
 ]);
 
-// ── CASE STUDY 3: Credit Card Fraud ──
-addCaseStudyDivider(3, "Credit Card Fraud Detection", "Visa / Mastercard");
+// ── INDUSTRIAL USE CASE 3: Credit Card Fraud ──
+addUseCaseDivider(3, "Credit Card Fraud Detection", "Visa / Mastercard");
 
 twoColumnSlide(
   "Credit Card Fraud: $32 Billion/Year Global Problem",
@@ -1176,7 +1176,7 @@ twoColumnSlide(
   ],
 );
 
-datasetSlide("Case Study 3: Credit Card Fraud Dataset", [
+datasetSlide("Industrial Use Case 3: Credit Card Fraud Dataset", [
   ["transaction_id", "string", "Unique transaction identifier"],
   ["amount", "float", "Transaction amount in USD"],
   ["hour_of_day", "int", "Hour when transaction occurred (0-23)"],

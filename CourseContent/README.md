@@ -1,6 +1,6 @@
 # 📚 DSA & ML for Business — Course Content
 
-## 4 Sessions | 8 Case Studies | CG1 + CG3 Aligned | MBA Rigor
+## 4 Sessions | 8 Industrial Use Cases | CG1 + CG3 Aligned | MBA Rigor
 
 ---
 
@@ -62,7 +62,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn networkx
 
 ## 📊 Session Overview
 
-| Session | Topic | Case Studies | Key Algorithms |
+| Session | Topic | Industrial Use Cases | Key Algorithms |
 |---------|-------|-------------|----------------|
 | 1 | Sorting & Prioritization | LinkedIn Feed, IPL Auction | Selection, Insertion, QuickSort |
 | 2 | Graphs & Networks | Microsoft Supply Chain, Cricket Partnerships | Dijkstra, BFS, Centrality |
