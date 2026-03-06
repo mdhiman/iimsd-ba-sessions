@@ -31,10 +31,12 @@ right algorithms, and present a **board-ready turnaround plan**.
 ### Problem 1: "Customers Can't Find Good Food Fast" — Restaurant Ranking
 > **Impact: 40% search drop-off rate**
 
-The current search results are sorted by restaurant name alphabetically.
-Customers are abandoning search results because they can't find relevant,
-high-quality restaurants quickly. Every second of delay costs the platform
-₹2.3 Lakh/day in lost orders.
+The current search results are ranked solely by **proximity** — the nearest
+restaurant appears first, regardless of ratings, cuisine match, or delivery
+speed. This is how the platform launched 3 years ago and it was never updated.
+Customers scroll past mediocre nearby options and abandon the app before
+finding what they want. Internal data shows a **40% search drop-off rate**,
+costing the platform ₹2.3 Lakh/day in lost orders.
 
 **Your task:** Build a **multi-criteria ranking engine** that surfaces the best
 restaurants for each search query. Compare sorting algorithms at scale.
@@ -49,7 +51,7 @@ restaurants for each search query. Compare sorting algorithms at scale.
 
 Delivery partners are using suboptimal routes between zones. The platform has
 no real-time routing intelligence. During rain or peak hours, delivery times
-balloon to 60+ minutes, causing cancellations and 1-star ratings.
+balloon to 60+ minutes, triggering refund requests and 1-star ratings.
 
 **Your task:** Model Bengaluru's delivery network as a **graph** and find
 optimal routes. Identify **critical bottleneck zones** whose failure would
@@ -77,20 +79,25 @@ specific channel, message, and offer — and calculate the ROI.
 
 ---
 
-### Problem 4: "18% of Orders Get Cancelled" — Cancellation Prediction
-> **Impact: ₹3.2 Cr/month in food waste + delivery partner idle time**
+### Problem 4: "18% of Orders Arrive Late" — Delivery Delay Prediction
+> **Impact: ₹3.2 Cr/month in refunds + customer churn**
 
-Nearly 1 in 5 orders is cancelled after the kitchen starts preparing. This
-causes **food waste** (₹180 avg per cancelled order), **delivery partner idle time**
-(₹50 per idle trip), and **customer dissatisfaction**. The operations team needs
-a way to **predict cancellations before they happen** and intervene proactively.
+Nearly 1 in 5 orders **breaches the promised delivery time** (ETA). Customers
+expect delivery in 30–35 minutes, but late orders arrive 45–60+ minutes later.
+Each late delivery triggers **refund requests** (₹120 avg per late order),
+**1-star ratings** that tank restaurant partner scores, and worst of all —
+**customer churn**. Internal data shows 35% of customers who receive 2+ late
+orders in a month **never order again**. The operations team needs to **predict
+delays before they happen** so they can intervene — reassign riders, extend
+ETAs proactively, or prioritize high-value orders.
 
 **Your task:** Build a **classification model** to predict which orders will be
-cancelled. Optimize the model using a **business cost matrix** — because a missed
-cancellation (food wasted) costs far more than a false alarm (calling the customer).
+delivered late. Optimize the model using a **business cost matrix** — because a
+missed delay (angry customer → refund → potential churn) costs far more than a
+false alarm (proactively reassigning a delivery partner).
 
 - **Skills Applied:** Decision Tree, Random Forest, SGD Classifier, ROC analysis, Cost matrix optimization
-- **Dataset:** `orders.csv` — 10,000 orders with features like distance, time, weather, surge pricing
+- **Dataset:** `orders.csv` — 10,000 orders with features like distance, time of day, weather, surge pricing, restaurant prep time
 
 ---
 
@@ -101,7 +108,7 @@ cancellation (food wasted) costs far more than a false alarm (calling the custom
 | `restaurants.csv` | 1,500 | rating, reviews, delivery time, price, zone | Sorting |
 | `delivery_network.csv` | ~160 edges | distance, travel time, traffic, road type | Graphs |
 | `customers.csv` | 5,000 | order history, frequency, complaints, payment | Segmentation |
-| `orders.csv` | 10,000 | value, distance, hour, rain, surge, cancellation | Classification |
+| `orders.csv` | 10,000 | value, distance, hour, rain, surge, is_late, prep_time | Classification |
 
 ---
 
@@ -122,9 +129,9 @@ cancellation (food wasted) costs far more than a false alarm (calling the custom
 - Profile each segment with a persona name
 - Design targeted campaigns and calculate expected ROI
 
-### Phase 4: Order Cancellation Predictor (Session 4 Skills)
-- Train classification models
-- Apply cost matrix: missed cancellation = ₹230, false alarm = ₹30
+### Phase 4: Delivery Delay Predictor (Session 4 Skills)
+- Train classification models to predict late deliveries
+- Apply cost matrix: missed delay = ₹270 (refund + churn risk), false alarm = ₹30 (rider reassignment)
 - Find the optimal threshold and estimate monthly savings
 
 ### Phase 5: The Board Presentation ⭐
